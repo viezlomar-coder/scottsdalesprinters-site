@@ -1,0 +1,268 @@
+# Scottsdale Sprinters — generated at build by src/prerender/robots.ts
+Sitemap: https://scottsdalesprinters.com/sitemap.xml
+
+# Search engines
+User-agent: Googlebot
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
+
+User-agent: Bingbot
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
+
+User-agent: Applebot
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
+
+# Social previews
+User-agent: Twitterbot
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
+
+User-agent: facebookexternalhit
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
+
+User-agent: LinkedInBot
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
+
+# Machine-readable API: https://scottsdalesprinters.com/openapi.json · MCP: https://scottsdalesprinters.com/.well-known/mcp.json
+
+# AI crawlers and answer engines: welcome. Content is public; see https://scottsdalesprinters.com/llms.txt and https://scottsdalesprinters.com/llms-full.txt.
+User-agent: GPTBot
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
+
+User-agent: ChatGPT-User
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
+
+User-agent: ClaudeBot
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
+
+User-agent: Claude-Web
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
+
+User-agent: anthropic-ai
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
+
+User-agent: PerplexityBot
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
+
+User-agent: Perplexity-User
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
+
+User-agent: Google-Extended
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
+
+User-agent: Applebot-Extended
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
+
+User-agent: Bytespider
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
+
+User-agent: CCBot
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
+
+# Everyone else
+User-agent: *
+Allow: /
+Disallow: /portal
+Disallow: /auth
+Disallow: /onboarding
+Disallow: /saved
+Disallow: /shared/
+Disallow: /confirmation
+Disallow: /invite/
+Disallow: /mockup/
+Disallow: /pay/
+Disallow: /l/
