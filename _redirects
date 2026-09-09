@@ -126,6 +126,9 @@
 /services/spring-training-transportation  /experiences/spring-training  301
 /services/super-bowl-transportation  /experiences/concert-stadium  301
 /services/valentines-day-limo  /services/scottsdale-chauffeur-service  301
+/fleet/party-bus-20-scottsdale  /fleet  301
+/fleet/party-bus-30-scottsdale  /fleet  301
+/fleet/xl-party-bus-35-scottsdale  /fleet  301
 
 # App routes with a per-guest token: no static file exists, so serve the shell.
 /pay/*  /index.html  200
