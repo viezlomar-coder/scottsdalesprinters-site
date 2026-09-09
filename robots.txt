@@ -94,8 +94,6 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 
-# Machine-readable API: https://scottsdalesprinters.com/openapi.json · MCP: https://scottsdalesprinters.com/.well-known/mcp.json
-
 # AI crawlers and answer engines: welcome. Content is public; see https://scottsdalesprinters.com/llms.txt and https://scottsdalesprinters.com/llms-full.txt.
 User-agent: GPTBot
 Allow: /

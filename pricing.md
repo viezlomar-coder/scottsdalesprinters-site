@@ -4,7 +4,7 @@ All rates are hourly with a chauffeur included. No hidden fees — taxes only.
 
 | Vehicle | Seats | Hourly | Minimum | Transfer there | Return later |
 | --- | --- | --- | --- | --- | --- |
-| Maybach Jet Sprinter | 10 | $295/hr | 4h | $550 | $550 |
+| Maybach Jet Sprinter | 9 | $295/hr | 4h | $550 | $550 |
 | Ultra Luxury Party Sprinter | 15 | $250/hr | 4h | $425 | $425 |
 | Limo Party Sprinter (16 Pax) | 16 | $175/hr | 4h | $325 | $325 |
 | Limo Party Sprinter (12-13 Pax) | 13 | $175/hr | 4h | $325 | $295 |
@@ -17,8 +17,8 @@ All rates are hourly with a chauffeur included. No hidden fees — taxes only.
 | Luxury SUV (Suburban) | 6 | $125/hr | 4h | $225 | $225 |
 | Executive Mini Bus — Grech (27 Pax) | 27 | $225/hr | 4h | $550 | $550 |
 | 56-Passenger Motorcoach | 56 | $325/hr | 5h | $1,250 | $1,250 |
-| Pink Hummer Limo | 22 | $295/hr | 4h | $650 | $650 |
-| Chrysler Limo | 10 | $150/hr | 4h | $350 | $350 |
+| Pink Hummer Limo | 18 | $295/hr | 4h | $650 | $650 |
+| Chrysler Limo | 8 | $150/hr | 4h | $350 | $350 |
 | Maybach Shuttle Sprinter | 8 | $195/hr | 4h | $395 | $395 |
 | Party Bus (20 Pax) | 20 | $225/hr | 4h | $495 | $495 |
 | Party Bus (30 Pax) | 30 | $275/hr | 4h | $650 | $650 |
