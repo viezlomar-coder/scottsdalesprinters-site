@@ -11,7 +11,6 @@ All rates are hourly with a chauffeur included. No hidden fees — taxes only.
 | Executive Black Sprinter | 14 | $145/hr | 4h | $295 | $295 |
 | Executive White Sprinter | 14 | $145/hr | 4h | $295 | $295 |
 | Party Bus (28 Pax) | 28 | $250/hr | 4h | $550 | $550 |
-| XL Party Bus (35 Pax) | 35 | $295/hr | 4h | $750 | $750 |
 | Mini Bus (24 Pax) | 24 | $185/hr | 4h | $450 | $450 |
 | Executive Mini Coach (29 Pax) | 29 | $225/hr | 4h | $550 | $550 |
 | Luxury SUV (Suburban) | 6 | $125/hr | 4h | $225 | $225 |
@@ -20,8 +19,6 @@ All rates are hourly with a chauffeur included. No hidden fees — taxes only.
 | Pink Hummer Limo | 18 | $295/hr | 4h | $650 | $650 |
 | Chrysler Limo | 8 | $150/hr | 4h | $350 | $350 |
 | Maybach Shuttle Sprinter | 8 | $195/hr | 4h | $395 | $395 |
-| Party Bus (20 Pax) | 20 | $225/hr | 4h | $495 | $495 |
-| Party Bus (30 Pax) | 30 | $275/hr | 4h | $650 | $650 |
 
 ## Rules
 
