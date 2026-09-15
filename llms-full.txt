@@ -107,9 +107,6 @@ Generated: 2026-09-15. Canonical site: https://scottsdalesprinters.com. Indexabl
 ### Scottsdale Chauffeur Service | SUV, Sprinter & Bus
 - URL: https://scottsdalesprinters.com/services/scottsdale-chauffeur-service
 - Choose a Scottsdale chauffeur service by exact SUV, Sprinter, mini bus, or party bus, then set the working hours and route.
-### Scottsdale Executive Minibus & Group Shuttle
-- URL: https://scottsdalesprinters.com/services/scottsdale-executive-minibus-group-shuttle
-- Compare Scottsdale's published 26- and 29-passenger executive buses for corporate, wedding, conference, and group shuttle transportation.
 ### Scottsdale Nightlife Transportation
 - URL: https://scottsdalesprinters.com/services/scottsdale-nightlife-transportation
 - Plan Scottsdale nightlife transportation for Old Town dinners, confirmed venues, and a scheduled group return with a professional chauffeur.
@@ -122,6 +119,9 @@ Generated: 2026-09-15. Canonical site: https://scottsdalesprinters.com. Indexabl
 ### Scottsdale Corporate & Convention Transportation
 - URL: https://scottsdalesprinters.com/services/corporate-transportation-scottsdale
 - Plan Scottsdale corporate and convention transportation for airport arrivals, hotel shuttles, client movements, conferences, dinners, and team events.
+### Scottsdale Executive Minibus & Group Shuttle
+- URL: https://scottsdalesprinters.com/services/scottsdale-executive-minibus-group-shuttle
+- Compare Scottsdale's published 24- and 29-passenger executive buses for corporate, wedding, conference, and group shuttle transportation.
 ### Bachelorette Party Sprinter Van Scottsdale
 - URL: https://scottsdalesprinters.com/services/bachelorette-party-sprinter-scottsdale
 - Compare chauffeur-driven Scottsdale Sprinters and buses for bachelorette pool plans, dinner, Old Town nightlife, pickups, and group returns.
@@ -482,11 +482,11 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/services/phoenix-scottsdale-to-sedona-private-transportation
 - https://scottsdalesprinters.com/services/phoenix-sprinter-van-service
 - https://scottsdalesprinters.com/services/scottsdale-chauffeur-service
-- https://scottsdalesprinters.com/services/scottsdale-executive-minibus-group-shuttle
 - https://scottsdalesprinters.com/services/scottsdale-nightlife-transportation
 - https://scottsdalesprinters.com/services/sedona-day-trip-sprinter-van
 - https://scottsdalesprinters.com/services/scottsdale-party-bus-rental
 - https://scottsdalesprinters.com/services/corporate-transportation-scottsdale
+- https://scottsdalesprinters.com/services/scottsdale-executive-minibus-group-shuttle
 - https://scottsdalesprinters.com/services/bachelorette-party-sprinter-scottsdale
 - https://scottsdalesprinters.com/services/wedding-transportation-scottsdale
 - https://scottsdalesprinters.com/services/bachelor-party-transportation-scottsdale
@@ -596,8 +596,8 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/blog/pet-friendly-car-service-phoenix
 - https://scottsdalesprinters.com/blog/child-car-seat-limo-policy
 - https://scottsdalesprinters.com/blog/last-minute-limo-booking-phoenix
-- https://scottsdalesprinters.com/blog/what-to-ask-before-booking-limo
 - https://scottsdalesprinters.com/blog/oktoberfest-phoenix-transportation
+- https://scottsdalesprinters.com/blog/what-to-ask-before-booking-limo
 - https://scottsdalesprinters.com/blog/corporate-event-transportation-checklist
 - https://scottsdalesprinters.com/blog/bachelor-party-planning-scottsdale
 - https://scottsdalesprinters.com/blog/bachelorette-party-scottsdale-guide
@@ -611,27 +611,27 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/blog/queen-creek-san-tan-transportation
 - https://scottsdalesprinters.com/blog/apache-junction-gold-canyon-transportation
 - https://scottsdalesprinters.com/blog/fourth-of-july-celebrations-scottsdale-fireworks-transportation
-- https://scottsdalesprinters.com/blog/graduation-limo-phoenix
 - https://scottsdalesprinters.com/blog/memorial-day-weekend-arizona-lake-transportation
+- https://scottsdalesprinters.com/blog/graduation-limo-phoenix
 - https://scottsdalesprinters.com/blog/cinco-de-mayo-transportation-phoenix
 - https://scottsdalesprinters.com/blog/corporate-retreat-planning-scottsdale-transportation-logistics
 - https://scottsdalesprinters.com/blog/luxury-transportation-paradise-valley-exclusive-guide
-- https://scottsdalesprinters.com/blog/st-patricks-day-transportation-phoenix
 - https://scottsdalesprinters.com/blog/arizona-brewery-tours-transportation
+- https://scottsdalesprinters.com/blog/st-patricks-day-transportation-phoenix
 - https://scottsdalesprinters.com/blog/scottsdale-wedding-transportation-planning
 - https://scottsdalesprinters.com/blog/phoenix-sky-harbor-airport-transfer-guide
 - https://scottsdalesprinters.com/blog/desert-botanical-garden-events-transportation-guide
 - https://scottsdalesprinters.com/blog/top-golf-courses-scottsdale-transportation
 - https://scottsdalesprinters.com/blog/best-wineries-visit-sedona-verde-valley
 - https://scottsdalesprinters.com/blog/medium-group-transportation-corporate-events
-- https://scottsdalesprinters.com/blog/arizona-renaissance-festival-transportation
 - https://scottsdalesprinters.com/blog/small-group-executive-transportation-phoenix
+- https://scottsdalesprinters.com/blog/arizona-renaissance-festival-transportation
 - https://scottsdalesprinters.com/blog/spring-training-transportation-arizona
-- https://scottsdalesprinters.com/blog/corporate-transportation-large-groups-arizona
 - https://scottsdalesprinters.com/blog/valentines-day-limo-scottsdale
+- https://scottsdalesprinters.com/blog/corporate-transportation-large-groups-arizona
 - https://scottsdalesprinters.com/blog/gem-show-tucson-transportation
-- https://scottsdalesprinters.com/blog/waste-management-phoenix-open-transportation
 - https://scottsdalesprinters.com/blog/party-bus-rental-phoenix-complete-guide
+- https://scottsdalesprinters.com/blog/waste-management-phoenix-open-transportation
 - https://scottsdalesprinters.com/blog/super-bowl-phoenix-transportation
 - https://scottsdalesprinters.com/blog/ultimate-guide-scottsdale-limo-service
 - https://scottsdalesprinters.com/blog/barrett-jackson-transportation
