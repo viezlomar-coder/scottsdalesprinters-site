@@ -89,9 +89,6 @@ Generated: 2026-09-15. Canonical site: https://scottsdalesprinters.com. Indexabl
 ### Birthday Party Sprinter Van Scottsdale
 - URL: https://scottsdalesprinters.com/services/birthday-party-sprinter-van-scottsdale
 - Plan Scottsdale birthday transportation around the guest list, cabin style, dinner, activities, and a clear return schedule.
-### Scottsdale Corporate & Convention Transportation
-- URL: https://scottsdalesprinters.com/services/corporate-transportation-scottsdale
-- Plan Scottsdale corporate and convention transportation for airport arrivals, hotel shuttles, client movements, conferences, dinners, and team events.
 ### Scottsdale Golf Transportation
 - URL: https://scottsdalesprinters.com/services/golf-outing-sprinter-van-scottsdale
 - Plan Scottsdale golf transportation around players, clubs, coolers, tee times, and courses. Compare vehicles for one day or a full itinerary.
@@ -122,6 +119,9 @@ Generated: 2026-09-15. Canonical site: https://scottsdalesprinters.com. Indexabl
 ### Scottsdale Party Bus Rental
 - URL: https://scottsdalesprinters.com/services/scottsdale-party-bus-rental
 - Compare the Scottsdale 28-passenger party bus by rate, minimum time, seating and route, and request availability online.
+### Scottsdale Corporate & Convention Transportation
+- URL: https://scottsdalesprinters.com/services/corporate-transportation-scottsdale
+- Plan Scottsdale corporate and convention transportation for airport arrivals, hotel shuttles, client movements, conferences, dinners, and team events.
 ### Bachelorette Party Sprinter Van Scottsdale
 - URL: https://scottsdalesprinters.com/services/bachelorette-party-sprinter-scottsdale
 - Compare chauffeur-driven Scottsdale Sprinters and buses for bachelorette pool plans, dinner, Old Town nightlife, pickups, and group returns.
@@ -154,9 +154,6 @@ Generated: 2026-09-15. Canonical site: https://scottsdalesprinters.com. Indexabl
 ### Brewery & Distillery Crawl
 - URL: https://scottsdalesprinters.com/experiences/brewery-crawl
 - Choose two or three currently operating breweries or distilleries in one area, book any required reservations directly, and submit the confirmed stops for transportation review.
-### Concert & Stadium Events
-- URL: https://scottsdalesprinters.com/experiences/concert-stadium
-- Plan group transportation to State Farm Stadium, Chase Field, Mortgage Matchup Center, Desert Diamond Arena, or another confirmed venue around its current drop-off rules and a scheduled return.
 ### Corporate Event
 - URL: https://scottsdalesprinters.com/experiences/corporate-event
 - Coordinate executive arrivals, conference movements, client dinners, and team events around one documented transportation plan.
@@ -178,6 +175,9 @@ Generated: 2026-09-15. Canonical site: https://scottsdalesprinters.com. Indexabl
 ### Quinceañera Transportation
 - URL: https://scottsdalesprinters.com/experiences/quinceanera-transportation
 - Church, photos and reception entrance with the court together. Published hourly rates $125–$325, court-sized fleet across Scottsdale and Phoenix.
+### Concert & Stadium Events
+- URL: https://scottsdalesprinters.com/experiences/concert-stadium
+- Plan group transportation to State Farm Stadium, Chase Field, Mortgage Matchup Center, Desert Diamond Arena, or another confirmed venue around its current drop-off rules and a scheduled return.
 ### Wedding Transportation
 - URL: https://scottsdalesprinters.com/experiences/wedding-transportation
 - Coordinate hotel pickups, wedding-party movement, guest shuttles, photo stops, and the final departure from one clear transportation schedule.
@@ -476,7 +476,6 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/fleet/maybach-shuttle-sprinter-8
 - https://scottsdalesprinters.com/services
 - https://scottsdalesprinters.com/services/birthday-party-sprinter-van-scottsdale
-- https://scottsdalesprinters.com/services/corporate-transportation-scottsdale
 - https://scottsdalesprinters.com/services/golf-outing-sprinter-van-scottsdale
 - https://scottsdalesprinters.com/services/phoenix-airport-sprinter-van
 - https://scottsdalesprinters.com/services/phoenix-mesa-gateway-airport-group-transportation
@@ -487,6 +486,7 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/services/scottsdale-nightlife-transportation
 - https://scottsdalesprinters.com/services/sedona-day-trip-sprinter-van
 - https://scottsdalesprinters.com/services/scottsdale-party-bus-rental
+- https://scottsdalesprinters.com/services/corporate-transportation-scottsdale
 - https://scottsdalesprinters.com/services/bachelorette-party-sprinter-scottsdale
 - https://scottsdalesprinters.com/services/wedding-transportation-scottsdale
 - https://scottsdalesprinters.com/services/bachelor-party-transportation-scottsdale
@@ -498,7 +498,6 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/experiences/bachelorette-party
 - https://scottsdalesprinters.com/experiences/birthday-celebration
 - https://scottsdalesprinters.com/experiences/brewery-crawl
-- https://scottsdalesprinters.com/experiences/concert-stadium
 - https://scottsdalesprinters.com/experiences/corporate-event
 - https://scottsdalesprinters.com/experiences/country-thunder
 - https://scottsdalesprinters.com/experiences/golf-outing
@@ -506,6 +505,7 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/experiences/phoenix-nightlife
 - https://scottsdalesprinters.com/experiences/prom-night
 - https://scottsdalesprinters.com/experiences/quinceanera-transportation
+- https://scottsdalesprinters.com/experiences/concert-stadium
 - https://scottsdalesprinters.com/experiences/wedding-transportation
 - https://scottsdalesprinters.com/experiences/wm-phoenix-open
 - https://scottsdalesprinters.com/tours
