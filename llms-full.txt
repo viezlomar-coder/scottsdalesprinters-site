@@ -116,12 +116,12 @@ Generated: 2026-09-15. Canonical site: https://scottsdalesprinters.com. Indexabl
 ### Scottsdale Nightlife Transportation
 - URL: https://scottsdalesprinters.com/services/scottsdale-nightlife-transportation
 - Plan Scottsdale nightlife transportation for Old Town dinners, confirmed venues, and a scheduled group return with a professional chauffeur.
-### Scottsdale Party Bus Rental | 28 & 35 Passenger Buses
-- URL: https://scottsdalesprinters.com/services/scottsdale-party-bus-rental
-- Compare Scottsdale party buses for 28 or 35 guests by rate, minimum time, seating, route, and request availability online.
 ### Sedona Day Trip Sprinter Van from Scottsdale
 - URL: https://scottsdalesprinters.com/services/sedona-day-trip-sprinter-van
 - Plan private Sedona transportation from Scottsdale. Compare vehicles, realistic timing, viewpoints, and optional Verde Valley stops.
+### Scottsdale Party Bus Rental
+- URL: https://scottsdalesprinters.com/services/scottsdale-party-bus-rental
+- Compare the Scottsdale 28-passenger party bus by rate, minimum time, seating and route, and request availability online.
 ### Bachelorette Party Sprinter Van Scottsdale
 - URL: https://scottsdalesprinters.com/services/bachelorette-party-sprinter-scottsdale
 - Compare chauffeur-driven Scottsdale Sprinters and buses for bachelorette pool plans, dinner, Old Town nightlife, pickups, and group returns.
@@ -485,8 +485,8 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/services/scottsdale-chauffeur-service
 - https://scottsdalesprinters.com/services/scottsdale-executive-minibus-group-shuttle
 - https://scottsdalesprinters.com/services/scottsdale-nightlife-transportation
-- https://scottsdalesprinters.com/services/scottsdale-party-bus-rental
 - https://scottsdalesprinters.com/services/sedona-day-trip-sprinter-van
+- https://scottsdalesprinters.com/services/scottsdale-party-bus-rental
 - https://scottsdalesprinters.com/services/bachelorette-party-sprinter-scottsdale
 - https://scottsdalesprinters.com/services/wedding-transportation-scottsdale
 - https://scottsdalesprinters.com/services/bachelor-party-transportation-scottsdale
