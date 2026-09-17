@@ -2,7 +2,7 @@
 
 > Every public fact about Scottsdale Sprinters in one document: the fleet with seated capacities and hourly rates, the services, experiences and day tours we sell, how pricing works, the policies, the house rules, the FAQ and how to reach a person. Generated at build from the same data as https://scottsdalesprinters.com/sitemap.xml.
 
-Generated: 2026-09-17. Canonical site: https://scottsdalesprinters.com. Indexable pages: 198.
+Generated: 2026-09-17. Canonical site: https://scottsdalesprinters.com. Indexable pages: 200.
 
 ## The business
 
@@ -665,6 +665,7 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/guides/party-bus-alcohol-laws-arizona
 - https://scottsdalesprinters.com/guides/party-bus-vs-limo-vs-sprinter
 - https://scottsdalesprinters.com/guides/how-much-does-a-party-bus-cost-scottsdale
+- https://scottsdalesprinters.com/guides/charter-bus-rental-scottsdale
 - https://scottsdalesprinters.com/guides/venues/footprint-center
 - https://scottsdalesprinters.com/guides/venues/chase-field
 - https://scottsdalesprinters.com/guides/venues/state-farm-stadium
@@ -680,3 +681,4 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/guides/venues/grand-hyatt-scottsdale-resort
 - https://scottsdalesprinters.com/guides/country-thunder-transportation
 - https://scottsdalesprinters.com/guides/fiesta-bowl-transportation
+- https://scottsdalesprinters.com/guides/phoenix-airport-to-scottsdale
