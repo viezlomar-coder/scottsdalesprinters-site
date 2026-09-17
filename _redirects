@@ -1,5 +1,5 @@
 # Generated at build by src/prerender/redirects.ts — do not edit by hand.
-# Retired service-area ZIP doorways (P1g), stale blog catalog links (T46) and blog clusters (P2f) → canonical pages.
+# Retired ZIP doorways (P1g), stale blog catalog links (T46), retired catalog services and blog clusters (P2f) → canonical pages.
 /service-areas  /service-area  301
 /service-area/85006  /service-areas/phoenix  301
 /service-area/85008  /service-areas/phoenix  301
@@ -108,7 +108,7 @@
 /services/airport-transportation  /services/phoenix-airport-sprinter-van  301
 /fleet/party-bus  /fleet/party-bus-28-scottsdale  301
 /fleet/party-bus-scottsdale  /fleet/party-bus-28-scottsdale  301
-/experiences/sedona-day-trip-transportation  /services/sedona-day-trip-sprinter-van  301
+/experiences/sedona-day-trip-transportation  /tours/sedona-red-rocks  301
 /experiences/arizona-wine-country-tour  /tours/verde-valley-wine-country  301
 /experiences/sedona-wine-tour-transportation  /tours/verde-valley-wine-country  301
 /services/wedding-limo-scottsdale  /services/wedding-transportation-scottsdale  301
@@ -126,6 +126,8 @@
 /services/spring-training-transportation  /experiences/spring-training  301
 /services/super-bowl-transportation  /experiences/concert-stadium  301
 /services/valentines-day-limo  /services/scottsdale-chauffeur-service  301
+/services/sedona-day-trip-sprinter-van  /tours/sedona-red-rocks  301
+/services/sedona-day-trip-sprinter-van/book  /tours/sedona-red-rocks  301
 /fleet/party-bus-20-scottsdale  /fleet  301
 /fleet/party-bus-30-scottsdale  /fleet  301
 /fleet/xl-party-bus-35-scottsdale  /fleet  301
