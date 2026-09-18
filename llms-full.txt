@@ -2,7 +2,7 @@
 
 > Every public fact about Scottsdale Sprinters in one document: the fleet with seated capacities and hourly rates, the services, experiences and day tours we sell, how pricing works, the policies, the house rules, the FAQ and how to reach a person. Generated at build from the same data as https://scottsdalesprinters.com/sitemap.xml.
 
-Generated: 2026-09-18. Canonical site: https://scottsdalesprinters.com. Indexable pages: 206.
+Generated: 2026-09-18. Canonical site: https://scottsdalesprinters.com. Indexable pages: 207.
 
 ## The business
 
@@ -285,9 +285,11 @@ Every price we quote is before tax. Arizona sales tax of 8% is added at checkout
 A 50% deposit confirms the reservation and holds the vehicle. The remaining balance is charged automatically to the card on file two days before pickup. A card that declines may cost you the reservation, so tell us in advance if it needs to be replaced.
 
 #### 5. House rules and fees
-The full house rules are on the ride rules page. Two of them carry a fee:
+The full house rules are on the ride rules page. Three of them carry a fee:
 Smoking or vaping, $1,500. The smell does not leave the cabin, so the vehicle comes off the road.
-Excessive spills or a biohazard clean, $450. Minor spills are never charged; a deep clean after someone is sick is $450.
+An excessive spill, $450. Minor spills are never charged.
+A biohazard clean, $450. The deep clean after someone is sick.
+One more fee is not a house rule at all: on a transfer, each stop beyond the pickup and the drop-off is $50. An hourly or daily charter has already bought the time, so its stops add nothing.
 Passengers are expected to treat the chauffeur and the vehicle with respect. Illegal substances and drinking under 21 are prohibited, and the chauffeur may end a trip that becomes unsafe.
 
 #### 6. Damage authorization
@@ -685,3 +687,4 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/guides/pink-party-bus-scottsdale
 - https://scottsdalesprinters.com/guides/scottsdale-bachelor-party-weekend
 - https://scottsdalesprinters.com/guides/wedding-shuttle-bus-scottsdale
+- https://scottsdalesprinters.com/guides/what-is-a-motorcoach
