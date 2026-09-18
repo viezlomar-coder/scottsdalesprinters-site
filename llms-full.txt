@@ -2,7 +2,7 @@
 
 > Every public fact about Scottsdale Sprinters in one document: the fleet with seated capacities and hourly rates, the services, experiences and day tours we sell, how pricing works, the policies, the house rules, the FAQ and how to reach a person. Generated at build from the same data as https://scottsdalesprinters.com/sitemap.xml.
 
-Generated: 2026-09-18. Canonical site: https://scottsdalesprinters.com. Indexable pages: 204.
+Generated: 2026-09-18. Canonical site: https://scottsdalesprinters.com. Indexable pages: 205.
 
 ## The business
 
@@ -418,7 +418,7 @@ Monthly invoicing with PO and cost-center fields is available — ask reservatio
 Charters are priced by the hour: the vehicle's published hourly rate multiplied by your billable hours. There is no per-mile charge, no service fee and no booking fee. Arizona sales tax of 8% is added at checkout, and gratuity is optional.
 
 #### Is there a minimum number of hours?
-Yes. Every vehicle has a four-hour minimum on an hourly charter, except the 56-passenger motorcoach, which is five. Airport and point-to-point transfers are priced as a flat trip instead, with no hourly minimum.
+Yes. Every vehicle has a four-hour minimum on an hourly charter, except the 56-passenger motorcoach, which is five. Airport and point-to-point transfers are priced as a trip instead, with no hourly minimum: flat within 15 road miles from pickup to drop-off, and beyond that priced from the drive, with the empty return included and the basis shown on the quote.
 
 #### Do longer bookings cost less per hour?
 Longer bookings earn free hours rather than a discount code. Book 7 to 11 hours and one hour is free; 12 to 14 hours and two are free; 15 hours or more and three are free. The free hours come off your billable hours automatically.
@@ -683,3 +683,4 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/guides/phoenix-charter-bus-rental
 - https://scottsdalesprinters.com/guides/phoenix-car-service
 - https://scottsdalesprinters.com/guides/pink-party-bus-scottsdale
+- https://scottsdalesprinters.com/guides/scottsdale-bachelor-party-weekend
