@@ -2,7 +2,7 @@
 
 > Every public fact about Scottsdale Sprinters in one document: the fleet with seated capacities and hourly rates, the services, experiences and day tours we sell, how pricing works, the policies, the house rules, the FAQ and how to reach a person. Generated at build from the same data as https://scottsdalesprinters.com/sitemap.xml.
 
-Generated: 2026-09-24. Canonical site: https://scottsdalesprinters.com. Indexable pages: 230.
+Generated: 2026-09-24. Canonical site: https://scottsdalesprinters.com. Indexable pages: 227.
 
 ## The business
 
@@ -592,7 +592,6 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/blog/arizona-diamondbacks-chase-field-transportation
 - https://scottsdalesprinters.com/blog/arizona-golf-transportation-course-shuttle-guide
 - https://scottsdalesprinters.com/blog/beat-the-heat-summer-transportation-arizona
-- https://scottsdalesprinters.com/blog/can-you-drink-on-a-party-bus-in-arizona
 - https://scottsdalesprinters.com/blog/cave-creek-wedding-transportation-desert-venue-logistics
 - https://scottsdalesprinters.com/blog/chandler-corporate-shuttle-tech-corridor-transportation
 - https://scottsdalesprinters.com/blog/christmas-lights-tour-transportation-phoenix
@@ -638,9 +637,7 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/blog/barrett-jackson-car-auction-transportation
 - https://scottsdalesprinters.com/blog/corporate-transportation-scottsdale-executive-guide
 - https://scottsdalesprinters.com/blog/gilbert-prom-limo-teen-event-transportation-guide
-- https://scottsdalesprinters.com/blog/how-much-does-limo-cost-phoenix
 - https://scottsdalesprinters.com/blog/phoenix-nightlife-transportation-safe-night-out
-- https://scottsdalesprinters.com/blog/what-size-party-bus-do-i-need
 - https://scottsdalesprinters.com/blog/party-bus-scottsdale-ultimate-guide
 - https://scottsdalesprinters.com/blog/limo-service-phoenix-complete-guide
 - https://scottsdalesprinters.com/blog/charter-bus-phoenix-large-groups

@@ -1,5 +1,5 @@
 # Generated at build by src/prerender/redirects.ts — do not edit by hand.
-# Retired ZIP doorways (P1g), stale blog catalog links (T46), retired catalog services and blog clusters (P2f) → canonical pages.
+# Retired ZIP doorways (P1g), stale blog catalog links (T46), retired catalog services and blog clusters (P2f), old URLs Google still crawls → canonical pages.
 /service-areas  /service-area  301
 /service-area/85006  /service-areas/phoenix  301
 /service-area/85008  /service-areas/phoenix  301
@@ -126,14 +126,29 @@
 /services/spring-training-transportation  /experiences/spring-training  301
 /services/super-bowl-transportation  /experiences/concert-stadium  301
 /services/valentines-day-limo  /services/scottsdale-chauffeur-service  301
+/blog/how-much-does-limo-cost-phoenix  /guides/how-much-does-a-party-bus-cost-scottsdale  301
+/blog/last-minute-limo-booking-phoenix  /guides/how-much-does-a-party-bus-cost-scottsdale  301
+/blog/can-you-drink-on-a-party-bus-in-arizona  /guides/party-bus-alcohol-laws-arizona  301
+/blog/what-size-party-bus-do-i-need  /guides/how-many-people-fit-in-a-party-bus  301
+/blog/nightlife-transportation-old-town-scottsdale  /services/scottsdale-nightlife-transportation  301
+/blog/black-car-service-scottsdale  /services/scottsdale-chauffeur-service  301
+/blog/cave-creek-carefree-transportation  /service-areas/cave-creek  301
 /services/sedona-day-trip-sprinter-van  /tours/sedona-red-rocks  301
 /services/sedona-day-trip-sprinter-van/book  /tours/sedona-red-rocks  301
 /fleet/party-bus-20-scottsdale  /fleet  301
 /fleet/party-bus-30-scottsdale  /fleet  301
 /fleet/xl-party-bus-35-scottsdale  /fleet  301
+/services/homecoming-limo  /experiences/homecoming-transportation  301
+/blog-posts/chauffeur-services-refined-enhancing-business-trip-quality  /services/scottsdale-chauffeur-service  301
+/vehicles/race-ready-precision-the-sprinters-car  /fleet  301
+/experience/kayaking-lake-escape  /tours/lake-pleasant  301
+/experience/scenic-hiking-trail  /tours/superstition-mountains  301
+/experience/wildlife-safari-experience  /tours/saguaro-desert-sunset  301
+/experience/mountain-biking-journey  /tours  301
+/experience/cultural-food-tour  /tours  301
+/experience/adventure-zipline-tour  /tours  301
 /blog/best-time-book-wedding-transportation  /blog/wedding-transportation-phoenix-complete-planning-guide  301
 /blog/limo-vs-uber-phoenix  /blog/phoenix-nightlife-transportation-safe-night-out  301
-/blog/last-minute-limo-booking-phoenix  /blog/how-much-does-limo-cost-phoenix  301
 /blog/airport-pickup-tips-phoenix  /blog/phoenix-sky-harbor-airport-transportation-options  301
 /blog/airport-transportation-phoenix-guide  /blog/phoenix-sky-harbor-airport-transportation-options  301
 /blog/phoenix-sky-harbor-airport-transfer-guide  /blog/phoenix-sky-harbor-airport-transportation-options  301
@@ -146,12 +161,9 @@
 /blog/bachelor-party-planning-scottsdale  /blog/bachelor-party-scottsdale-ultimate-planning-guide  301
 /blog/corporate-transportation-phoenix-business-travel  /blog/corporate-transportation-scottsdale-executive-guide  301
 /blog/sprinter-van-rental-arizona  /blog/sprinter-van-rental-arizona-group-transportation  301
-/blog/nightlife-transportation-old-town-scottsdale  /blog/phoenix-nightlife-transportation-safe-night-out  301
 /blog/golf-transportation-scottsdale  /blog/arizona-golf-transportation-course-shuttle-guide  301
-/blog/black-car-service-scottsdale  /blog/luxury-car-service-phoenix-premium-transportation  301
 /blog/wine-tour-transportation-sedona  /blog/wine-tours-sedona-verde-valley-guide  301
 /blog/best-wineries-visit-sedona-verde-valley  /blog/wine-tours-sedona-verde-valley-guide  301
-/blog/cave-creek-carefree-transportation  /blog/cave-creek-wedding-transportation-desert-venue-logistics  301
 /blog/fountain-hills-transportation  /blog/fountain-hills-event-transportation-complete-guide  301
 /blog/mesa-gateway-airport-transportation  /blog/mesa-airport-transportation-east-valley-sky-harbor-guide  301
 /blog/waste-management-phoenix-open-transportation  /blog/wm-phoenix-open-transportation-guide  301
