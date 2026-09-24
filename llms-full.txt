@@ -2,7 +2,7 @@
 
 > Every public fact about Scottsdale Sprinters in one document: the fleet with seated capacities and hourly rates, the services, experiences and day tours we sell, how pricing works, the policies, the house rules, the FAQ and how to reach a person. Generated at build from the same data as https://scottsdalesprinters.com/sitemap.xml.
 
-Generated: 2026-09-24. Canonical site: https://scottsdalesprinters.com. Indexable pages: 228.
+Generated: 2026-09-24. Canonical site: https://scottsdalesprinters.com. Indexable pages: 230.
 
 ## The business
 
@@ -628,13 +628,20 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/blog/westgate-entertainment-district-sports-shows-transportation
 - https://scottsdalesprinters.com/blog/wine-tours-sedona-verde-valley-guide
 - https://scottsdalesprinters.com/blog/wm-phoenix-open-transportation-guide
-- https://scottsdalesprinters.com/blog/corporate-transportation-phoenix-business-travel
+- https://scottsdalesprinters.com/blog/arabian-horse-show-transportation-scottsdale-westworld
+- https://scottsdalesprinters.com/blog/bachelor-party-scottsdale-ultimate-planning-guide
+- https://scottsdalesprinters.com/blog/bachelorette-party-scottsdale-planning-guide
+- https://scottsdalesprinters.com/blog/barrett-jackson-car-auction-transportation
+- https://scottsdalesprinters.com/blog/corporate-transportation-scottsdale-executive-guide
+- https://scottsdalesprinters.com/blog/gilbert-prom-limo-teen-event-transportation-guide
+- https://scottsdalesprinters.com/blog/how-much-does-limo-cost-phoenix
+- https://scottsdalesprinters.com/blog/phoenix-nightlife-transportation-safe-night-out
+- https://scottsdalesprinters.com/blog/what-size-party-bus-do-i-need
 - https://scottsdalesprinters.com/blog/party-bus-scottsdale-ultimate-guide
 - https://scottsdalesprinters.com/blog/limo-service-phoenix-complete-guide
 - https://scottsdalesprinters.com/blog/charter-bus-phoenix-large-groups
 - https://scottsdalesprinters.com/blog/prom-limo-phoenix-guide
 - https://scottsdalesprinters.com/blog/concert-transportation-phoenix
-- https://scottsdalesprinters.com/blog/nightlife-transportation-old-town-scottsdale
 - https://scottsdalesprinters.com/blog/birthday-limo-phoenix
 - https://scottsdalesprinters.com/blog/fiesta-bowl-transportation
 - https://scottsdalesprinters.com/blog/phoenix-to-tucson-transportation
@@ -642,7 +649,6 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/blog/tempe-transportation-asu-events
 - https://scottsdalesprinters.com/blog/how-to-tip-limo-driver
 - https://scottsdalesprinters.com/blog/what-to-bring-party-bus
-- https://scottsdalesprinters.com/blog/limo-vs-uber-phoenix
 - https://scottsdalesprinters.com/blog/how-many-passengers-fit-stretch-limo
 - https://scottsdalesprinters.com/blog/party-bus-safety-tips
 - https://scottsdalesprinters.com/blog/corporate-car-service-benefits
@@ -650,12 +656,9 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/blog/arizona-state-fair-transportation
 - https://scottsdalesprinters.com/blog/pet-friendly-car-service-phoenix
 - https://scottsdalesprinters.com/blog/child-car-seat-limo-policy
-- https://scottsdalesprinters.com/blog/last-minute-limo-booking-phoenix
 - https://scottsdalesprinters.com/blog/what-to-ask-before-booking-limo
 - https://scottsdalesprinters.com/blog/oktoberfest-phoenix-transportation
 - https://scottsdalesprinters.com/blog/corporate-event-transportation-checklist
-- https://scottsdalesprinters.com/blog/bachelor-party-planning-scottsdale
-- https://scottsdalesprinters.com/blog/bachelorette-party-scottsdale-guide
 - https://scottsdalesprinters.com/blog/downtown-phoenix-transportation-guide
 - https://scottsdalesprinters.com/blog/chandler-gilbert-transportation
 - https://scottsdalesprinters.com/blog/glendale-transportation-events
@@ -678,7 +681,6 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/blog/gem-show-tucson-transportation
 - https://scottsdalesprinters.com/blog/party-bus-rental-phoenix-complete-guide
 - https://scottsdalesprinters.com/blog/ultimate-guide-scottsdale-limo-service
-- https://scottsdalesprinters.com/blog/barrett-jackson-transportation
 - https://scottsdalesprinters.com/guides
 - https://scottsdalesprinters.com/guides/party-bus-alcohol-laws-arizona
 - https://scottsdalesprinters.com/guides/party-bus-vs-limo-vs-sprinter
