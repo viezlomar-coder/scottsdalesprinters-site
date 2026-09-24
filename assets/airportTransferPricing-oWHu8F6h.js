@@ -1,0 +1,1 @@
+import{t as n}from"./index-DhCoLfvX.js";import{o as t}from"./catalogPricing-D7Q4aZRZ.js";const a=new Set(["phoenix-airport-sprinter-van","airport-vip-transfer"]);function f(r){return!!r&&a.has(r)}function s(r){return n[r].transferOneWayCents}function p(r){const e=t(r);return{slug:e.vehicleSlug,transferOneWayCents:s(e.vehicleSlug)}}export{p as d,f as i,s as t};
