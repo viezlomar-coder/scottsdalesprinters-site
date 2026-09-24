@@ -14,6 +14,7 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
 
 User-agent: Bingbot
 Allow: /
@@ -27,6 +28,7 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
 
 User-agent: DuckDuckBot
 Allow: /
@@ -40,6 +42,7 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
 
 User-agent: Applebot
 Allow: /
@@ -53,6 +56,7 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
 
 # Social previews
 User-agent: Twitterbot
@@ -67,6 +71,7 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
 
 User-agent: facebookexternalhit
 Allow: /
@@ -80,6 +85,7 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
 
 User-agent: LinkedInBot
 Allow: /
@@ -93,6 +99,7 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
 
 # AI crawlers and answer engines: welcome. Content is public; see https://scottsdalesprinters.com/llms.txt and https://scottsdalesprinters.com/llms-full.txt.
 User-agent: GPTBot
@@ -107,6 +114,7 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
 
 User-agent: OAI-SearchBot
 Allow: /
@@ -120,6 +128,7 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
 
 User-agent: ChatGPT-User
 Allow: /
@@ -133,6 +142,7 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
 
 User-agent: ClaudeBot
 Allow: /
@@ -146,6 +156,7 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
 
 User-agent: Claude-Web
 Allow: /
@@ -159,6 +170,7 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
 
 User-agent: anthropic-ai
 Allow: /
@@ -172,6 +184,7 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
 
 User-agent: PerplexityBot
 Allow: /
@@ -185,6 +198,7 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
 
 User-agent: Perplexity-User
 Allow: /
@@ -198,6 +212,7 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
 
 User-agent: Google-Extended
 Allow: /
@@ -211,6 +226,7 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
 
 User-agent: Applebot-Extended
 Allow: /
@@ -224,6 +240,7 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
 
 User-agent: Bytespider
 Allow: /
@@ -237,6 +254,7 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
 
 User-agent: CCBot
 Allow: /
@@ -250,6 +268,7 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
 
 # Everyone else
 User-agent: *
@@ -264,3 +283,4 @@ Disallow: /invite/
 Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
+Disallow: /office
