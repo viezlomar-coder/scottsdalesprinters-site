@@ -22,10 +22,11 @@ Generated: 2026-09-24. Canonical site: https://scottsdalesprinters.com. Indexabl
 
 ## How pricing works
 
-- Every vehicle is booked by the hour at a published hourly rate ($125–$325) with a published minimum number of hours. There is no per-seat pricing.
+- Scottsdale Sprinters books every vehicle by the hour at a published hourly rate ($125–$325) with a published minimum number of hours. There is no per-seat pricing.
 - How the rest settles depends on how you pay: on a card, a 50% deposit holds the date and your written confirmation sets out the balance and its timing; paying in full at checkout leaves nothing else due before your ride; a payment link from the reservations desk opens that same checkout.
 - Arizona sales tax of 8% is added at checkout. There is no booking fee, no service charge and no fuel surcharge. Gratuity is optional.
 - Published rates and minimums per vehicle: https://scottsdalesprinters.com/pricing
+- Cost per person at full load, with tax, for every vehicle: https://scottsdalesprinters.com/guides/how-much-does-a-party-bus-cost-scottsdale
 
 ## Fleet
 
@@ -406,7 +407,7 @@ Source: https://scottsdalesprinters.com/faq
 ### Booking and reservations
 
 #### How do I book a vehicle?
-Choose a vehicle, pick your date and pickup time, add any stops, and confirm. You get an emailed confirmation with the details straight away. If you would rather talk it through, call or text (623) 986-6339 or email reservations@scottsdalesprinters.com.
+Book Scottsdale Sprinters online: choose a vehicle, pick your date and pickup time, add any stops, and confirm. You get an emailed confirmation with the details straight away. If you would rather talk it through, call or text (623) 986-6339 or email reservations@scottsdalesprinters.com.
 
 #### How far in advance should I book?
 Availability varies by date and by vehicle. Request a current quote for your date and we confirm in writing what is open.
@@ -418,7 +419,7 @@ Book online any hour. Quotes answered 8am–8pm Arizona time, seven days; rides 
 Yes. Ask us 72 or more hours before pickup and we'll move your date once, free, subject to availability — your deposit travels to the new date and the new date's rate applies. Inside 72 hours a date change is treated as a cancellation. Time, pickup address and vehicle changes are handled by the reservations team at any time, subject to availability.
 
 #### What payment methods do you accept?
-All major credit cards — Visa, Mastercard, American Express and Discover — plus Apple Pay and Google Pay at checkout.
+Scottsdale Sprinters accepts all major credit cards — Visa, Mastercard, American Express and Discover — plus Apple Pay and Google Pay at checkout.
 
 #### Do you set up corporate accounts?
 Monthly invoicing with PO and cost-center fields is available — ask reservations at reservations@scottsdalesprinters.com.
@@ -426,31 +427,31 @@ Monthly invoicing with PO and cost-center fields is available — ask reservatio
 ### Pricing and minimums
 
 #### How is pricing determined?
-Charters are priced by the hour: the vehicle's published hourly rate multiplied by your billable hours. There is no per-mile charge, no service fee and no booking fee. Arizona sales tax of 8% is added at checkout, and gratuity is optional.
+Scottsdale Sprinters prices charters by the hour: the vehicle's published hourly rate multiplied by your billable hours, from $125 to $325 an hour across the fleet. There is no per-mile charge, no service fee and no booking fee. Arizona sales tax of 8% is added at checkout, and gratuity is optional.
 
 #### Is there a minimum number of hours?
-Yes. Every vehicle has a four-hour minimum on an hourly charter, except the 56-passenger motorcoach, which is five. Airport and point-to-point transfers are priced as a trip instead, with no hourly minimum: flat within 15 road miles from pickup to drop-off, and beyond that priced from the drive, with the empty return included and the basis shown on the quote.
+Yes: every Scottsdale Sprinters vehicle has a 4-hour minimum on an hourly charter, except the 56-passenger motorcoach, which has a 5-hour minimum. Airport and point-to-point transfers are priced as a trip instead, with no hourly minimum: flat within 15 road miles from pickup to drop-off, and beyond that priced from the drive, with the empty return included and the basis shown on the quote.
 
 #### Do longer bookings cost less per hour?
-Longer bookings earn free hours rather than a discount code. Book 7 to 11 hours and one hour is free; 12 to 14 hours and two are free; 15 hours or more and three are free. The free hours come off your billable hours automatically.
+Yes: Scottsdale Sprinters bookings of 7 hours or more earn free hours that come off your billable hours automatically. Book 7 to 11 hours and one hour is free; 12 to 14 hours and two are free; 15 hours or more and three are free.
 
 #### How much is the deposit?
 It depends on how you pay, and you choose that at checkout. How the rest settles depends on how you pay: on a card, a 50% deposit holds the date and your written confirmation sets out the balance and its timing; paying in full at checkout leaves nothing else due before your ride; a payment link from the reservations desk opens that same checkout.
 
 #### What is added at checkout?
-Arizona sales tax of 8% is the only thing added to the quoted fare. There is no service charge, fuel surcharge or booking fee. One promo code can be applied per booking, capped at 10%.
+Arizona sales tax of 8% is the only thing Scottsdale Sprinters adds to the quoted fare. There is no service charge, fuel surcharge or booking fee. One promo code can be applied per booking, capped at 10%.
 
 #### Do extra stops cost anything?
-An added stop on a transfer or a round trip is $50. On an hourly charter stops are complimentary — you have already bought the time.
+Only on a transfer or round trip, where each added stop is $50. On an hourly charter stops are complimentary — you have already bought the time.
 
 #### Is a round trip cheaper than two transfers?
-Yes. Book the return leg with the outbound leg and the return is 20% off.
+Yes: book the return leg together with the outbound leg and Scottsdale Sprinters takes 20% off the return.
 
 #### Is gratuity included?
 Gratuity is optional, is never added automatically, and goes 100% to your chauffeur — add it at checkout or hand it over in person.
 
 #### Do your rates change with the season?
-The pricing page shows the current published hourly rates and vehicle minimums, and every date is quoted from that table — including the major-event dates named in the cancellation policy. Arizona sales tax of 8% is added at checkout. Availability varies by date and by vehicle. Request a current quote for your date and we confirm in writing what is open.
+Scottsdale Sprinters quotes every date from one published hourly rate table, including the major-event dates named in the cancellation policy; the pricing page shows the current rates and vehicle minimums. Arizona sales tax of 8% is added at checkout. Availability varies by date and by vehicle. Request a current quote for your date and we confirm in writing what is open.
 
 ### Cancellations and refunds
 
@@ -458,7 +459,7 @@ The pricing page shows the current published hourly rates and vehicle minimums, 
 Cancel 14 or more days before pickup and you get a full refund. Between 72 hours and 14 days we keep the deposit and refund the rest; inside 72 hours the reservation is non-refundable. Large groups, party buses and weddings (20+ passengers or two or more vehicles) get a full refund 30 or more days out and keep-the-deposit terms down to 14 days. Major-event dates — Barrett-Jackson Scottsdale, WM Phoenix Open, Cactus League spring training weekend, New Year's Eve, Prom weekend — run on a longer window of 60 days, and the deposit there is non-refundable: cancel 60 or more days ahead and the balance is refunded; inside 60 days nothing is refunded. If we ever cancel on our side, you get 100% back.
 
 #### How do I cancel my booking?
-Use the cancellation link in your confirmation email, or call or text (623) 986-6339. We confirm every cancellation in writing.
+Cancel with the link in your Scottsdale Sprinters confirmation email, or call or text (623) 986-6339. We confirm every cancellation in writing.
 
 #### When will I receive my refund?
 Refunds are issued within 3 to 5 business days. Your bank may take another 5 to 10 business days to show it.
@@ -466,27 +467,27 @@ Refunds are issued within 3 to 5 business days. Your bank may take another 5 to 
 ### Vehicles and services
 
 #### What vehicles do you offer?
-The fleet runs from 6 to 56 passengers, and there are no sedans in it: Luxury SUV (Suburban) (seats 6), Chrysler Limo (seats 8), Maybach Shuttle Sprinter (seats 8), Maybach Jet Sprinter (seats 9), Limo Party Sprinter (12-13 Pax) (seats 13), Executive Black Sprinter (seats 14), Executive White Sprinter (seats 14), Ultra Luxury Party Sprinter (seats 15), Limo Party Sprinter (16 Pax) (seats 16), Pink Hummer Limo (seats 18), Mini Bus (24 Pax) (seats 24), Executive Mini Bus — Grech (27 Pax) (seats 27), Party Bus (28 Pax) (seats 28), Executive Mini Coach (29 Pax) (seats 29), 56-Passenger Motorcoach (seats 56). Every vehicle comes with a professional chauffeur.
+Scottsdale Sprinters offers 15 chauffeured vehicles seating 6 to 56 passengers, and no sedans: Luxury SUV (Suburban) (seats 6), Chrysler Limo (seats 8), Maybach Shuttle Sprinter (seats 8), Maybach Jet Sprinter (seats 9), Limo Party Sprinter (12-13 Pax) (seats 13), Executive Black Sprinter (seats 14), Executive White Sprinter (seats 14), Ultra Luxury Party Sprinter (seats 15), Limo Party Sprinter (16 Pax) (seats 16), Pink Hummer Limo (seats 18), Mini Bus (24 Pax) (seats 24), Executive Mini Bus — Grech (27 Pax) (seats 27), Party Bus (28 Pax) (seats 28), Executive Mini Coach (29 Pax) (seats 29), 56-Passenger Motorcoach (seats 56). Every vehicle comes with a professional chauffeur.
 
 #### What comes with the vehicle?
-Bottled water is on board for every ride, and that is the only complimentary amenity. Anything else — a greeter, refreshments, a custom sign, a child seat — is an add-on you choose at checkout, and cabin features vary by vehicle, so check the vehicle page.
+Every Scottsdale Sprinters ride comes with bottled water, and that is the only complimentary amenity. Anything else — a greeter, refreshments, a custom sign, a child seat — is an add-on you choose at checkout, and cabin features vary by vehicle, so check the vehicle page.
 
 #### Can I request specific amenities?
-Ask and we will quote it. Greeters, refreshments, custom signage and child seats are priced add-ons; decorations and anything vehicle-specific are confirmed in writing before payment.
+Yes, as priced add-ons: greeters, refreshments, custom signage and child seats are chosen at checkout, and decorations and anything vehicle-specific are confirmed in writing before payment.
 
 #### Do you offer airport pickup?
-We serve Phoenix Sky Harbor (PHX), Scottsdale Airport (SCF) and Mesa Gateway (AZA). Your chauffeur tracks your flight. An optional greeter meets you at baggage claim with a name sign and helps with your bags for $200 flat on airport transfers, confirmed with your quote.
+Yes: Scottsdale Sprinters picks up at Phoenix Sky Harbor (PHX), Scottsdale Airport (SCF, also coded SDL) and Phoenix-Mesa Gateway (AZA). Your chauffeur tracks your flight. An optional greeter meets you at baggage claim with a name sign and helps with your bags for $200 flat on airport transfers, confirmed with your quote.
 
 ### Safety and chauffeurs
 
 #### Are your chauffeurs licensed and insured?
-They are. Every chauffeur is background and MVR checked, drug screened, trained and experienced, and the company is licensed and insured with commercial coverage on every vehicle.
+Yes: every Scottsdale Sprinters chauffeur is background and MVR checked, drug screened, trained and experienced, and the company is licensed and insured with commercial coverage on every vehicle.
 
 #### How are your vehicles maintained?
-Vehicles are inspected on a maintenance schedule and detailed between every trip, not at the end of the day.
+Scottsdale Sprinters vehicles are inspected on a maintenance schedule and detailed between every trip, not at the end of the day.
 
 #### Are there rules on board?
-A short list: no smoking or vaping, no eating inside the vehicle, no standing on the seats, and no drinking under 21. Three of them carry a fee: $1,500 for smoking or vaping, $450 to deep-clean an excessive spill and $450 for a biohazard clean. An added stop on a transfer is $50. The full house rules are on the ride rules page.
+Yes, a short list: no smoking or vaping, no eating inside the vehicle, no standing on the seats, and no drinking under 21. Three of them carry a fee: $1,500 for smoking or vaping, $450 to deep-clean an excessive spill and $450 for a biohazard clean. An added stop on a transfer is $50. The full house rules are on the ride rules page.
 
 ## Every indexable URL
 

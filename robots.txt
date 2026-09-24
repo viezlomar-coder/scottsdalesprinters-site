@@ -3,7 +3,6 @@ Sitemap: https://scottsdalesprinters.com/sitemap.xml
 
 # Search engines
 User-agent: Googlebot
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -17,9 +16,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: Bingbot
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -33,9 +32,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: DuckDuckBot
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -49,9 +48,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: Applebot
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -65,10 +64,10 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 # Social previews
 User-agent: Twitterbot
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -82,9 +81,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: facebookexternalhit
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -98,9 +97,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: LinkedInBot
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -114,10 +113,10 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 # AI crawlers and answer engines: welcome. Content is public; see https://scottsdalesprinters.com/llms.txt and https://scottsdalesprinters.com/llms-full.txt.
 User-agent: GPTBot
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -131,9 +130,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: OAI-SearchBot
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -147,9 +146,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: ChatGPT-User
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -163,9 +162,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: ClaudeBot
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -179,9 +178,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: Claude-SearchBot
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -195,9 +194,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: Claude-User
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -211,9 +210,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: Claude-Web
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -227,9 +226,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: anthropic-ai
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -243,9 +242,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: PerplexityBot
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -259,9 +258,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: Perplexity-User
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -275,9 +274,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: Google-Extended
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -291,9 +290,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: Applebot-Extended
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -307,9 +306,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: meta-externalagent
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -323,9 +322,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: Amazonbot
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -339,9 +338,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: DuckAssistBot
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -355,9 +354,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: MistralAI-User
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -371,9 +370,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: Bytespider
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -387,9 +386,9 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 User-agent: CCBot
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -403,10 +402,10 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
 
 # Everyone else
 User-agent: *
-Allow: /
 Disallow: /portal
 Disallow: /auth
 Disallow: /onboarding
@@ -420,3 +419,4 @@ Disallow: /l/
 Disallow: /office
 Disallow: /d/
 Disallow: /design-preview
+Allow: /
