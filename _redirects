@@ -131,6 +131,30 @@
 /fleet/party-bus-20-scottsdale  /fleet  301
 /fleet/party-bus-30-scottsdale  /fleet  301
 /fleet/xl-party-bus-35-scottsdale  /fleet  301
+/blog/best-time-book-wedding-transportation  /blog/wedding-transportation-phoenix-complete-planning-guide  301
+/blog/airport-pickup-tips-phoenix  /blog/phoenix-sky-harbor-airport-transportation-options  301
+/blog/airport-transportation-phoenix-guide  /blog/phoenix-sky-harbor-airport-transportation-options  301
+/blog/phoenix-sky-harbor-airport-transfer-guide  /blog/phoenix-sky-harbor-airport-transportation-options  301
+/blog/luxury-transportation-paradise-valley-exclusive-guide  /blog/paradise-valley-limo-service-luxury-transportation  301
+/blog/paradise-valley-transportation  /blog/paradise-valley-limo-service-luxury-transportation  301
+/blog/super-bowl-phoenix-transportation  /blog/super-bowl-transportation-phoenix  301
+/blog/scottsdale-wedding-transportation-planning  /blog/wedding-transportation-phoenix-complete-planning-guide  301
+/blog/wedding-transportation-arizona-complete-guide  /blog/wedding-transportation-phoenix-complete-planning-guide  301
+/blog/sprinter-van-rental-arizona  /blog/sprinter-van-rental-arizona-group-transportation  301
+/blog/golf-transportation-scottsdale  /blog/arizona-golf-transportation-course-shuttle-guide  301
+/blog/black-car-service-scottsdale  /blog/luxury-car-service-phoenix-premium-transportation  301
+/blog/wine-tour-transportation-sedona  /blog/wine-tours-sedona-verde-valley-guide  301
+/blog/best-wineries-visit-sedona-verde-valley  /blog/wine-tours-sedona-verde-valley-guide  301
+/blog/cave-creek-carefree-transportation  /blog/cave-creek-wedding-transportation-desert-venue-logistics  301
+/blog/fountain-hills-transportation  /blog/fountain-hills-event-transportation-complete-guide  301
+/blog/mesa-gateway-airport-transportation  /blog/mesa-airport-transportation-east-valley-sky-harbor-guide  301
+/blog/waste-management-phoenix-open-transportation  /blog/wm-phoenix-open-transportation-guide  301
+/blog/new-years-eve-transportation-scottsdale  /blog/new-years-eve-transportation-scottsdale-phoenix  301
+/blog/christmas-light-tours-phoenix  /blog/christmas-lights-tour-transportation-phoenix  301
+/blog/memorial-day-weekend-arizona-lake-transportation  /blog/memorial-day-weekend-transportation-arizona  301
+/blog/fourth-of-july-celebrations-scottsdale-fireworks-transportation  /blog/fourth-of-july-transportation-phoenix  301
+/blog/phoenix-to-flagstaff-transportation  /blog/flagstaff-day-trip-from-phoenix-mountain-escape-guide  301
+/blog/phoenix-to-sedona-transportation  /blog/sedona-day-trip-from-phoenix-complete-itinerary  301
 
 # App routes with a per-guest token: no static file exists, so serve the shell.
 /pay/*  /index.html  200
