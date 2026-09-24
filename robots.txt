@@ -15,6 +15,7 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
 
 User-agent: Bingbot
@@ -30,6 +31,7 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
 
 User-agent: DuckDuckBot
@@ -45,6 +47,7 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
 
 User-agent: Applebot
@@ -60,6 +63,7 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
 
 # Social previews
@@ -76,6 +80,7 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
 
 User-agent: facebookexternalhit
@@ -91,6 +96,7 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
 
 User-agent: LinkedInBot
@@ -106,6 +112,7 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
 
 # AI crawlers and answer engines: welcome. Content is public; see https://scottsdalesprinters.com/llms.txt and https://scottsdalesprinters.com/llms-full.txt.
@@ -122,6 +129,7 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
 
 User-agent: OAI-SearchBot
@@ -137,6 +145,7 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
 
 User-agent: ChatGPT-User
@@ -152,6 +161,7 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
 
 User-agent: ClaudeBot
@@ -167,6 +177,7 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
 
 User-agent: Claude-Web
@@ -182,6 +193,7 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
 
 User-agent: anthropic-ai
@@ -197,6 +209,7 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
 
 User-agent: PerplexityBot
@@ -212,6 +225,7 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
 
 User-agent: Perplexity-User
@@ -227,6 +241,7 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
 
 User-agent: Google-Extended
@@ -242,6 +257,7 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
 
 User-agent: Applebot-Extended
@@ -257,6 +273,7 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
 
 User-agent: Bytespider
@@ -272,6 +289,7 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
 
 User-agent: CCBot
@@ -287,6 +305,7 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
 
 # Everyone else
@@ -303,4 +322,5 @@ Disallow: /mockup/
 Disallow: /pay/
 Disallow: /l/
 Disallow: /office
+Disallow: /d/
 Disallow: /design-preview
