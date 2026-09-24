@@ -108,30 +108,18 @@ Generated: 2026-09-24. Canonical site: https://scottsdalesprinters.com. Indexabl
 
 ## Services
 
-### Birthday Party Sprinter Van Scottsdale
-- URL: https://scottsdalesprinters.com/services/birthday-party-sprinter-van-scottsdale
-- Plan Scottsdale birthday transportation around the guest list, cabin style, dinner, activities, and a clear return schedule.
 ### Scottsdale Golf Transportation
 - URL: https://scottsdalesprinters.com/services/golf-outing-sprinter-van-scottsdale
 - Plan Scottsdale golf transportation around players, clubs, coolers, tee times, and courses. Compare vehicles for one day or a full itinerary.
-### Phoenix Sky Harbor & SDL Transportation
-- URL: https://scottsdalesprinters.com/services/phoenix-airport-sprinter-van
-- Plan prearranged PHX group transfers or SDL private-aviation pickups around passengers, luggage, flight details, terminal or FBO, and destination.
-### Mesa Gateway Airport Group Transportation
-- URL: https://scottsdalesprinters.com/services/phoenix-mesa-gateway-airport-group-transportation
-- Plan prearranged Mesa Gateway Airport (AZA) group transportation around flight details, passengers, luggage, pickup timing, and destination.
 ### Phoenix & Scottsdale to Sedona Private Transportation
 - URL: https://scottsdalesprinters.com/services/phoenix-scottsdale-to-sedona-private-transportation
 - Plan private chauffeured transportation from Phoenix or Scottsdale to Sedona as a one-way transfer, round trip, or hourly route with vehicle-specific pricing.
 ### Phoenix Sprinter Van Service With Driver
 - URL: https://scottsdalesprinters.com/services/phoenix-sprinter-van-service
 - Compare six chauffeur-driven Phoenix Sprinters by capacity, rate, minimum time, cabin details, photos, route, and request availability online.
-### Scottsdale Chauffeur Service | SUV, Sprinter & Bus
-- URL: https://scottsdalesprinters.com/services/scottsdale-chauffeur-service
-- Choose a Scottsdale chauffeur service by exact SUV, Sprinter, mini bus, or party bus, then set the working hours and route.
-### Scottsdale Nightlife Transportation
-- URL: https://scottsdalesprinters.com/services/scottsdale-nightlife-transportation
-- Plan Scottsdale nightlife transportation for Old Town dinners, confirmed venues, and a scheduled group return with a professional chauffeur.
+### Mesa Gateway Airport Group Transportation
+- URL: https://scottsdalesprinters.com/services/phoenix-mesa-gateway-airport-group-transportation
+- Plan prearranged Mesa Gateway Airport (AZA) group transportation around flight details, passengers, luggage, pickup timing, and destination.
 ### Scottsdale Party Bus Rental
 - URL: https://scottsdalesprinters.com/services/scottsdale-party-bus-rental
 - Compare the Scottsdale 28-passenger party bus by rate, minimum time, seating and route, and request availability online.
@@ -147,6 +135,18 @@ Generated: 2026-09-24. Canonical site: https://scottsdalesprinters.com. Indexabl
 ### Wedding Transportation Scottsdale
 - URL: https://scottsdalesprinters.com/services/wedding-transportation-scottsdale
 - Plan Scottsdale wedding transportation for the couple, wedding party, family, and guests with vehicle-specific routes and professional chauffeurs.
+### Birthday Party Sprinter Van Scottsdale
+- URL: https://scottsdalesprinters.com/services/birthday-party-sprinter-van-scottsdale
+- Plan Scottsdale birthday transportation around the guest list, cabin style, dinner, activities, and a clear return schedule.
+### Phoenix Sky Harbor & SDL Transportation
+- URL: https://scottsdalesprinters.com/services/phoenix-airport-sprinter-van
+- Plan prearranged PHX group transfers or SDL private-aviation pickups around passengers, luggage, flight details, terminal or FBO, and destination.
+### Scottsdale Nightlife Transportation
+- URL: https://scottsdalesprinters.com/services/scottsdale-nightlife-transportation
+- Plan Scottsdale nightlife transportation for Old Town dinners, confirmed venues, and a scheduled group return with a professional chauffeur.
+### Scottsdale Chauffeur Service | SUV, Sprinter & Bus
+- URL: https://scottsdalesprinters.com/services/scottsdale-chauffeur-service
+- Choose a Scottsdale chauffeur service by exact SUV, Sprinter, mini bus, or party bus, then set the working hours and route.
 ### Bachelor Party Transportation Scottsdale
 - URL: https://scottsdalesprinters.com/services/bachelor-party-transportation-scottsdale
 - Plan Scottsdale bachelor party transportation for golf, dinner, nightlife, and group pickups, then request the vehicle and route online.
@@ -161,24 +161,18 @@ Generated: 2026-09-24. Canonical site: https://scottsdalesprinters.com. Indexabl
 ### Airport Group Transfer
 - URL: https://scottsdalesprinters.com/experiences/airport-vip-transfer
 - Plan a prearranged Phoenix Sky Harbor transfer around the flight, terminal, passenger count, luggage, and confirmed pickup procedure.
-### Bachelor Party
-- URL: https://scottsdalesprinters.com/experiences/bachelor-party
-- Connect golf, dinner, and nightlife with one vehicle and one return plan. Choose the cabin style and route around the group’s confirmed reservations.
 ### Bachelorette Party
 - URL: https://scottsdalesprinters.com/experiences/bachelorette-party
 - Keep the group together from the first pickup through dinner, pool plans, and Old Town. Choose a party-style cabin, add the stops that matter, and set one clear return plan before the night begins.
-### Birthday Celebration
-- URL: https://scottsdalesprinters.com/experiences/birthday-celebration
-- Plan a birthday ride around the guest list, dinner, activities, and one scheduled return. Cabin style ranges from quiet executive seating to party lighting for larger celebrations.
 ### Brewery & Distillery Crawl
 - URL: https://scottsdalesprinters.com/experiences/brewery-crawl
 - Choose two or three currently operating breweries or distilleries in one area, book any required reservations directly, and submit the confirmed stops for transportation review.
-### Corporate Event
-- URL: https://scottsdalesprinters.com/experiences/corporate-event
-- Coordinate executive arrivals, conference movements, client dinners, and team events around one documented transportation plan.
 ### Country Thunder Festival
 - URL: https://scottsdalesprinters.com/experiences/country-thunder
 - Plan group transportation to Country Thunder Arizona around the festival's published dates, current access rules, confirmed tickets, and a scheduled return.
+### Corporate Event
+- URL: https://scottsdalesprinters.com/experiences/corporate-event
+- Coordinate executive arrivals, conference movements, client dinners, and team events around one documented transportation plan.
 ### Golf Outing
 - URL: https://scottsdalesprinters.com/experiences/golf-outing
 - Plan hotel pickup, course arrival, club storage, and the post-round stop around one vehicle sized for both players and gear.
@@ -200,6 +194,12 @@ Generated: 2026-09-24. Canonical site: https://scottsdalesprinters.com. Indexabl
 ### Homecoming Transportation
 - URL: https://scottsdalesprinters.com/experiences/homecoming-transportation
 - Coordinate staggered home pickups, a photo or dinner stop, the dance arrival and the final return with one written schedule and a designated guardian contact.
+### Bachelor Party
+- URL: https://scottsdalesprinters.com/experiences/bachelor-party
+- Connect golf, dinner, and nightlife with one vehicle and one return plan. Choose the cabin style and route around the group’s confirmed reservations.
+### Birthday Celebration
+- URL: https://scottsdalesprinters.com/experiences/birthday-celebration
+- Plan a birthday ride around the guest list, dinner, activities, and one scheduled return. Cabin style ranges from quiet executive seating to party lighting for larger celebrations.
 ### Wedding Transportation
 - URL: https://scottsdalesprinters.com/experiences/wedding-transportation
 - Coordinate hotel pickups, wedding-party movement, guest shuttles, photo stops, and the final departure from one clear transportation schedule.
@@ -503,30 +503,28 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/fleet/chrysler-limo-10
 - https://scottsdalesprinters.com/fleet/maybach-shuttle-sprinter-8
 - https://scottsdalesprinters.com/services
-- https://scottsdalesprinters.com/services/birthday-party-sprinter-van-scottsdale
 - https://scottsdalesprinters.com/services/golf-outing-sprinter-van-scottsdale
-- https://scottsdalesprinters.com/services/phoenix-airport-sprinter-van
-- https://scottsdalesprinters.com/services/phoenix-mesa-gateway-airport-group-transportation
 - https://scottsdalesprinters.com/services/phoenix-scottsdale-to-sedona-private-transportation
 - https://scottsdalesprinters.com/services/phoenix-sprinter-van-service
-- https://scottsdalesprinters.com/services/scottsdale-chauffeur-service
-- https://scottsdalesprinters.com/services/scottsdale-nightlife-transportation
+- https://scottsdalesprinters.com/services/phoenix-mesa-gateway-airport-group-transportation
 - https://scottsdalesprinters.com/services/scottsdale-party-bus-rental
 - https://scottsdalesprinters.com/services/corporate-transportation-scottsdale
 - https://scottsdalesprinters.com/services/scottsdale-executive-minibus-group-shuttle
 - https://scottsdalesprinters.com/services/bachelorette-party-sprinter-scottsdale
 - https://scottsdalesprinters.com/services/wedding-transportation-scottsdale
+- https://scottsdalesprinters.com/services/birthday-party-sprinter-van-scottsdale
+- https://scottsdalesprinters.com/services/phoenix-airport-sprinter-van
+- https://scottsdalesprinters.com/services/scottsdale-nightlife-transportation
+- https://scottsdalesprinters.com/services/scottsdale-chauffeur-service
 - https://scottsdalesprinters.com/services/bachelor-party-transportation-scottsdale
 - https://scottsdalesprinters.com/services/scottsdale-sprinter-van-rental
 - https://scottsdalesprinters.com/experiences
 - https://scottsdalesprinters.com/experiences/spring-training
 - https://scottsdalesprinters.com/experiences/airport-vip-transfer
-- https://scottsdalesprinters.com/experiences/bachelor-party
 - https://scottsdalesprinters.com/experiences/bachelorette-party
-- https://scottsdalesprinters.com/experiences/birthday-celebration
 - https://scottsdalesprinters.com/experiences/brewery-crawl
-- https://scottsdalesprinters.com/experiences/corporate-event
 - https://scottsdalesprinters.com/experiences/country-thunder
+- https://scottsdalesprinters.com/experiences/corporate-event
 - https://scottsdalesprinters.com/experiences/golf-outing
 - https://scottsdalesprinters.com/experiences/nightlife-old-town
 - https://scottsdalesprinters.com/experiences/phoenix-nightlife
@@ -534,6 +532,8 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/experiences/quinceanera-transportation
 - https://scottsdalesprinters.com/experiences/concert-stadium
 - https://scottsdalesprinters.com/experiences/homecoming-transportation
+- https://scottsdalesprinters.com/experiences/bachelor-party
+- https://scottsdalesprinters.com/experiences/birthday-celebration
 - https://scottsdalesprinters.com/experiences/wedding-transportation
 - https://scottsdalesprinters.com/experiences/wm-phoenix-open
 - https://scottsdalesprinters.com/tours
