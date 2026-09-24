@@ -2,7 +2,7 @@
 
 > Every public fact about Scottsdale Sprinters in one document: the fleet with seated capacities and hourly rates, the services, experiences and day tours we sell, how pricing works, the policies, the house rules, the FAQ and how to reach a person. Generated at build from the same data as https://scottsdalesprinters.com/sitemap.xml.
 
-Generated: 2026-09-24. Canonical site: https://scottsdalesprinters.com. Indexable pages: 227.
+Generated: 2026-09-24. Canonical site: https://scottsdalesprinters.com. Indexable pages: 229.
 
 ## The business
 
@@ -10,7 +10,7 @@ Generated: 2026-09-24. Canonical site: https://scottsdalesprinters.com. Indexabl
 - Phone (call or text): (623) 986-6339. Email: reservations@scottsdalesprinters.com.
 - Hours: Book online any hour. Quotes answered 8am–8pm Arizona time, seven days; late-night rides inside 48 hours confirmed by 8am.
 - Lead time: Availability varies by date and by vehicle. Request a current quote for your date and we confirm in writing what is open.
-- Proof: 5-star Google rating (509 Google reviews), 4.9 stars on Yelp, 1,028 reviews across Google, Yelp and more.
+- Proof: 5.0-star Google rating (511 Google reviews), 4.9 stars on Yelp.
 - Fleet: Executive Sprinters, party buses, mini buses, a 56-passenger motorcoach, and a luxury Suburban — professional chauffeur service included.
 - Background and MVR checked: Every chauffeur, no exceptions.
 - Drug screened: Every chauffeur on the roster.
@@ -32,72 +32,77 @@ Generated: 2026-09-24. Canonical site: https://scottsdalesprinters.com. Indexabl
 ### Maybach Jet Sprinter
 - URL: https://scottsdalesprinters.com/fleet/maybach-jet-sprinter-scottsdale
 - Capacity and rate: seats 9, $295/hour, 4-hour minimum.
-- A 10-passenger Sprinter with jet-black Nappa leather, a starlight LED ceiling, a champagne bar, and a privacy partition.
+- A one-of-one private jet on wheels. Best for CEOs, executive groups, celebrities, parties.
 - Start a quote: https://scottsdalesprinters.com/fleet/maybach-jet-sprinter-scottsdale/book
 ### Ultra Luxury Party Sprinter
 - URL: https://scottsdalesprinters.com/fleet/ultra-luxury-party-sprinter-scottsdale
 - Capacity and rate: seats 15, $250/hour, 4-hour minimum.
-- A party-style cabin with programmable lighting, a premium sound system, and lounge seating for Scottsdale evenings and group celebrations.
+- The party on wheels. The nicest one in Scottsdale. Best for Bachelorettes, Old Town nights, birthdays.
 - Start a quote: https://scottsdalesprinters.com/fleet/ultra-luxury-party-sprinter-scottsdale/book
 ### Limo Lounge Party Sprinter
 - URL: https://scottsdalesprinters.com/fleet/limo-sprinter-16-scottsdale
 - Capacity and rate: seats 16, $175/hour, 4-hour minimum.
-- A party-style Sprinter for groups of up to 16, with wraparound seating, lighting, sound, and vehicle-specific amenities to confirm before booking.
+- Our largest, most spacious Sprinter. A lounge on wheels. Best for Group parties, prom, bar crawls, birthdays.
 - Start a quote: https://scottsdalesprinters.com/fleet/limo-sprinter-16-scottsdale/book
 ### Limo Party Sprinter (13 Pax)
 - URL: https://scottsdalesprinters.com/fleet/limo-sprinter-13-scottsdale
 - Capacity and rate: seats 13, $175/hour, 4-hour minimum.
-- A mid-size party Sprinter with wraparound seating, lighting, sound, and room for up to 13 passengers.
+- A nightclub on wheels for thirteen. Best for Friend groups, wine tours, brewery crawls.
 - Start a quote: https://scottsdalesprinters.com/fleet/limo-sprinter-13-scottsdale/book
 ### Executive Black Sprinter
 - URL: https://scottsdalesprinters.com/fleet/executive-sprinter-scottsdale
 - Capacity and rate: seats 14, $145/hour, 4-hour minimum.
-- Book our Executive Sprinter for group luxury travel in Scottsdale and Phoenix. Perfect for corporate events and airport transfers.
+- The most versatile Sprinter in the fleet. Best for Executive groups, golf, weddings, tours.
 - Start a quote: https://scottsdalesprinters.com/fleet/executive-sprinter-scottsdale/book
 ### Executive White Sprinter
 - URL: https://scottsdalesprinters.com/fleet/executive-white-sprinter-scottsdale
 - Capacity and rate: seats 14, $145/hour, 4-hour minimum.
-- A white executive Sprinter with captain seating and wood-grain accents for wedding, corporate, airport, and golf requests.
+- The most versatile Sprinter in the fleet, in white. Best for Weddings, executive groups, golf, tours.
 - Start a quote: https://scottsdalesprinters.com/fleet/executive-white-sprinter-scottsdale/book
 ### Party Bus (28 Pax)
 - URL: https://scottsdalesprinters.com/fleet/party-bus-28-scottsdale
 - Capacity and rate: seats 28, $250/hour, 4-hour minimum.
-- A 28-passenger party bus with open cabin space, premium sound, and celebration lighting.
+- The most premium party bus in Arizona. Twenty-eight seats. Best for Weddings, bachelor parties, prom, concerts.
 - Start a quote: https://scottsdalesprinters.com/fleet/party-bus-28-scottsdale/book
 ### Mini Bus (24 Pax)
 - URL: https://scottsdalesprinters.com/fleet/executive-mini-bus-26-scottsdale
 - Capacity and rate: seats 24, $185/hour, 4-hour minimum.
-- An executive mini bus for corporate shuttles, team events, conferences, and group routes. Not available for airport or golf transfers.
+- Twenty-four leather seats. The corporate and wedding shuttle. Best for Corporate groups, executives, wedding guests.
 - Start a quote: https://scottsdalesprinters.com/fleet/executive-mini-bus-26-scottsdale/book
 ### Executive Mini Coach (29 Pax)
 - URL: https://scottsdalesprinters.com/fleet/executive-luxury-bus-29-scottsdale
 - Capacity and rate: seats 29, $225/hour, 4-hour minimum.
-- An executive bus listed for up to 29 guests at $195 per hour with a four-hour minimum. Confirm the assigned vehicle, seating configuration, cabin amenities, and passenger-and-gear fit in writing before payment.
+- The formal pickup for twenty-nine, bags and all. Best for Weddings, golf groups, executive outings.
 - Start a quote: https://scottsdalesprinters.com/fleet/executive-luxury-bus-29-scottsdale/book
 ### Luxury SUV (Suburban)
 - URL: https://scottsdalesprinters.com/fleet/premium-suv-scottsdale
 - Capacity and rate: seats 6, $125/hour, 4-hour minimum.
-- Experience luxury SUV transportation in Scottsdale. Perfect for airport transfers and VIP events.
+- The Suburban Premier. Black on black, chauffeured. Best for Any point-to-point charter, up to six.
 - Start a quote: https://scottsdalesprinters.com/fleet/premium-suv-scottsdale/book
 ### Grech Executive Mini Coach (27 Pax)
 - URL: https://scottsdalesprinters.com/fleet/executive-mini-bus-grech-27
 - Capacity and rate: seats 27, $225/hour, 4-hour minimum.
+- The most premium executive coach in the fleet. Best for Corporate, airport, weddings, company events.
 - Start a quote: https://scottsdalesprinters.com/fleet/executive-mini-bus-grech-27/book
 ### 56-Passenger Motorcoach
 - URL: https://scottsdalesprinters.com/fleet/motorcoach-56
 - Capacity and rate: seats 56, $325/hour, 5-hour minimum.
+- The biggest, most luxurious unit in the fleet. Best for Big weddings, big events, team travel, schools.
 - Start a quote: https://scottsdalesprinters.com/fleet/motorcoach-56/book
 ### Pink Hummer Limo
 - URL: https://scottsdalesprinters.com/fleet/pink-hummer-limo
 - Capacity and rate: seats 18, $295/hour, 4-hour minimum.
+- The bachelorette mobile. One of one. Best for Bachelorettes, girls’ birthdays, prom, nights out.
 - Start a quote: https://scottsdalesprinters.com/fleet/pink-hummer-limo/book
 ### Chrysler Limo
 - URL: https://scottsdalesprinters.com/fleet/chrysler-limo-10
 - Capacity and rate: seats 8, $150/hour, 4-hour minimum.
+- The classic stretch limo. Black outside, seventeen colors inside. Best for Prom, anniversaries, date nights, concerts.
 - Start a quote: https://scottsdalesprinters.com/fleet/chrysler-limo-10/book
 ### Maybach Shuttle Sprinter
 - URL: https://scottsdalesprinters.com/fleet/maybach-shuttle-sprinter-8
 - Capacity and rate: seats 8, $195/hour, 4-hour minimum.
+- The Maybach for getting around town. Best for CEOs, nights out, private events, conventions.
 - Start a quote: https://scottsdalesprinters.com/fleet/maybach-shuttle-sprinter-8/book
 ## Start a quote links
 
@@ -712,3 +717,5 @@ A short list: no smoking or vaping, no eating inside the vehicle, no standing on
 - https://scottsdalesprinters.com/guides/wedding-shuttle-bus-scottsdale
 - https://scottsdalesprinters.com/guides/what-is-a-motorcoach
 - https://scottsdalesprinters.com/guides/barrett-jackson-transportation
+- https://scottsdalesprinters.com/guides/scottsdale-event-transportation
+- https://scottsdalesprinters.com/guides/hotel-concierge-transportation-scottsdale
