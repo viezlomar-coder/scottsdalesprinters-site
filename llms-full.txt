@@ -2,7 +2,7 @@
 
 > Every public fact about Scottsdale Sprinters in one document: the fleet with seated capacities and hourly rates, the services, experiences and day tours we sell, how pricing works, the policies, the house rules, the FAQ and how to reach a person. Generated at build from the same data as https://scottsdalesprinters.com/sitemap.xml.
 
-Generated: 2026-09-25. Canonical site: https://scottsdalesprinters.com. Indexable pages: 237.
+Generated: 2026-09-25. Canonical site: https://scottsdalesprinters.com. Indexable pages: 242.
 
 ## The business
 
@@ -721,11 +721,16 @@ Yes, a short list: no smoking or vaping, no eating inside the vehicle, no standi
 - https://scottsdalesprinters.com/guides/cactus-league-spring-training
 - https://scottsdalesprinters.com/guides/christmas-lights-scottsdale-phoenix
 - https://scottsdalesprinters.com/guides/venues/desert-diamond-arena
+- https://scottsdalesprinters.com/guides/hans-zimmer-phoenix-2027
+- https://scottsdalesprinters.com/guides/harry-styles-phoenix-2027
 - https://scottsdalesprinters.com/guides/innings-festival-transportation
+- https://scottsdalesprinters.com/guides/jonas-brothers-phoenix-2026
 - https://scottsdalesprinters.com/guides/m3f-festival-transportation
 - https://scottsdalesprinters.com/guides/nba-all-star-weekend-2027
 - https://scottsdalesprinters.com/guides/new-years-eve-scottsdale-phoenix
+- https://scottsdalesprinters.com/guides/phoenix-concerts-2026-2027
 - https://scottsdalesprinters.com/guides/phoenix-raceway-nascar-transportation
 - https://scottsdalesprinters.com/guides/scottsdale-limo-service
 - https://scottsdalesprinters.com/guides/venues/talking-stick-resort-amphitheatre
+- https://scottsdalesprinters.com/guides/trans-siberian-orchestra-phoenix-2026
 - https://scottsdalesprinters.com/guides/wm-phoenix-open-parking
