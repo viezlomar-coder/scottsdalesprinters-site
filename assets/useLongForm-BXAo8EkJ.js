@@ -1,0 +1,1 @@
+import{bi as f,r as n,bj as d}from"./index-CFZeuC-G.js";function L(e){const r=e.every(f),[,u]=n.useState(0),[s,a]=n.useState(null),c=e.join(",");if(n.useEffect(()=>{if(r)return;let t=!0;return d(e).then(()=>{t&&u(o=>o+1)},o=>{t&&a(()=>o)}),()=>{t=!1}},[c,r]),s&&!r)throw s;return r}export{L as u};
