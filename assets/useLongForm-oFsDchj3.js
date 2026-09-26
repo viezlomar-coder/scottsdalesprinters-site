@@ -1,0 +1,1 @@
+import{bf as c,r as n,bg as d}from"./index-BOKa9BIA.js";function L(e){const r=e.every(c),[,u]=n.useState(0),[s,a]=n.useState(null),f=e.join(",");if(n.useEffect(()=>{if(r)return;let t=!0;return d(e).then(()=>{t&&u(o=>o+1)},o=>{t&&a(()=>o)}),()=>{t=!1}},[f,r]),s&&!r)throw s;return r}export{L as u};
