@@ -1,0 +1,1 @@
+import{be as c,r as n,bf as d}from"./index-BFZwu_sY.js";function L(r){const e=r.every(c),[,u]=n.useState(0),[s,a]=n.useState(null),f=r.join(",");if(n.useEffect(()=>{if(e)return;let t=!0;return d(r).then(()=>{t&&u(o=>o+1)},o=>{t&&a(()=>o)}),()=>{t=!1}},[f,e]),s&&!e)throw s;return e}export{L as u};
