@@ -2,7 +2,7 @@
 
 > Every public fact about Scottsdale Sprinters in one document: the fleet with seated capacities and hourly rates, the services, experiences and day tours we sell, how pricing works, the policies, the house rules, the FAQ and how to reach a person. Generated at build from the same data as https://scottsdalesprinters.com/sitemap.xml.
 
-Generated: 2026-09-26. Canonical site: https://scottsdalesprinters.com. Indexable pages: 244.
+Generated: 2026-09-26. Canonical site: https://scottsdalesprinters.com. Indexable pages: 245.
 
 ## The business
 
@@ -723,6 +723,7 @@ Yes, a short list: no smoking or vaping, no eating inside the vehicle, no standi
 - https://scottsdalesprinters.com/guides/scottsdale-bachelor-party-weekend
 - https://scottsdalesprinters.com/guides/wedding-shuttle-bus-scottsdale
 - https://scottsdalesprinters.com/guides/what-is-a-motorcoach
+- https://scottsdalesprinters.com/guides/how-much-does-a-limo-cost-scottsdale
 - https://scottsdalesprinters.com/guides/barrett-jackson-transportation
 - https://scottsdalesprinters.com/guides/scottsdale-event-transportation
 - https://scottsdalesprinters.com/guides/hotel-concierge-transportation-scottsdale
