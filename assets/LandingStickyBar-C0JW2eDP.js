@@ -1,0 +1,1 @@
+import{j as i}from"./index-WTNbJHlZ.js";import{S as e}from"./StickyReserveBar-6-US8Pg8.js";function d({amount:t,amountUnit:r,subline:n,onReserve:s,className:a}){return i.jsx("div",{"data-testid":"landing-sticky",children:i.jsx(e,{amount:t,amountUnit:r,subline:n,onClick:s,className:a})})}export{d as L};
