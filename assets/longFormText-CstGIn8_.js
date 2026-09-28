@@ -1,0 +1,1 @@
+function t(r){return r.blocks.flatMap(e=>e.kind==="faq"?e.items:[])}function n(r){return r.replace(/\*(?!\*)([^*]+)\*(?!\*)/g,(e,a)=>a).replace(/\s+/g," ").trim()}function c(r){return r.replace(/\[([^\]]+)\]\(([^)]+)\)/g,(e,a)=>a).replace(/\*\*([^*]+)\*\*/g,(e,a)=>a).replace(/\*([^*]+)\*/g,(e,a)=>a).replace(/\s+/g," ").trim()}export{n as i,t as l,c as p};
