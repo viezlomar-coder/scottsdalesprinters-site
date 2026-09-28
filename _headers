@@ -1,0 +1,28 @@
+# Response headers for Cloudflare Pages (docs/ops/cloudflare/RUNBOOK.md).
+# GitHub Pages ignores this file; it only takes effect once the site is served
+# by Cloudflare Pages. Redirects in _redirects are answered before these rules.
+#
+# Cache-Control is deliberately NOT set on /*: Cloudflare Pages already sends
+# "public, max-age=0, must-revalidate" + ETag for HTML and other files, and two
+# matching rules that both set a header get their values comma-joined, which
+# would corrupt the long-lived value on /assets/*.
+#
+# HSTS has no includeSubDomains/preload: pay., email.mail. and email.msg. are
+# third-party hosts (GoDaddy Payments, Mailgun click tracking) this site does
+# not control. Permissions-Policy keeps geolocation (pickup "use my location")
+# and payment for Stripe's Apple Pay / Google Pay iframes.
+
+/*
+  Strict-Transport-Security: max-age=31536000
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), usb=(), geolocation=(self), payment=(self "https://js.stripe.com")
+
+# Vite output and the fleet photos re-emitted by fleetMediaAssetsPlugin: every
+# file name carries a content hash, so a changed file is a new URL.
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Unhashed originals linked from emails and OG tags: a day, then revalidate.
+/media/*
+  Cache-Control: public, max-age=86400, stale-while-revalidate=604800
