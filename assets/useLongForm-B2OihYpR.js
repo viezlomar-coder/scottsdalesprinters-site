@@ -1,0 +1,1 @@
+import{aZ as f,r as n,a_ as d}from"./index-wpe2s8pK.js";function L(e){const r=e.every(f),[,a]=n.useState(0),[s,u]=n.useState(null),c=e.join(",");if(n.useEffect(()=>{if(r)return;let t=!0;return d(e).then(()=>{t&&a(o=>o+1)},o=>{t&&u(()=>o)}),()=>{t=!1}},[c,r]),s&&!r)throw s;return r}export{L as u};
