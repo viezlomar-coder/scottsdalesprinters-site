@@ -2,7 +2,7 @@
 
 > Every public fact about Scottsdale Sprinters in one document: the fleet with seated capacities and hourly rates, the services, experiences and day tours we sell, how pricing works, the policies, the house rules, the FAQ and how to reach a person. Generated at build from the same data as https://scottsdalesprinters.com/sitemap.xml.
 
-Generated: 2026-09-29. Canonical site: https://scottsdalesprinters.com. Indexable pages: 262.
+Generated: 2026-09-29. Canonical site: https://scottsdalesprinters.com. Indexable pages: 263.
 
 ## The business
 
@@ -328,6 +328,7 @@ Generated: 2026-09-29. Canonical site: https://scottsdalesprinters.com. Indexabl
 - [Phoenix Car Service | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/phoenix-car-service): Phoenix Car Service. Chauffeured executive vehicles seating 6 to 14 across metro Phoenix, $125–$295/hr on a 4-hour minimum or a transfer. Reserve online.
 - [Phoenix Airport Shuttle for Groups | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/phoenix-airport-shuttle): Phoenix Airport Shuttle for Groups. Private Sky Harbor group shuttles for 14 to 56 travellers with bags, $295 to $1,250 a trip per vehicle. Reserve online.
 - [Phoenix Party Bus Rental | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/phoenix-party-bus-rental): Phoenix Party Bus Rental. The 28-seat party bus from $250/hr and limo Sprinters from $175/hr, across metro Phoenix. Reserve online.
+- [Corporate Car Service Scottsdale AZ | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/corporate-car-service-scottsdale-phoenix): Corporate Car Service in Scottsdale and Phoenix. Executive cars seating 6 to 14 from $125 an hour, 4-hour minimum, or a trip from $225. Reserve online.
 - [Pink Party Bus Scottsdale | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/pink-party-bus-scottsdale): Pink Party Bus in Scottsdale? Meet the Pink Hummer Limo. No pink party bus here: the Pink Hummer Limo seats 18 at $295/hr, 4-hour minimum. Reserve online.
 - [Scottsdale Bachelor Party Weekend | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/scottsdale-bachelor-party-weekend): Scottsdale bachelor party weekend: a 3-day itinerary. Scottsdale Sprinters plans the three days: Old Town, golf or pool, a desert or lake day. Reserve online.
 - [Wedding Shuttle Bus Scottsdale | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/wedding-shuttle-bus-scottsdale): Wedding shuttle bus in Scottsdale: seats, rates and loops. Scottsdale Sprinters: shuttle buses for weddings, seating 8 to 56, from $145/hr. Reserve online.
@@ -810,6 +811,7 @@ Yes, a short list: no smoking or vaping, no eating inside the vehicle, no standi
 - https://scottsdalesprinters.com/guides/phoenix-car-service
 - https://scottsdalesprinters.com/guides/phoenix-airport-shuttle
 - https://scottsdalesprinters.com/guides/phoenix-party-bus-rental
+- https://scottsdalesprinters.com/guides/corporate-car-service-scottsdale-phoenix
 - https://scottsdalesprinters.com/guides/pink-party-bus-scottsdale
 - https://scottsdalesprinters.com/guides/scottsdale-bachelor-party-weekend
 - https://scottsdalesprinters.com/guides/wedding-shuttle-bus-scottsdale
