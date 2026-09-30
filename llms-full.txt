@@ -2,7 +2,7 @@
 
 > Every public fact about Scottsdale Sprinters in one document: the fleet with seated capacities and hourly rates, the services, experiences and day tours we sell, how pricing works, the policies, the house rules, the FAQ and how to reach a person. Generated at build from the same data as https://scottsdalesprinters.com/sitemap.xml.
 
-Generated: 2026-09-30. Canonical site: https://scottsdalesprinters.com. Indexable pages: 266.
+Generated: 2026-09-30. Canonical site: https://scottsdalesprinters.com. Indexable pages: 267.
 
 ## The business
 
@@ -358,6 +358,7 @@ Generated: 2026-09-30. Canonical site: https://scottsdalesprinters.com. Indexabl
 - [Innings Festival 2027 Parking & Rides | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/innings-festival-transportation): Innings Festival 2027: parking, rideshare and getting there. Feb 26–28 dates, noon gates, road closures and light rail, or a chauffeured ride. Reserve online.
 - [Jonas Brothers Phoenix 2026: Parking | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/jonas-brothers-phoenix-2026): Jonas Brothers in Phoenix, November 27, 2026: Desert Diamond Arena parking, doors and the ride. Doors 6:30, show 7:30, the arena lots. Reserve online.
 - [M3F Festival 2027 Parking & Rides | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/m3f-festival-transportation): M3F Festival 2027: parking, rideshare and getting there. March 5–6 dates, no festival parking, light rail and bag rules, or a chauffeured ride. Reserve online.
+- [Matt Rife Phoenix 2026: Parking | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/matt-rife-phoenix-2026): Matt Rife in Phoenix, December 26 and 27, 2026: parking, doors and the ride home. Mortgage Matchup Center garages, drop-off and phone rule. Reserve online.
 - [Mesa Amphitheatre Parking and Events | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/venues/mesa-amphitheatre): Mesa Amphitheatre Parking Guide: Drop-Off, the Lawn and Upcoming Events. Parking, light rail, bag policy, the lawn and a chauffeured ride. Reserve online.
 - [Mesa Marathon 2027: Buses & Finish | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/mesa-marathon): Mesa Marathon 2027: race buses, start lines, finish and a chauffeured race morning. Mesa Marathon, Feb 13, 2027: start times, race buses. Reserve online.
 - [ASU Football Parking: Mountain | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/venues/mountain-america-stadium): Mountain America Stadium Parking Guide: Sun Devil Football, Tailgates, Light Rail and the Ride. Parking, light rail, tailgating rules, gates. Reserve online.
@@ -844,6 +845,7 @@ Yes, a short list: no smoking or vaping, no eating inside the vehicle, no standi
 - https://scottsdalesprinters.com/guides/innings-festival-transportation
 - https://scottsdalesprinters.com/guides/jonas-brothers-phoenix-2026
 - https://scottsdalesprinters.com/guides/m3f-festival-transportation
+- https://scottsdalesprinters.com/guides/matt-rife-phoenix-2026
 - https://scottsdalesprinters.com/guides/venues/mesa-amphitheatre
 - https://scottsdalesprinters.com/guides/mesa-marathon
 - https://scottsdalesprinters.com/guides/venues/mountain-america-stadium
