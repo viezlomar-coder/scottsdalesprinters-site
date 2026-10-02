@@ -2,7 +2,7 @@
 
 > Every public fact about Scottsdale Sprinters in one document: the fleet with seated capacities and hourly rates, the services, experiences and day tours we sell, how pricing works, the policies, the house rules, the FAQ and how to reach a person. Generated at build from the same data as https://scottsdalesprinters.com/sitemap.xml.
 
-Generated: 2026-10-02. Canonical site: https://scottsdalesprinters.com. Indexable pages: 267.
+Generated: 2026-10-02. Canonical site: https://scottsdalesprinters.com. Indexable pages: 270.
 
 ## The business
 
@@ -352,6 +352,9 @@ Generated: 2026-10-02. Canonical site: https://scottsdalesprinters.com. Indexabl
 - [Wedding Shuttle Bus Scottsdale | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/wedding-shuttle-bus-scottsdale): Wedding shuttle bus in Scottsdale: seats, rates and loops. Scottsdale Sprinters: shuttle buses for weddings, seating 8 to 56, from $145/hr. Reserve online.
 - [What Is a Motorcoach | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/what-is-a-motorcoach): What Is a Motorcoach? A Full-Size Highway Coach. Scottsdale Sprinters charters a 56-seat highway coach at $325/hr on a 5-hour minimum. Reserve online.
 - [How Much Does It Cost to Rent a Limo? | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/how-much-does-a-limo-cost-scottsdale): How much does it cost to rent a limo in Scottsdale? $150–$295 an hour, 4-hour minimum, and what 2 hours, a night, a day or prom costs. Reserve online.
+- [How to Choose a Limo or Party Bus | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/how-to-choose-scottsdale-limo-party-bus-company): How to choose a limo or party bus company in Scottsdale. Eight questions to ask before you book, with the published answers. Reserve online.
+- [Same-Day Party Bus Booking | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/same-day-party-bus-scottsdale): Same-day party bus and limo booking in Scottsdale. Same-day bookings, no cutoff; how to request and what fits your group. Reserve online.
+- [Rideshare vs Sprinter for a Group | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/rideshare-vs-sprinter-scottsdale): Rideshare vs Sprinter for a group in Scottsdale. Per-person maths at the published minimums, and what to check in the app. Reserve online.
 - [Phoenix to Tucson Shuttle, Private | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/phoenix-to-tucson-shuttle): Phoenix to Tucson shuttle, private and chauffeured. Door to door, both ways: about $600 one way for up to 6, priced per vehicle. Reserve online.
 - [Phoenix to Flagstaff Shuttle, Private | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/phoenix-to-flagstaff-shuttle): Phoenix to Flagstaff shuttle, private and chauffeured. Door to door, both ways: about $725 one way for up to 6, priced per vehicle. Reserve online.
 - [Phoenix to Prescott Shuttle, Private | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/phoenix-to-prescott-shuttle): Phoenix to Prescott shuttle, private and chauffeured. Door to door, both ways: about $600 one way for up to 6, priced per vehicle. Reserve online.
@@ -839,6 +842,9 @@ Yes, a short list: no smoking or vaping, no eating inside the vehicle, no standi
 - https://scottsdalesprinters.com/guides/wedding-shuttle-bus-scottsdale
 - https://scottsdalesprinters.com/guides/what-is-a-motorcoach
 - https://scottsdalesprinters.com/guides/how-much-does-a-limo-cost-scottsdale
+- https://scottsdalesprinters.com/guides/how-to-choose-scottsdale-limo-party-bus-company
+- https://scottsdalesprinters.com/guides/same-day-party-bus-scottsdale
+- https://scottsdalesprinters.com/guides/rideshare-vs-sprinter-scottsdale
 - https://scottsdalesprinters.com/guides/phoenix-to-tucson-shuttle
 - https://scottsdalesprinters.com/guides/phoenix-to-flagstaff-shuttle
 - https://scottsdalesprinters.com/guides/phoenix-to-prescott-shuttle
