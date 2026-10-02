@@ -44,16 +44,19 @@ Generated: 2026-10-02. Canonical site: https://scottsdalesprinters.com. Indexabl
 - URL: https://scottsdalesprinters.com/fleet/maybach-jet-sprinter-scottsdale
 - Capacity and rate: seats 9, $295/hour, 4-hour minimum.
 - A one-of-one private jet on wheels. Best for CEOs, executive groups, celebrities, parties.
+- Luggage: 4 checked bags and 8 carry-ons
 - Start a quote: https://scottsdalesprinters.com/fleet/maybach-jet-sprinter-scottsdale/book
 ### Ultra Luxury Party Sprinter
 - URL: https://scottsdalesprinters.com/fleet/ultra-luxury-party-sprinter-scottsdale
 - Capacity and rate: seats 15, $250/hour, 4-hour minimum.
 - The party on wheels. The nicest one in Scottsdale. Best for Bachelorettes, Old Town nights, birthdays.
+- Luggage: Room for 6 bags
 - Start a quote: https://scottsdalesprinters.com/fleet/ultra-luxury-party-sprinter-scottsdale/book
 ### Limo Lounge Party Sprinter
 - URL: https://scottsdalesprinters.com/fleet/limo-sprinter-16-scottsdale
 - Capacity and rate: seats 16, $175/hour, 4-hour minimum.
 - Our largest, most spacious Sprinter. A lounge on wheels. Best for Group parties, prom, bar crawls, birthdays.
+- Luggage: Room for 30 bags
 - Start a quote: https://scottsdalesprinters.com/fleet/limo-sprinter-16-scottsdale/book
 ### Limo Party Sprinter (13 Pax)
 - URL: https://scottsdalesprinters.com/fleet/limo-sprinter-13-scottsdale
@@ -64,46 +67,59 @@ Generated: 2026-10-02. Canonical site: https://scottsdalesprinters.com. Indexabl
 - URL: https://scottsdalesprinters.com/fleet/executive-sprinter-scottsdale
 - Capacity and rate: seats 14, $145/hour, 4-hour minimum.
 - The most versatile Sprinter in the fleet. Best for Executive groups, golf, weddings, tours.
+- Luggage: Room for 40 bags
+- Golf bags: About 25–30 bags
 - Start a quote: https://scottsdalesprinters.com/fleet/executive-sprinter-scottsdale/book
 ### Executive White Sprinter
 - URL: https://scottsdalesprinters.com/fleet/executive-white-sprinter-scottsdale
 - Capacity and rate: seats 14, $145/hour, 4-hour minimum.
 - The most versatile Sprinter in the fleet, in white. Best for Weddings, executive groups, golf, tours.
+- Luggage: Room for 40 bags
+- Golf bags: About 25–30 bags
 - Start a quote: https://scottsdalesprinters.com/fleet/executive-white-sprinter-scottsdale/book
 ### Party Bus (28 Pax)
 - URL: https://scottsdalesprinters.com/fleet/party-bus-28-scottsdale
 - Capacity and rate: seats 28, $250/hour, 4-hour minimum.
 - The most premium party bus in Arizona. Twenty-eight seats. Best for Weddings, bachelor parties, prom, concerts.
+- Luggage: Room for 45 bags
 - Start a quote: https://scottsdalesprinters.com/fleet/party-bus-28-scottsdale/book
 ### Mini Bus (24 Pax)
 - URL: https://scottsdalesprinters.com/fleet/executive-mini-bus-26-scottsdale
 - Capacity and rate: seats 24, $185/hour, 4-hour minimum.
 - Twenty-four leather seats. The corporate and wedding shuttle. Best for Corporate groups, executives, wedding guests.
+- Luggage: Limited luggage
 - Start a quote: https://scottsdalesprinters.com/fleet/executive-mini-bus-26-scottsdale/book
 ### Executive Mini Coach (29 Pax)
 - URL: https://scottsdalesprinters.com/fleet/executive-luxury-bus-29-scottsdale
 - Capacity and rate: seats 29, $225/hour, 4-hour minimum.
 - The formal pickup for twenty-nine, bags and all. Best for Weddings, golf groups, executive outings.
+- Luggage: Room for 30 bags
+- Golf bags: Every golfer's bag plus luggage
 - Start a quote: https://scottsdalesprinters.com/fleet/executive-luxury-bus-29-scottsdale/book
 ### Luxury SUV (Suburban)
 - URL: https://scottsdalesprinters.com/fleet/premium-suv-scottsdale
 - Capacity and rate: seats 6, $125/hour, 4-hour minimum.
 - The Suburban Premier. Black on black, chauffeured. Best for Any point-to-point charter, up to six.
+- Luggage: Room for 10 bags
 - Start a quote: https://scottsdalesprinters.com/fleet/premium-suv-scottsdale/book
 ### Grech Executive Mini Coach (27 Pax)
 - URL: https://scottsdalesprinters.com/fleet/executive-mini-bus-grech-27
 - Capacity and rate: seats 27, $225/hour, 4-hour minimum.
 - The most premium executive coach in the fleet. Best for Corporate, airport, weddings, company events.
+- Luggage: Room for 40 bags
+- Golf bags: Every golfer's bag plus luggage
 - Start a quote: https://scottsdalesprinters.com/fleet/executive-mini-bus-grech-27/book
 ### 56-Passenger Motorcoach
 - URL: https://scottsdalesprinters.com/fleet/motorcoach-56
 - Capacity and rate: seats 56, $325/hour, 5-hour minimum.
 - The biggest, most luxurious unit in the fleet. Best for Big weddings, big events, team travel, schools.
+- Luggage: Room for 125 bags
 - Start a quote: https://scottsdalesprinters.com/fleet/motorcoach-56/book
 ### Pink Hummer Limo
 - URL: https://scottsdalesprinters.com/fleet/pink-hummer-limo
 - Capacity and rate: seats 18, $295/hour, 4-hour minimum.
 - The bachelorette mobile. One of one. Best for Bachelorettes, girls’ birthdays, prom, nights out.
+- Airport transfers: no — it cannot do Phoenix Sky Harbor (PHX) pickups.
 - Start a quote: https://scottsdalesprinters.com/fleet/pink-hummer-limo/book
 ### Chrysler Limo
 - URL: https://scottsdalesprinters.com/fleet/chrysler-limo-10
@@ -114,6 +130,8 @@ Generated: 2026-10-02. Canonical site: https://scottsdalesprinters.com. Indexabl
 - URL: https://scottsdalesprinters.com/fleet/maybach-shuttle-sprinter-8
 - Capacity and rate: seats 8, $195/hour, 4-hour minimum.
 - The Maybach for getting around town. Best for CEOs, nights out, private events, conventions.
+- Luggage: No luggage
+- Airport transfers: no — it takes no luggage and is not an airport vehicle.
 - Start a quote: https://scottsdalesprinters.com/fleet/maybach-shuttle-sprinter-8/book
 ## Start a quote links
 
