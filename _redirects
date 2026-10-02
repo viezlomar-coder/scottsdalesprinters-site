@@ -203,6 +203,7 @@
 /blog/fourth-of-july-celebrations-scottsdale-fireworks-transportation  /blog/fourth-of-july-transportation-phoenix  301
 /blog/phoenix-to-flagstaff-transportation  /blog/flagstaff-day-trip-from-phoenix-mountain-escape-guide  301
 /blog/phoenix-to-sedona-transportation  /blog/sedona-day-trip-from-phoenix-complete-itinerary  301
+/review  https://search.google.com/local/writereview?placeid=ChIJl-IO6_J0Xk8R0h7fgMsqR6c  302
 
 # App routes with a per-guest token: no static file exists, so serve the shell.
 /pay/*  /index.html  200
