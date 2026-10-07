@@ -2,7 +2,7 @@
 
 > Every public fact about Scottsdale Sprinters in one document: the fleet with seated capacities and hourly rates, the services, experiences and day tours we sell, how pricing works, the policies, the house rules, the FAQ and how to reach a person. Generated at build from the same data as https://scottsdalesprinters.com/sitemap.xml.
 
-Generated: 2026-10-07. Canonical site: https://scottsdalesprinters.com. Indexable pages: 270.
+Generated: 2026-10-07. Canonical site: https://scottsdalesprinters.com. Indexable pages: 271.
 
 ## The business
 
@@ -734,6 +734,7 @@ Yes, a short list: no smoking or vaping, no eating inside the vehicle, no standi
 - https://scottsdalesprinters.com/blog/grand-canyon-tour-from-scottsdale-complete-guide
 - https://scottsdalesprinters.com/blog/jerome-ghost-town-tour-haunted-arizona-adventure
 - https://scottsdalesprinters.com/blog/limo-rental-tempe-asu-graduation-events
+- https://scottsdalesprinters.com/blog/limo-service-scottsdale-areas-venues-rates
 - https://scottsdalesprinters.com/blog/luxury-car-service-phoenix-premium-transportation
 - https://scottsdalesprinters.com/blog/luxury-sprinter-van-rentals-scottsdale
 - https://scottsdalesprinters.com/blog/memorial-day-weekend-transportation-arizona
