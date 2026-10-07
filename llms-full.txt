@@ -2,7 +2,7 @@
 
 > Every public fact about Scottsdale Sprinters in one document: the fleet with seated capacities and hourly rates, the services, experiences and day tours we sell, how pricing works, the policies, the house rules, the FAQ and how to reach a person. Generated at build from the same data as https://scottsdalesprinters.com/sitemap.xml.
 
-Generated: 2026-10-07. Canonical site: https://scottsdalesprinters.com. Indexable pages: 271.
+Generated: 2026-10-07. Canonical site: https://scottsdalesprinters.com. Indexable pages: 266.
 
 ## The business
 
@@ -357,8 +357,6 @@ Generated: 2026-10-07. Canonical site: https://scottsdalesprinters.com. Indexabl
 - [Rideshare vs Sprinter for a Group | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/rideshare-vs-sprinter-scottsdale): Rideshare vs Sprinter for a group in Scottsdale. Per-person maths at the published minimums, and what to check in the app. Reserve online.
 - [Phoenix to Tucson Shuttle, Private | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/phoenix-to-tucson-shuttle): Phoenix to Tucson shuttle, private and chauffeured. Door to door, both ways: about $600 one way for up to 6, priced per vehicle. Reserve online.
 - [Phoenix to Flagstaff Shuttle, Private | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/phoenix-to-flagstaff-shuttle): Phoenix to Flagstaff shuttle, private and chauffeured. Door to door, both ways: about $725 one way for up to 6, priced per vehicle. Reserve online.
-- [Phoenix to Prescott Shuttle, Private | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/phoenix-to-prescott-shuttle): Phoenix to Prescott shuttle, private and chauffeured. Door to door, both ways: about $600 one way for up to 6, priced per vehicle. Reserve online.
-- [Phoenix to Page AZ Transportation | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/phoenix-to-page-az-transportation): Phoenix to Page, AZ transportation, private and chauffeured. Door to door, both ways: about $1,225 one way for up to 6, priced per vehicle. Reserve online.
 - [Barrett-Jackson 2027: Parking & Rides | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/barrett-jackson-transportation): Barrett-Jackson Scottsdale 2027: parking and getting there. Official Jan 23–31 dates, free parking and shuttles, valet, or a chauffeured ride. Reserve online.
 - [Scottsdale Event Transportation Guide | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/scottsdale-event-transportation): Scottsdale event transportation: game days, concerts and the big dates. WM Phoenix Open, Barrett-Jackson, spring training, game days. Reserve online.
 - [Hotel Concierge Transportation | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/hotel-concierge-transportation-scottsdale): Chauffeured transportation for Scottsdale hotel and resort concierges. Guest airport transfers, hourly rides and Sedona or Grand Canyon days. Reserve online.
@@ -373,8 +371,6 @@ Generated: 2026-10-07. Canonical site: https://scottsdalesprinters.com. Indexabl
 - [Company Christmas Party Ideas 2026 | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/company-christmas-party-ideas-scottsdale-phoenix): Company Christmas party ideas in Scottsdale and Phoenix, 2026: the dated events and the ride. Dated holiday events for a team and a ride. Reserve online.
 - [Desert Diamond Arena Parking & Shows | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/venues/desert-diamond-arena): Desert Diamond Arena: Parking, Upcoming Shows and Concert Rides. Lots, doors, the upcoming shows and a chauffeured ride. Reserve online.
 - [Phoenix Haunted Houses 2026 & Rides | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/halloween-haunted-houses-phoenix): Phoenix haunted houses and Halloween events 2026, with a party bus. Six haunts: dates, ages, parking, masks, Fear Farm to The Crypt. Reserve online.
-- [Hans Zimmer Live Phoenix 2027 | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/hans-zimmer-phoenix-2027): Hans Zimmer Live in Phoenix, March 30, 2027: Mortgage Matchup Center parking and the ride. The start time, downtown parking, bags and the ride. Reserve online.
-- [Harry Styles Phoenix 2027 & Parking | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/harry-styles-phoenix-2027): Harry Styles in Phoenix, April 2–3, 2027: State Farm Stadium parking, drop-off and the ride home. Show times, SeatGeek parking, the Black Lot. Reserve online.
 - [Hondo Rodeo Fest Phoenix 2026: Lineup | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/hondo-rodeo-fest-phoenix-2026): Hondo Rodeo Fest Phoenix 2026: lineup, schedule and parking. Nov 13–15 at Chase Field: who plays each night, parking and the ride. Reserve online.
 - [Innings Festival 2027 Parking & Rides | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/innings-festival-transportation): Innings Festival 2027: parking, rideshare and getting there. Feb 26–28 dates, noon gates, road closures and light rail, or a chauffeured ride. Reserve online.
 - [Jonas Brothers Phoenix 2026: Parking | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/jonas-brothers-phoenix-2026): Jonas Brothers in Phoenix, November 27, 2026: Desert Diamond Arena parking, doors and the ride. Doors 6:30, show 7:30, the arena lots. Reserve online.
@@ -396,7 +392,6 @@ Generated: 2026-10-07. Canonical site: https://scottsdalesprinters.com. Indexabl
 - [Territorial Cup 2026: ASU vs Arizona | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/territorial-cup-tucson): Territorial Cup 2026 in Tucson: ASU vs Arizona game day and parking. Nov 28 at Casino Del Sol Stadium: parking, drop-off and tailgating. Reserve online.
 - [Trans-Siberian Orchestra Phoenix 2026 | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/trans-siberian-orchestra-phoenix-2026): Trans-Siberian Orchestra in Phoenix, December 6, 2026: both shows, parking and the ride. The matinee, the evening show, parking and the lights. Reserve online.
 - [WM Phoenix Open 2027: Parking & Rides | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/wm-phoenix-open-parking): WM Phoenix Open 2027: parking and getting there. Official Feb 8–14 dates, parking and drop-off, the Birds Nest, or a chauffeured ride. Reserve online.
-- [Kanye West (Ye) Phoenix 2026: Parking | Scottsdale Sprinters](https://scottsdalesprinters.com/guides/ye-kanye-west-phoenix-2026): Kanye West (Ye) in Phoenix: State Farm Stadium, Nov 21. Card-only parking, the Black Lot drop-off, bag rules and a ride home. Reserve online.
 
 ## Policies
 
@@ -860,8 +855,6 @@ Yes, a short list: no smoking or vaping, no eating inside the vehicle, no standi
 - https://scottsdalesprinters.com/guides/rideshare-vs-sprinter-scottsdale
 - https://scottsdalesprinters.com/guides/phoenix-to-tucson-shuttle
 - https://scottsdalesprinters.com/guides/phoenix-to-flagstaff-shuttle
-- https://scottsdalesprinters.com/guides/phoenix-to-prescott-shuttle
-- https://scottsdalesprinters.com/guides/phoenix-to-page-az-transportation
 - https://scottsdalesprinters.com/guides/barrett-jackson-transportation
 - https://scottsdalesprinters.com/guides/scottsdale-event-transportation
 - https://scottsdalesprinters.com/guides/hotel-concierge-transportation-scottsdale
@@ -876,8 +869,6 @@ Yes, a short list: no smoking or vaping, no eating inside the vehicle, no standi
 - https://scottsdalesprinters.com/guides/company-christmas-party-ideas-scottsdale-phoenix
 - https://scottsdalesprinters.com/guides/venues/desert-diamond-arena
 - https://scottsdalesprinters.com/guides/halloween-haunted-houses-phoenix
-- https://scottsdalesprinters.com/guides/hans-zimmer-phoenix-2027
-- https://scottsdalesprinters.com/guides/harry-styles-phoenix-2027
 - https://scottsdalesprinters.com/guides/hondo-rodeo-fest-phoenix-2026
 - https://scottsdalesprinters.com/guides/innings-festival-transportation
 - https://scottsdalesprinters.com/guides/jonas-brothers-phoenix-2026
@@ -899,4 +890,3 @@ Yes, a short list: no smoking or vaping, no eating inside the vehicle, no standi
 - https://scottsdalesprinters.com/guides/territorial-cup-tucson
 - https://scottsdalesprinters.com/guides/trans-siberian-orchestra-phoenix-2026
 - https://scottsdalesprinters.com/guides/wm-phoenix-open-parking
-- https://scottsdalesprinters.com/guides/ye-kanye-west-phoenix-2026
