@@ -2,7 +2,7 @@
 
 > Every public fact about Scottsdale Sprinters in one document: the fleet with seated capacities and hourly rates, the services, experiences and day tours we sell, how pricing works, the policies, the house rules, the FAQ and how to reach a person. Generated at build from the same data as https://scottsdalesprinters.com/sitemap.xml.
 
-Generated: 2026-10-07. Canonical site: https://scottsdalesprinters.com. Indexable pages: 266.
+Generated: 2026-10-08. Canonical site: https://scottsdalesprinters.com. Indexable pages: 266.
 
 ## The business
 
@@ -468,7 +468,7 @@ The site uses cookies to keep you signed in and to understand which pages people
 
 ### Cancellation policy
 
-Every reservation is held by the payment you make at checkout. The short version: free cancellation up to 14 days before pickup, and inside the window you lose what you paid to hold the date. Major-event dates run a 60-day window: what you paid to hold the date is non-refundable and anything left comes back if you cancel 60 or more days out.
+Every reservation is held by the payment you make at checkout. Major-event dates run a 60-day window: what you paid to hold the date is non-refundable and anything left comes back if you cancel 60 or more days out.
 
 #### Standard trips
 SUVs and single-vehicle Sprinter bookings — airport, point-to-point or hourly.
