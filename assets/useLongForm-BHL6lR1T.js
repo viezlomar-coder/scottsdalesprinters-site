@@ -1,0 +1,1 @@
+import{aL as f,r as n,aM as d}from"./index-DmfvCIXQ.js";function i(e){const r=e.every(f),[,a]=n.useState(0),[s,u]=n.useState(null),c=e.join(",");if(n.useEffect(()=>{if(r)return;let t=!0;return d(e).then(()=>{t&&a(o=>o+1)},o=>{t&&u(()=>o)}),()=>{t=!1}},[c,r]),s&&!r)throw s;return r}export{i as u};
