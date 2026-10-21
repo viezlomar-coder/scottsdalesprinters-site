@@ -1,0 +1,3579 @@
+{
+  "schema": "catalog-snapshot.1",
+  "capturedAt": "2026-10-21T10:16:40.563Z",
+  "source": "supabase",
+  "tables": {
+    "vehicles": [
+      {
+        "id": "edca38b4-7fe0-44a9-b58c-7626cebcc74c",
+        "slug": "maybach-shuttle-sprinter-8",
+        "name": "Maybach Shuttle Sprinter",
+        "subtitle": "Executive shuttle for eight",
+        "description": null,
+        "seo_description": null,
+        "images": [
+          "/media/fleet-maybach-shuttle-8_placeholder.jpeg"
+        ],
+        "videos": [],
+        "passenger_capacity": 8,
+        "luggage_capacity": null,
+        "classification": "elite",
+        "hourly_rate": 195,
+        "daily_rate": 1950,
+        "transfer_rate": 395,
+        "transfer_return_rate": 395,
+        "minimum_hours": 4,
+        "features": [],
+        "included": [],
+        "good_to_know": [],
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null,
+        "status": "active",
+        "is_available": true
+      },
+      {
+        "id": "b9452ae7-0162-4887-a4ba-6c21cfe225c8",
+        "slug": "chrysler-limo-10",
+        "name": "Chrysler Limo",
+        "subtitle": "8 passengers · classic stretch limo",
+        "description": null,
+        "seo_description": null,
+        "images": [
+          "/media/fleet-chrysler-limo-10_placeholder.jpeg"
+        ],
+        "videos": [],
+        "passenger_capacity": 8,
+        "luggage_capacity": null,
+        "classification": "premium",
+        "hourly_rate": 150,
+        "daily_rate": 1500,
+        "transfer_rate": 350,
+        "transfer_return_rate": 350,
+        "minimum_hours": 4,
+        "features": [],
+        "included": [],
+        "good_to_know": [],
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null,
+        "status": "active",
+        "is_available": true
+      },
+      {
+        "id": "0f245074-daeb-4534-9cad-a109e53c1cba",
+        "slug": "premium-suv-scottsdale",
+        "name": "Luxury SUV (Suburban)",
+        "subtitle": "Captain seats · 6 passengers",
+        "description": "A 2025 Chevrolet Suburban listed for up to 6 guests at $125 per hour with a two-hour minimum. Passenger capacity does not guarantee luggage space; share passenger, bag, and gear details so fit can be reviewed before written confirmation.",
+        "seo_description": null,
+        "images": [
+          "/media/fleet-suburban-2025_8c4c78f1.jpeg",
+          "/media/gallery-suv-1_446adc46.jpeg",
+          "/media/gallery-suv-2_8575e437.jpeg",
+          "/media/gallery-suv-3_c2271d28.jpeg",
+          "/media/gallery-suv-4_e22e7569.jpeg"
+        ],
+        "videos": [],
+        "passenger_capacity": 6,
+        "luggage_capacity": "6 bags",
+        "classification": "premium",
+        "hourly_rate": 125,
+        "daily_rate": 1250,
+        "transfer_rate": 225,
+        "transfer_return_rate": 225,
+        "minimum_hours": 4,
+        "features": [
+          "Leather interior",
+          "Luggage and gear fit confirmed separately",
+          "USB charging",
+          "Climate control",
+          "Tinted windows",
+          "Premium sound",
+          "WiFi",
+          "Professional chauffeur included"
+        ],
+        "included": [],
+        "good_to_know": [
+          "Groups of up to 6 passengers",
+          "Airport transfers",
+          "Couples",
+          "Business meetings"
+        ],
+        "meta_title": "Premium SUV - Luxury Transportation Scottsdale",
+        "meta_keywords": null,
+        "og_title": "Premium SUV | Scottsdale Luxury Rides",
+        "og_description": "Experience luxury SUV transportation in Scottsdale. Perfect for airport transfers and VIP events.",
+        "og_image": null,
+        "status": "active",
+        "is_available": true
+      },
+      {
+        "id": "99fc8492-8a3b-4f3c-8db9-7f65286390e5",
+        "slug": "limo-sprinter-13-scottsdale",
+        "name": "Limo Party Sprinter (12-13 Pax)",
+        "subtitle": "A rolling nightclub",
+        "description": "A mid-size party Sprinter with wraparound seating, lighting, sound, and room for up to 13 passengers.",
+        "seo_description": null,
+        "images": [
+          "/media/fleet-limo-party-12_73cff74a.jpeg",
+          "/media/gallery-limo12-1_ca73f019.jpeg",
+          "/media/gallery-limo12-2_fa947bef.jpeg",
+          "/media/gallery-limo12-3_666611ef.jpeg",
+          "/media/gallery-limo12-4_1f9dccaf.jpeg"
+        ],
+        "videos": [],
+        "passenger_capacity": 13,
+        "luggage_capacity": "13 bags",
+        "classification": "premium",
+        "hourly_rate": 175,
+        "daily_rate": 1750,
+        "transfer_rate": 325,
+        "transfer_return_rate": 295,
+        "minimum_hours": 4,
+        "features": [
+          "LED party lighting",
+          "Premium sound system",
+          "Wraparound seating",
+          "Bluetooth audio",
+          "Cup holders",
+          "USB charging",
+          "Tinted windows",
+          "Climate control"
+        ],
+        "included": [],
+        "good_to_know": [
+          "Mid-size parties",
+          "Wine tours",
+          "Brewery crawls",
+          "Friend groups"
+        ],
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null,
+        "status": "active",
+        "is_available": true
+      },
+      {
+        "id": "9123ac87-c622-4ef1-b711-a03da63eecbc",
+        "slug": "motorcoach-56",
+        "name": "56-Passenger Motorcoach",
+        "subtitle": "Full-size motorcoach",
+        "description": null,
+        "seo_description": null,
+        "images": [
+          "/media/fleet-motorcoach-56_placeholder.jpeg"
+        ],
+        "videos": [],
+        "passenger_capacity": 56,
+        "luggage_capacity": null,
+        "classification": "premium",
+        "hourly_rate": 325,
+        "daily_rate": 3250,
+        "transfer_rate": 1250,
+        "transfer_return_rate": 1250,
+        "minimum_hours": 5,
+        "features": [],
+        "included": [],
+        "good_to_know": [],
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null,
+        "status": "active",
+        "is_available": true
+      },
+      {
+        "id": "e754f7ad-a73c-4929-8ea4-604fe456cf7b",
+        "slug": "executive-mini-bus-grech-27",
+        "name": "Executive Mini Bus — Grech (27 Pax)",
+        "subtitle": "Premium · luggage space",
+        "description": null,
+        "seo_description": null,
+        "images": [
+          "/media/fleet-exec-mini-grech-27_placeholder.jpeg"
+        ],
+        "videos": [],
+        "passenger_capacity": 27,
+        "luggage_capacity": null,
+        "classification": "premium",
+        "hourly_rate": 225,
+        "daily_rate": 2250,
+        "transfer_rate": 550,
+        "transfer_return_rate": 550,
+        "minimum_hours": 4,
+        "features": [],
+        "included": [],
+        "good_to_know": [],
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null,
+        "status": "active",
+        "is_available": true
+      },
+      {
+        "id": "c2703bdb-bf8a-4006-b557-f3ebf267024e",
+        "slug": "pink-hummer-limo",
+        "name": "Pink Hummer Limo",
+        "subtitle": "18 passengers · pink stretch Hummer",
+        "description": null,
+        "seo_description": null,
+        "images": [
+          "/media/fleet-pink-hummer-limo_placeholder.jpeg"
+        ],
+        "videos": [],
+        "passenger_capacity": 18,
+        "luggage_capacity": null,
+        "classification": "premium",
+        "hourly_rate": 295,
+        "daily_rate": 2950,
+        "transfer_rate": 650,
+        "transfer_return_rate": 650,
+        "minimum_hours": 4,
+        "features": [],
+        "included": [],
+        "good_to_know": [],
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null,
+        "status": "active",
+        "is_available": true
+      },
+      {
+        "id": "7c3d1199-f881-4320-ad12-9c2ad3813662",
+        "slug": "ultra-luxury-party-sprinter-scottsdale",
+        "name": "Ultra Luxury Party Sprinter",
+        "subtitle": "Elite party experience",
+        "description": "A party-style cabin with programmable lighting, a premium sound system, and lounge seating for Scottsdale evenings and group celebrations.",
+        "seo_description": null,
+        "images": [
+          "/media/fleet-ultra-luxury-party_a7afc6d0.jpeg",
+          "/media/gallery-ultra-luxury-1_226f19ba.jpeg",
+          "/media/gallery-ultra-luxury-2_c2d9d224.jpeg",
+          "/media/gallery-ultra-luxury-3_843068c1.jpeg",
+          "/media/gallery-ultra-luxury-4_6e1c139f.jpeg"
+        ],
+        "videos": [],
+        "passenger_capacity": 15,
+        "luggage_capacity": "15 bags",
+        "classification": "elite",
+        "hourly_rate": 250,
+        "daily_rate": 2500,
+        "transfer_rate": 425,
+        "transfer_return_rate": 425,
+        "minimum_hours": 4,
+        "features": [
+          "RGB party lighting",
+          "Premium sound system",
+          "Laser lights",
+          "Fog machine",
+          "Bluetooth connectivity",
+          "Champagne holders",
+          "USB charging",
+          "Tinted windows"
+        ],
+        "included": [],
+        "good_to_know": [
+          "Bachelorette groups",
+          "Old Town nightlife",
+          "Birthdays",
+          "Evening events"
+        ],
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null,
+        "status": "active",
+        "is_available": true
+      },
+      {
+        "id": "d72b497d-c359-4bb9-872e-c335ac5a0ce8",
+        "slug": "limo-sprinter-16-scottsdale",
+        "name": "Limo Party Sprinter (16 Pax)",
+        "subtitle": "Star ceiling + luggage",
+        "description": "A party-style Sprinter for groups of up to 16, with wraparound seating, lighting, sound, and vehicle-specific amenities to confirm before booking.",
+        "seo_description": null,
+        "images": [
+          "/media/fleet-limo-party-16_438099b7.jpeg",
+          "/media/gallery-limo16-1_6799112f.jpeg",
+          "/media/gallery-limo16-2_cb1d263b.jpeg",
+          "/media/gallery-limo16-3_03b8b923.jpeg",
+          "/media/gallery-limo16-4_db696104.jpeg"
+        ],
+        "videos": [],
+        "passenger_capacity": 16,
+        "luggage_capacity": "16 bags",
+        "classification": "premium",
+        "hourly_rate": 175,
+        "daily_rate": 1750,
+        "transfer_rate": 325,
+        "transfer_return_rate": 325,
+        "minimum_hours": 4,
+        "features": [
+          "LED party lighting",
+          "Premium sound system",
+          "Wraparound seating",
+          "Dance pole option",
+          "Bluetooth audio",
+          "Cup holders",
+          "USB charging",
+          "Tinted windows"
+        ],
+        "included": [],
+        "good_to_know": [
+          "Large group parties",
+          "Prom",
+          "Bar crawls",
+          "Birthday celebrations"
+        ],
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null,
+        "status": "active",
+        "is_available": true
+      },
+      {
+        "id": "1df14b19-7870-4bfd-b125-fbafc2296e77",
+        "slug": "executive-sprinter-scottsdale",
+        "name": "Executive Black Sprinter",
+        "subtitle": "Executive shuttle",
+        "description": "A black executive Sprinter with tan leather, wood accents, overhead storage, reading lights, and USB-C charging listed for this vehicle. Confirm the assigned vehicle and required features in writing.",
+        "seo_description": null,
+        "images": [
+          "/media/fleet-exec-black_c2256bcd.jpeg",
+          "/media/gallery-exec-black-1_158df6cb.jpeg",
+          "/media/gallery-exec-black-2_226a1151.jpeg"
+        ],
+        "videos": [],
+        "passenger_capacity": 14,
+        "luggage_capacity": "14 bags",
+        "classification": "premium",
+        "hourly_rate": 145,
+        "daily_rate": 1450,
+        "transfer_rate": 295,
+        "transfer_return_rate": 295,
+        "minimum_hours": 4,
+        "features": [
+          "Tan leather captain seats",
+          "Wood grain accents",
+          "Overhead luggage bins",
+          "Individual reading lights",
+          "USB-C charging",
+          "Climate control",
+          "Tinted windows",
+          "Professional chauffeur partition"
+        ],
+        "included": [],
+        "good_to_know": [
+          "Airport transfers",
+          "Golf outings",
+          "Corporate events",
+          "Weddings"
+        ],
+        "meta_title": "Executive Sprinter Van - VIP Transportation Arizona",
+        "meta_keywords": [
+          "executive sprinter",
+          "scottsdale vip transport",
+          "luxury van rental"
+        ],
+        "og_title": "Executive Sprinter Van | Premium Fleet",
+        "og_description": "Book our Executive Sprinter for group luxury travel in Scottsdale and Phoenix. Perfect for corporate events and airport transfers.",
+        "og_image": "https://images.unsplash.com/photo-1464219789935-c2d9d9aba644?w=1200",
+        "status": "active",
+        "is_available": true
+      },
+      {
+        "id": "af696b8f-d1c6-4373-861e-6566200dbf87",
+        "slug": "party-bus-28-scottsdale",
+        "name": "Party Bus (28 Pax)",
+        "subtitle": "Wrap seating + club lighting",
+        "description": "A 28-passenger party bus with open cabin space, premium sound, and celebration lighting.",
+        "seo_description": null,
+        "images": [
+          "/media/fleet-party-bus-28_530213a0.jpeg",
+          "/media/gallery-party-bus-1_c85743b8.jpeg",
+          "/media/gallery-party-bus-2_d39124b6.jpeg",
+          "/media/gallery-party-bus-3_8d3f3f72.jpeg",
+          "/media/gallery-party-bus-4_90c90f21.jpeg"
+        ],
+        "videos": [],
+        "passenger_capacity": 28,
+        "luggage_capacity": "28 bags",
+        "classification": "elite",
+        "hourly_rate": 250,
+        "daily_rate": 2500,
+        "transfer_rate": 550,
+        "transfer_return_rate": 550,
+        "minimum_hours": 4,
+        "features": [
+          "Full dance floor",
+          "Premium sound system",
+          "LED & laser lighting",
+          "Fog machine",
+          "Multiple TVs",
+          "Wraparound seating",
+          "Cooler space",
+          "Bluetooth connectivity"
+        ],
+        "included": [],
+        "good_to_know": [
+          "Large bachelor/bachelorette",
+          "Prom groups",
+          "Concerts",
+          "Festival transport"
+        ],
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null,
+        "status": "active",
+        "is_available": true
+      },
+      {
+        "id": "942ee6ec-9115-4668-8f5a-85081ea30c54",
+        "slug": "executive-luxury-bus-29-scottsdale",
+        "name": "Executive Mini Coach (29 Pax)",
+        "subtitle": "Luggage space",
+        "description": "An executive bus listed for up to 29 guests at $195 per hour with a four-hour minimum. Confirm the assigned vehicle, seating configuration, cabin amenities, and passenger-and-gear fit in writing before payment.",
+        "seo_description": null,
+        "images": [
+          "/media/fleet-exec-luxury-29_d23d4c0a.jpeg",
+          "/media/gallery-luxury-bus-1_a1d3f65a.jpeg",
+          "/media/gallery-luxury-bus-2_11dc32ac.jpeg",
+          "/media/gallery-luxury-bus-3_c08624f1.jpeg",
+          "/media/gallery-luxury-bus-4_d4936469.jpeg"
+        ],
+        "videos": [],
+        "passenger_capacity": 29,
+        "luggage_capacity": "29 bags",
+        "classification": "premium",
+        "hourly_rate": 225,
+        "daily_rate": 2250,
+        "transfer_rate": 550,
+        "transfer_return_rate": 550,
+        "minimum_hours": 4,
+        "features": [
+          "Reclining seats",
+          "Wood accents",
+          "Overhead storage",
+          "USB charging",
+          "PA system",
+          "Climate control",
+          "Tinted windows",
+          "Luggage and equipment fit confirmed separately"
+        ],
+        "included": [],
+        "good_to_know": [
+          "Weddings",
+          "Corporate events",
+          "Large group tours",
+          "Conference shuttles"
+        ],
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null,
+        "status": "active",
+        "is_available": true
+      },
+      {
+        "id": "b96f734b-b6ab-4728-88b4-56c07c60379b",
+        "slug": "executive-mini-bus-26-scottsdale",
+        "name": "Mini Bus (24 Pax)",
+        "subtitle": "14-24 passengers · no luggage space",
+        "description": "An executive mini bus for corporate shuttles, team events, conferences, and group routes. Not available for airport or golf transfers.",
+        "seo_description": null,
+        "images": [
+          "/media/fleet-exec-mini-26_f12cc172.jpeg",
+          "/media/gallery-mini-bus-1_809052b5.jpeg",
+          "/media/gallery-mini-bus-2_9d7f0643.jpeg",
+          "/media/gallery-mini-bus-3_c6cc776e.jpeg",
+          "/media/gallery-mini-bus-4_f0bcddd4.jpeg"
+        ],
+        "videos": [],
+        "passenger_capacity": 24,
+        "luggage_capacity": "None",
+        "classification": "premium",
+        "hourly_rate": 185,
+        "daily_rate": 1850,
+        "transfer_rate": 450,
+        "transfer_return_rate": 450,
+        "minimum_hours": 4,
+        "features": [
+          "Reclining seats",
+          "Overhead storage",
+          "USB charging",
+          "PA system",
+          "Climate control",
+          "Tinted windows",
+          "WiFi capable",
+          "Professional chauffeur"
+        ],
+        "included": [],
+        "good_to_know": [
+          "Corporate shuttles",
+          "Team events",
+          "Conference transport",
+          "Group tours"
+        ],
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null,
+        "status": "active",
+        "is_available": true
+      },
+      {
+        "id": "72b91f06-94c5-44ac-a4b0-102afc1c29b5",
+        "slug": "maybach-jet-sprinter-scottsdale",
+        "name": "Maybach Jet Sprinter",
+        "subtitle": "The flagship",
+        "description": "A 10-passenger Sprinter with jet-black Nappa leather, a starlight LED ceiling, a champagne bar, and a privacy partition.",
+        "seo_description": null,
+        "images": [
+          "/media/fleet-maybach-jet_2b0beb56.jpeg",
+          "/media/gallery-maybach-1_5b572a52.jpeg",
+          "/media/gallery-maybach-2_0404c5ae.jpeg",
+          "/media/gallery-maybach-3_e78349a4.jpeg",
+          "/media/gallery-maybach-4_d175e77c.jpeg"
+        ],
+        "videos": [],
+        "passenger_capacity": 9,
+        "luggage_capacity": "10 bags",
+        "classification": "elite",
+        "hourly_rate": 295,
+        "daily_rate": 2950,
+        "transfer_rate": 550,
+        "transfer_return_rate": 550,
+        "minimum_hours": 4,
+        "features": [
+          "Starlight LED ceiling",
+          "Champagne bar",
+          "Jet-black Nappa leather",
+          "64-color ambient lighting",
+          "Premium sound system",
+          "Privacy partition",
+          "USB-C charging",
+          "Climate zones"
+        ],
+        "included": [],
+        "good_to_know": [
+          "Small executive groups",
+          "Private airport transfers",
+          "Proposals",
+          "Groups of up to 10 passengers"
+        ],
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null,
+        "status": "active",
+        "is_available": true
+      },
+      {
+        "id": "6be4587a-1bf0-4027-ae40-ee225b58a2f1",
+        "slug": "executive-white-sprinter-scottsdale",
+        "name": "Executive White Sprinter",
+        "subtitle": "Clean executive shuttle",
+        "description": "A white executive Sprinter with captain seating and wood-grain accents for wedding, corporate, airport, and golf requests.",
+        "seo_description": null,
+        "images": [
+          "/media/fleet-exec-white_aca16a93.jpeg",
+          "/media/gallery-exec-white-1_cfa11e9a.jpeg",
+          "/media/gallery-exec-white-2_88d5b22b.jpeg",
+          "/media/gallery-exec-white-3_c6e3ddf1.jpeg"
+        ],
+        "videos": [],
+        "passenger_capacity": 14,
+        "luggage_capacity": "14 bags",
+        "classification": "premium",
+        "hourly_rate": 145,
+        "daily_rate": 1450,
+        "transfer_rate": 295,
+        "transfer_return_rate": 295,
+        "minimum_hours": 4,
+        "features": [
+          "Tan leather captain seats",
+          "Wood grain accents",
+          "Overhead luggage bins",
+          "Individual reading lights",
+          "USB-C charging",
+          "Climate control",
+          "Tinted windows",
+          "Professional chauffeur partition"
+        ],
+        "included": [],
+        "good_to_know": [
+          "Airport transfers",
+          "Golf outings",
+          "Corporate events",
+          "Weddings"
+        ],
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null,
+        "status": "active",
+        "is_available": true
+      }
+    ],
+    "services": [
+      {
+        "id": "2fdecc34-1b8f-4ec8-b170-2b902022d71d",
+        "slug": "golf-outing-sprinter-van-scottsdale",
+        "title": "Scottsdale Golf Transportation | Scottsdale Sprinters",
+        "subtitle": "Players, Club Bags, Tee Time & Return",
+        "description": "Chauffeur-driven Scottsdale golf transportation with vehicle fit reviewed for the confirmed player, club-bag, luggage, course, and schedule details.",
+        "seo_description": "Plan Scottsdale golf transportation around players, clubs, coolers, tee times, and courses. Compare vehicles for one day or a full itinerary.",
+        "category": "golf",
+        "passenger_capacity": 35,
+        "base_price": 0,
+        "image_url": "/media/fleet/executive-sprinter-scottsdale/hero.jpg",
+        "gallery": [],
+        "badge": null,
+        "rating": 0,
+        "review_count": 0,
+        "features": [
+          "Eligible vehicle selected for players and bags",
+          "Professional chauffeur included",
+          "Requested cabin features confirmed for the selected vehicle",
+          "Golf-bag fit confirmed",
+          "Cooler and ice policy confirmed",
+          "Service window confirmed in writing",
+          "Multi-course route reviewed",
+          "Post-round stop reviewed",
+          "Ticketed game timing reviewed"
+        ],
+        "included": [
+          "Eligible vehicle selected for players and bags",
+          "Professional chauffeur included",
+          "Requested cabin features confirmed for the selected vehicle",
+          "Golf-bag fit confirmed",
+          "Cooler and ice policy confirmed",
+          "Service window confirmed in writing",
+          "Multi-course route reviewed",
+          "Post-round stop reviewed",
+          "Ticketed game timing reviewed"
+        ],
+        "pricing_options": [],
+        "addons": [],
+        "good_to_know": [
+          {
+            "answer": "Golf-bag capacity varies by vehicle and passenger count. Share the exact number of players, club bags, and other luggage so the team can confirm fit.",
+            "question": "Can you store golf clubs on the sprinter van?"
+          },
+          {
+            "answer": "Golf pricing depends on the vehicle, passenger and club capacity, pickup route, wait time, and whether the plan continues to dinner or nightlife.",
+            "question": "How much does golf transportation cost in Scottsdale?"
+          },
+          {
+            "answer": "Submit the exact course, tee time, passenger count, and club-bag count. Route feasibility and vehicle fit are reviewed before transportation is confirmed in writing.",
+            "question": "Which golf courses do you serve?"
+          },
+          {
+            "answer": "Many groups connect golf with dinner, Topgolf, or nightlife. The final route is built around the confirmed tee time and venue reservations.",
+            "question": "Can you combine golf with other activities?"
+          },
+          {
+            "answer": "A confirmed Cactus League game can be added to a golf request. Guests purchase tickets directly, then send the stadium, start time, course, and tee time for transportation review.",
+            "question": "Do you offer spring training transportation?"
+          },
+          {
+            "answer": "Some Scottsdale-area facilities have more than one course. Experience Scottsdale’s golf guide distinguishes TPC Scottsdale Stadium and Champions, Troon North Monument and Pinnacle, and Grayhawk Talon and Raptor. Send the exact course, tee time, and property-supplied loading instructions so the route can be reviewed without assuming the wrong entrance or schedule.",
+            "question": "Why do you need the exact course name, not just the golf club?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "7a6895c7-d46a-4c49-b891-7ddafed31a9f",
+        "slug": "phoenix-scottsdale-to-sedona-private-transportation",
+        "title": "Phoenix & Scottsdale to Sedona Private Transportation",
+        "subtitle": "One Way, Round Trip, or Hourly",
+        "description": "Private chauffeur-driven transportation from Phoenix or Scottsdale to Sedona with one-way, round-trip, and hourly requests reviewed by vehicle, schedule, route, passengers, and luggage.",
+        "seo_description": "Plan private chauffeured transportation from Phoenix or Scottsdale to Sedona as a one-way transfer, round trip, or hourly route with vehicle-specific pricing.",
+        "category": "sedonaPrivateTransport",
+        "passenger_capacity": 29,
+        "base_price": 0,
+        "image_url": "/media/tour-sedona-red-rocks_634a24c3.jpg",
+        "gallery": [],
+        "badge": null,
+        "rating": 0,
+        "review_count": 0,
+        "features": [
+          "Phoenix or Scottsdale pickup",
+          "Confirmed Sedona endpoint",
+          "One-way service requests",
+          "Round-trip schedule review",
+          "Hourly and multi-stop requests",
+          "Passenger and luggage fit review",
+          "Professional chauffeur included",
+          "Vehicle-specific rate and minimum",
+          "Current route conditions reviewed",
+          "Final schedule confirmed in writing"
+        ],
+        "included": [
+          "Phoenix or Scottsdale pickup",
+          "Confirmed Sedona endpoint",
+          "One-way service requests",
+          "Round-trip schedule review",
+          "Hourly and multi-stop requests",
+          "Passenger and luggage fit review",
+          "Professional chauffeur included",
+          "Vehicle-specific rate and minimum",
+          "Current route conditions reviewed",
+          "Final schedule confirmed in writing"
+        ],
+        "pricing_options": [],
+        "addons": [],
+        "good_to_know": [
+          {
+            "answer": "Yes. Choose One way in Trip preferences, enter the Phoenix or Scottsdale pickup and exact Sedona endpoint, and list every passenger and bag. The accepted pickup procedure, vehicle, route, service window, and price are confirmed in writing.",
+            "question": "Can I book one-way private transportation from Phoenix or Scottsdale to Sedona?"
+          },
+          {
+            "answer": "Use the form's primary date and pickup time for the outbound trip, choose Round trip, and put the return date, requested return pickup time, Sedona address, and Phoenix or Scottsdale destination in the trip-notes field. The return is not accepted until both directions are confirmed in writing.",
+            "question": "How do I request a Sedona round trip with a different return date?"
+          },
+          {
+            "answer": "Yes. Choose Hourly / multiple stops and enter the requested working service window and known stops. The website shows a vehicle-time estimate from the selected vehicle's published rate and minimum; route, wait time, parking, overtime, and date-specific costs are reviewed separately.",
+            "question": "Can I keep the vehicle hourly for stops in Sedona?"
+          },
+          {
+            "answer": "Enter the pickup time and desired arrival target, then include any fixed hotel, dining, activity, or check-in time in the notes. Arrival is a planning target, not a guarantee, because traffic, weather, road conditions, stops, and access can change the drive.",
+            "question": "What arrival time should I enter for Sedona?"
+          },
+          {
+            "answer": "Cargo fit depends on the selected vehicle, passenger count, and size of every bag or piece of equipment. List full-size bags, carry-ons, child seats, mobility equipment, and other gear so practical vehicle fit can be confirmed before the reservation is accepted.",
+            "question": "How much luggage fits on a Sedona transfer?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "f4c1af44-ad48-46d7-a87b-698725923e27",
+        "slug": "phoenix-sprinter-van-service",
+        "title": "Phoenix Sprinter Van Service With Driver",
+        "subtitle": "Chauffeur-Driven Phoenix Group Transportation",
+        "description": "Chauffeur-driven Phoenix Sprinter transportation with a preferred published vehicle, requested hours, passenger count, luggage needs, and route reviewed before written confirmation.",
+        "seo_description": "Compare six chauffeur-driven Phoenix Sprinters by capacity, rate, minimum time, cabin details, photos, route, and request availability online.",
+        "category": "phoenixSprinter",
+        "passenger_capacity": 16,
+        "base_price": 0,
+        "image_url": "/media/fleet-exec-black_c2256bcd.jpeg",
+        "gallery": [],
+        "badge": null,
+        "rating": 0,
+        "review_count": 0,
+        "features": [
+          "Six published Sprinter options",
+          "Professional chauffeur included",
+          "Vehicle-specific rate and minimum",
+          "Passenger and cargo needs reviewed",
+          "Phoenix pickup and route documented",
+          "Multiple stops accepted for review",
+          "Required cabin amenities confirmed",
+          "Written vehicle assignment",
+          "Route-specific costs confirmed",
+          "No self-drive rental"
+        ],
+        "included": [
+          "Six published Sprinter options",
+          "Professional chauffeur included",
+          "Vehicle-specific rate and minimum",
+          "Passenger and cargo needs reviewed",
+          "Phoenix pickup and route documented",
+          "Multiple stops accepted for review",
+          "Required cabin amenities confirmed",
+          "Written vehicle assignment",
+          "Route-specific costs confirmed",
+          "No self-drive rental"
+        ],
+        "pricing_options": [],
+        "addons": [],
+        "good_to_know": [
+          {
+            "answer": "No. Every Phoenix Sprinter request is for chauffeur-driven transportation. The selected vehicle, requested hours, route, and final terms are confirmed in writing.",
+            "question": "Is this a self-drive Phoenix Sprinter rental?"
+          },
+          {
+            "answer": "The six published Sprinters currently show base rates from $165 to $275 per hour and vehicle minimums of two or three hours. Date, route, parking, tolls, overtime, and approved extras may affect the final written price.",
+            "question": "What do Phoenix Sprinter vans cost?"
+          },
+          {
+            "answer": "The published Sprinter options list passenger capacities from 10 to 16. Luggage, golf bags, accessibility equipment, and other gear may reduce the practical passenger fit and must be reviewed before confirmation.",
+            "question": "How many passengers fit in a Phoenix Sprinter?"
+          },
+          {
+            "answer": "You can request a preferred published Sprinter and carry it into the booking flow. The assigned vehicle, seating configuration, finishes, amenities, and availability become final only when confirmed in writing.",
+            "question": "Can I choose the exact Sprinter?"
+          },
+          {
+            "answer": "Yes. Enter the full pickup, known stops, destination, requested end time, passengers, and luggage. The reservation team reviews access, timing, and route-specific costs before written confirmation.",
+            "question": "Can the route include both Phoenix and Scottsdale?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "53779f1d-cd18-478b-b84d-54484ccf6c08",
+        "slug": "phoenix-mesa-gateway-airport-group-transportation",
+        "title": "Mesa Gateway Airport Group Transportation",
+        "subtitle": "Prearranged Passenger Pickup & Group Transfer",
+        "description": "Prearranged Mesa Gateway Airport (AZA) group transportation with flight details, passengers, luggage, selected vehicle, destination, and pickup procedure confirmed in writing.",
+        "seo_description": "Plan prearranged Mesa Gateway Airport (AZA) group transportation around flight details, passengers, luggage, pickup timing, and destination.",
+        "category": "mesaGatewayAirport",
+        "passenger_capacity": 14,
+        "base_price": 0,
+        "image_url": "/media/fleet/executive-sprinter-scottsdale/hero.jpg",
+        "gallery": [],
+        "badge": null,
+        "rating": 0,
+        "review_count": 0,
+        "features": [
+          "Eligible vehicle selected for passengers and luggage",
+          "Professional chauffeur included",
+          "Flight details recorded with the trip",
+          "Prearranged pickup request",
+          "Passenger and luggage fit review",
+          "One onsite group contact",
+          "Exact destination recorded",
+          "Written meeting procedure",
+          "Return transfer reviewed on request",
+          "Vehicle-specific amenities confirmed"
+        ],
+        "included": [
+          "Eligible vehicle selected for passengers and luggage",
+          "Professional chauffeur included",
+          "Flight details recorded with the trip",
+          "Prearranged pickup request",
+          "Passenger and luggage fit review",
+          "One onsite group contact",
+          "Exact destination recorded",
+          "Written meeting procedure",
+          "Return transfer reviewed on request",
+          "Vehicle-specific amenities confirmed"
+        ],
+        "pricing_options": [],
+        "addons": [],
+        "good_to_know": [
+          {
+            "answer": "The airport's current transportation page says sedan, limousine, and shuttle service must be prearranged. Submit the request before travel; service remains pending until the vehicle, schedule, pickup procedure, and written terms are confirmed.",
+            "question": "Does Mesa Gateway Airport require a prearranged shuttle or limousine pickup?"
+          },
+          {
+            "answer": "Provide the airline, flight number, scheduled arrival, passenger count, one mobile contact, every bag or equipment item, and the exact destination.",
+            "question": "What details do you need for a Mesa Gateway Airport pickup?"
+          },
+          {
+            "answer": "The airport directs pickup vehicles to wait away from the terminal until passengers have arrived and collected luggage. The final written confirmation identifies the accepted contact and meeting procedure for the trip.",
+            "question": "Where will the vehicle wait for our group?"
+          },
+          {
+            "answer": "That depends on the selected vehicle, passenger count, and every suitcase, golf bag, child seat, mobility device, cooler, or event case. Published seating capacity does not establish cargo fit.",
+            "question": "Can one vehicle hold our group and all of our luggage?"
+          },
+          {
+            "answer": "Yes. Submit each flight, pickup time, passenger group, contact, luggage count, and destination. Both movements remain pending until accepted in writing.",
+            "question": "Can we request both arrival and departure transportation?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "caac9f21-a9f1-406f-a1b4-ce793b8b8245",
+        "slug": "sedona-day-trip-sprinter-van",
+        "title": "Sedona Day Trip Sprinter Van from Scottsdale | Scottsdale Sprinters",
+        "subtitle": "Scottsdale Pickup & Full-Day Red Rock Route",
+        "description": "Chauffeur-driven transportation from Scottsdale to Sedona with an eligible vehicle, confirmed stops, and third-party activities reserved separately.",
+        "seo_description": "Plan private Sedona transportation from Scottsdale. Compare vehicles, realistic timing, viewpoints, and optional Verde Valley stops.",
+        "category": "sedona",
+        "passenger_capacity": 35,
+        "base_price": 0,
+        "image_url": "/media/sprinter-sedona-landscape-4bxGNo9WXUCSv95vmTT4JN.webp",
+        "gallery": [],
+        "badge": null,
+        "rating": 0,
+        "review_count": 0,
+        "features": [
+          "Eligible vehicle selected for the group",
+          "Professional chauffeur for confirmed hours",
+          "Legroom confirmed by vehicle",
+          "Window configuration confirmed",
+          "Cooler setup confirmed by vehicle",
+          "Purchase storage reviewed in advance",
+          "Requested cabin features confirmed for the selected vehicle",
+          "Transportation route reviewed",
+          "Scenic stops subject to access",
+          "Itinerary confirmed in writing"
+        ],
+        "included": [
+          "Eligible vehicle selected for the group",
+          "Professional chauffeur for confirmed hours",
+          "Legroom confirmed by vehicle",
+          "Window configuration confirmed",
+          "Cooler setup confirmed by vehicle",
+          "Purchase storage reviewed in advance",
+          "Requested cabin features confirmed for the selected vehicle",
+          "Transportation route reviewed",
+          "Scenic stops subject to access",
+          "Itinerary confirmed in writing"
+        ],
+        "pricing_options": [],
+        "addons": [],
+        "good_to_know": [
+          {
+            "answer": "The transportation estimate is based on the chosen vehicle and a realistic service window. Guests book and pay admissions, guides, tastings, dining, hotels, and activities directly unless the written quote expressly includes a listed item.",
+            "question": "How much does a Sedona day trip sprinter van cost?"
+          },
+          {
+            "answer": "Drive time depends on the pickup point, traffic, weather, road conditions, and confirmed stops. The route and realistic service window are reviewed before written confirmation.",
+            "question": "How long is the drive from Scottsdale to Sedona?"
+          },
+          {
+            "answer": "A confirmed Verde Valley tasting can be added to the route. Guests reserve and pay wineries directly, then send the times for transportation review; purchase storage must be confirmed for the selected vehicle.",
+            "question": "Can we do wine tasting on the Sedona trip?"
+          },
+          {
+            "answer": "Weather, road conditions, and trailhead access vary by season and day. Check current official conditions for the requested date, then submit the confirmed stops so the route, service window, and vehicle can be reviewed before written confirmation.",
+            "question": "What's the best time of year for a Sedona day trip?"
+          },
+          {
+            "answer": "A trailhead pickup and return can be requested. Current access, permits, parking restrictions, weather, and the proposed return time are reviewed before the route is confirmed in writing.",
+            "question": "Can you drop us off at hiking trailheads?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "0d659b35-d1e6-4b88-a270-6c4336f0c636",
+        "slug": "scottsdale-party-bus-rental",
+        "title": "Scottsdale Party Bus Rental",
+        "subtitle": "Chauffeured 28-Passenger Party Bus",
+        "description": "Chauffeur-driven Scottsdale party bus for up to 28 guests with the published vehicle rate and minimum, a representative party-bus photo, and assigned-bus details confirmed in writing.",
+        "seo_description": "Compare the Scottsdale 28-passenger party bus by rate, minimum time, seating and route, and request availability online.",
+        "category": "partyBus",
+        "passenger_capacity": 28,
+        "base_price": 0,
+        "image_url": "/media/fleet-party-bus-28_530213a0.jpeg",
+        "gallery": [],
+        "badge": null,
+        "rating": 0,
+        "review_count": 0,
+        "features": [
+          "28-passenger party bus",
+          "Vehicle assignment confirmed before the reservation is final",
+          "Published base rate and minimum",
+          "Professional chauffeur included",
+          "Representative party-bus photo",
+          "Current cabin details confirmed in writing",
+          "Sound and lighting confirmed by vehicle",
+          "Pickup and destination review",
+          "Passenger and gear fit check",
+          "Base vehicle-time estimate online",
+          "Final written reservation terms"
+        ],
+        "included": [
+          "28-passenger party bus",
+          "Vehicle assignment confirmed before the reservation is final",
+          "Published base rate and minimum",
+          "Professional chauffeur included",
+          "Representative party-bus photo",
+          "Current cabin details confirmed in writing",
+          "Sound and lighting confirmed by vehicle",
+          "Pickup and destination review",
+          "Passenger and gear fit check",
+          "Base vehicle-time estimate online",
+          "Final written reservation terms"
+        ],
+        "pricing_options": [],
+        "addons": [],
+        "good_to_know": [
+          {
+            "answer": "The published 28-passenger Party Bus starts at $250 per hour with a four-hour minimum. Date, route, parking, tolls, overtime, and requested extras can change the final written price.",
+            "question": "How much is a party bus rental in Scottsdale?"
+          },
+          {
+            "answer": "The published seating capacity is up to 28 guests. Tell the reservation team about luggage, coolers, mobility needs, or bulky gear because these can change the appropriate vehicle.",
+            "question": "How many people fit in the Scottsdale party buses?"
+          },
+          {
+            "answer": "Yes. The 28-passenger party bus is the listed option, and the assigned vehicle is confirmed in writing before the reservation is final.",
+            "question": "Can I request the 28-passenger party bus?"
+          },
+          {
+            "answer": "The listing shows a representative party-bus photo. It is not a photo of the bus assigned to your trip. Ask the reservation team to confirm current photos, cabin details, and the assigned bus in writing before the reservation is final.",
+            "question": "Is the party-bus photo the exact bus I get?"
+          },
+          {
+            "answer": "No. Every party-bus request is for chauffeured transportation. The selected vehicle, requested hours, route, and applicable terms are reviewed before confirmation.",
+            "question": "Is this a self-drive party bus rental?"
+          },
+          {
+            "answer": "No. The form sends a pending availability request and does not charge a card. The reservation becomes final only after availability, vehicle assignment, route costs, pricing, and written terms are confirmed.",
+            "question": "Does submitting the form reserve the bus?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "9723c5e8-e8ba-43d3-986e-ec2cdbbce852",
+        "slug": "corporate-transportation-scottsdale",
+        "title": "Scottsdale Corporate & Convention Transportation",
+        "subtitle": "Executive Arrivals, Hotel Shuttles & Event Movements",
+        "description": "Chauffeur-driven corporate and convention group transportation for meetings, hotel shuttles, conferences, client events, and team movements in Scottsdale, Arizona.",
+        "seo_description": "Plan Scottsdale corporate and convention transportation for airport arrivals, hotel shuttles, client movements, conferences, dinners, and team events.",
+        "category": "corporate",
+        "passenger_capacity": 56,
+        "base_price": 0,
+        "image_url": "/media/fleet/executive-sprinter-scottsdale/hero.jpg",
+        "gallery": [],
+        "badge": null,
+        "rating": 0,
+        "review_count": 0,
+        "features": [
+          "Vehicle class selected for the group",
+          "Chauffeur presentation reviewed on request",
+          "Requested cabin features confirmed for the selected vehicle",
+          "Schedule planning and status updates",
+          "Corporate billing reviewed on request",
+          "Multi-stop route",
+          "Confidentiality requirements reviewed on request"
+        ],
+        "included": [
+          "Vehicle class selected for the group",
+          "Chauffeur presentation reviewed on request",
+          "Requested cabin features confirmed for the selected vehicle",
+          "Schedule planning and status updates",
+          "Corporate billing reviewed on request",
+          "Multi-stop route",
+          "Confidentiality requirements reviewed on request"
+        ],
+        "pricing_options": [],
+        "addons": [],
+        "good_to_know": [
+          {
+            "answer": "Corporate billing requirements are reviewed during booking and any approved invoicing terms are stated in writing.",
+            "question": "Do you offer corporate invoicing?"
+          },
+          {
+            "answer": "Presentation requirements can be added to the trip request and are confirmed for the assigned chauffeur in writing.",
+            "question": "What does the chauffeur wear for corporate events?"
+          },
+          {
+            "answer": "Share any confidentiality requirements before booking. The team will confirm whether a requested agreement can be accepted.",
+            "question": "Can you provide an NDA?"
+          },
+          {
+            "answer": "Conference shuttle loops or timed movements can be requested. Share the hotels, venue access instructions, passenger counts, contacts, and operating window so availability and the service pattern can be confirmed in writing.",
+            "question": "Do you handle conference shuttle service?"
+          },
+          {
+            "answer": "Capacity depends on the selected vehicle, passenger count, luggage, equipment, and required cabin layout. Submit those details so one or more eligible vehicles can be reviewed and confirmed in writing.",
+            "question": "What's the capacity for corporate groups?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "2e7f00f9-1172-42d5-852a-57bb35020f54",
+        "slug": "scottsdale-executive-minibus-group-shuttle",
+        "title": "Scottsdale Executive Minibus & Group Shuttle",
+        "subtitle": "24 or 29 Passengers. One Operating Plan.",
+        "description": "Chauffeur-driven Scottsdale group transportation using the published 24-passenger Mini Bus (24 Pax) or 29-passenger Executive Mini Coach (29 Pax) with vehicle-specific rates and minimums.",
+        "seo_description": "Compare Scottsdale's published 24- and 29-passenger executive buses for corporate, wedding, conference, and group shuttle transportation.",
+        "category": "executiveMinibus",
+        "passenger_capacity": 29,
+        "base_price": 0,
+        "image_url": "/media/fleet-exec-luxury-29_d23d4c0a.jpeg",
+        "gallery": [],
+        "badge": null,
+        "rating": 0,
+        "review_count": 0,
+        "features": [
+          "24- or 29-passenger executive bus",
+          "Professional chauffeur included",
+          "Four-hour published minimum",
+          "Vehicle-specific cabin gallery",
+          "Point-to-point group movement",
+          "Timed shuttle-loop requests",
+          "Passenger and equipment fit review",
+          "Venue and staging details documented",
+          "Base vehicle-time estimate online",
+          "Final operating schedule in writing"
+        ],
+        "included": [
+          "24- or 29-passenger executive bus",
+          "Professional chauffeur included",
+          "Four-hour published minimum",
+          "Vehicle-specific cabin gallery",
+          "Point-to-point group movement",
+          "Timed shuttle-loop requests",
+          "Passenger and equipment fit review",
+          "Venue and staging details documented",
+          "Base vehicle-time estimate online",
+          "Final operating schedule in writing"
+        ],
+        "pricing_options": [],
+        "addons": [],
+        "good_to_know": [
+          {
+            "answer": "This service offers only the published Mini Bus (24 Pax) for up to 24 passengers and the Executive Mini Coach (29 Pax) for up to 29 passengers. Select the exact bus in the booking flow; final assignment remains subject to availability and written confirmation.",
+            "question": "What executive minibus options are published for Scottsdale groups?"
+          },
+          {
+            "answer": "The 24-passenger Mini Bus (24 Pax) is $185 per hour with a four-hour minimum, a $740 base minimum vehicle-time estimate. The 29-passenger Executive Mini Coach (29 Pax) is $225 per hour with a four-hour minimum, a $900 base minimum. Route- and date-specific items may change final written pricing.",
+            "question": "What do the 24- and 29-passenger executive buses cost?"
+          },
+          {
+            "answer": "A timed shuttle loop can be requested. Enter every stop, operating window, event contact, and requested frequency. Loop timing and passenger throughput are not guaranteed until access, traffic, loading areas, and the complete schedule are reviewed and confirmed in writing.",
+            "question": "Can the executive minibus run a shuttle loop?"
+          },
+          {
+            "answer": "No. The published number is a passenger seating maximum. Luggage, production equipment, mobility devices, coolers, or other gear may reduce practical passenger fit and must be listed before the vehicle is confirmed.",
+            "question": "Does 24 or 29 passengers include luggage and equipment?"
+          },
+          {
+            "answer": "Yes. In the online vehicle step, choose Coordinate multiple vehicles, enter the total group, and optionally list passenger groups and preferred published buses. The request remains coordinator-priced with vehicle assignment pending; no combination, fit, availability, or payment is assumed before written review.",
+            "question": "Can I use both buses for a larger group?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "1e029b40-710a-4f27-b807-0196cffaaa3a",
+        "slug": "bachelorette-party-sprinter-scottsdale",
+        "title": "Bachelorette Party Sprinter Van Scottsdale | Scottsdale Sprinters",
+        "subtitle": "Pool, Dinner & Old Town Transportation",
+        "description": "Chauffeur-driven Scottsdale bachelorette transportation with an eligible vehicle selected for the group, confirmed stops, and vehicle-specific amenities.",
+        "seo_description": "Compare chauffeur-driven Scottsdale Sprinters and buses for bachelorette pool plans, dinner, Old Town nightlife, pickups, and group returns.",
+        "category": "bachelorette",
+        "passenger_capacity": 28,
+        "base_price": 0,
+        "image_url": "/media/fleet/ultra-luxury-party-sprinter-scottsdale/hero.jpg",
+        "gallery": [],
+        "badge": null,
+        "rating": 0,
+        "review_count": 0,
+        "features": [
+          "Vehicle selected for the group",
+          "Professional chauffeur included",
+          "Requested cabin features confirmed for the selected vehicle",
+          "Cooler and ice policy confirmed",
+          "Route planning assistance",
+          "Pickup and drop-off plan"
+        ],
+        "included": [
+          "Vehicle selected for the group",
+          "Professional chauffeur included",
+          "Requested cabin features confirmed for the selected vehicle",
+          "Cooler and ice policy confirmed",
+          "Route planning assistance",
+          "Pickup and drop-off plan"
+        ],
+        "pricing_options": [],
+        "addons": [],
+        "good_to_know": [
+          {
+            "answer": "Pricing is calculated from the selected vehicle, requested duration, date, and route. Choose the plan and group size online to compare eligible vehicles and their transportation estimates.",
+            "question": "How much does a bachelorette party sprinter van cost in Scottsdale?"
+          },
+          {
+            "answer": "Capacity depends on the selected vehicle, passenger count, and anything the group brings. The booking flow compares eligible options from intimate SUVs through larger buses.",
+            "question": "How many people can fit in the bachelorette sprinter van?"
+          },
+          {
+            "answer": "Alcohol may be permitted for passengers 21+ only when lawful, approved for the selected vehicle, and stated in the written booking terms.",
+            "question": "Can we bring alcohol on the sprinter van?"
+          },
+          {
+            "answer": "Build the route around venues the group books directly. Send the confirmed stops and return time so loading access, traffic, and a practical sequence can be reviewed.",
+            "question": "What's the best bachelorette party route in Scottsdale?"
+          },
+          {
+            "answer": "Lighting controls vary by vehicle. Add the requested color to the trip details; the team will review the exact vehicle and confirm available settings in writing.",
+            "question": "Can we customize the LED lighting colors?"
+          },
+          {
+            "answer": "Earlier requests usually provide more vehicle and schedule options, especially on high-demand dates. Availability is not guaranteed until the exact vehicle, schedule, and written terms are confirmed.",
+            "question": "How far in advance should we book?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "ef4ae8c4-80cb-4cbb-93ce-38647cffe64b",
+        "slug": "wedding-transportation-scottsdale",
+        "title": "Wedding Transportation Scottsdale | Scottsdale Sprinters",
+        "subtitle": "Ceremony, Reception & Guest Transportation",
+        "description": "Chauffeur-driven Scottsdale wedding transportation with vehicle assignments based on each passenger group, route, schedule, and luggage needs.",
+        "seo_description": "Plan Scottsdale wedding transportation for the couple, wedding party, family, and guests with vehicle-specific routes and professional chauffeurs.",
+        "category": "wedding",
+        "passenger_capacity": 35,
+        "base_price": 0,
+        "image_url": "/media/fleet/executive-white-sprinter-scottsdale/hero.jpg",
+        "gallery": [],
+        "badge": null,
+        "rating": 0,
+        "review_count": 0,
+        "features": [
+          "Vehicle selected by passenger group",
+          "Chauffeur presentation reviewed",
+          "Requested cabin features confirmed for the selected vehicle",
+          "Water and ice policy confirmed",
+          "Planner contact documented",
+          "Schedule reviewed before confirmation",
+          "Multiple stops reviewed",
+          "Passenger groups documented",
+          "Luggage needs reviewed",
+          "Service window confirmed in writing"
+        ],
+        "included": [
+          "Vehicle selected by passenger group",
+          "Chauffeur presentation reviewed",
+          "Requested cabin features confirmed for the selected vehicle",
+          "Water and ice policy confirmed",
+          "Planner contact documented",
+          "Schedule reviewed before confirmation",
+          "Multiple stops reviewed",
+          "Passenger groups documented",
+          "Luggage needs reviewed",
+          "Service window confirmed in writing"
+        ],
+        "pricing_options": [],
+        "addons": [],
+        "good_to_know": [
+          {
+            "answer": "Wedding pricing depends on the vehicle count, schedule, wait time, and routes between the hotel, ceremony, photo locations, reception, and final return.",
+            "question": "How much does wedding transportation cost in Scottsdale?"
+          },
+          {
+            "answer": "Add the planner or day-of contact to the request. Pickup points, ceremony timing, photo stops, and reception arrival are reviewed, and accepted details are confirmed in writing.",
+            "question": "Can you coordinate with our wedding planner?"
+          },
+          {
+            "answer": "Airport and hotel movements can be requested. Submit the flights, luggage counts, passenger groups, and schedule so vehicle fit and pickup procedures can be reviewed and confirmed in writing.",
+            "question": "Do you provide airport shuttle for wedding guests?"
+          },
+          {
+            "answer": "Cabin layout, lighting, and chauffeur presentation vary by the selected vehicle and written service terms. Choose the exact vehicle first, then confirm any wedding-specific presentation request before the date.",
+            "question": "What does the interior look like for weddings?"
+          },
+          {
+            "answer": "Earlier requests usually provide more vehicle and schedule options, especially on high-demand dates. Availability is not guaranteed until the vehicle, timing, route, and written terms are confirmed.",
+            "question": "How far in advance should we book wedding transportation?"
+          },
+          {
+            "answer": "List each passenger group, hotel or address, ceremony and reception location, hard arrival target, property-supplied loading instructions, final return, and planner or day-of contact. Rehearsal dinners, photo stops, and after-party movements should be listed separately when they affect the route. The accepted schedule and vehicles are confirmed in writing.",
+            "question": "What details should be in a wedding transportation schedule?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "045b4430-52e0-41f9-8916-8496a61e4d92",
+        "slug": "birthday-party-sprinter-van-scottsdale",
+        "title": "Birthday Party Sprinter Van Scottsdale | Scottsdale Sprinters",
+        "subtitle": "Dinner, Activities & Group Return",
+        "description": "Chauffeured birthday transportation in Scottsdale with vehicle-specific seating, lighting, sound, and route details confirmed before service.",
+        "seo_description": "Plan Scottsdale birthday transportation around the guest list, cabin style, dinner, activities, and a clear return schedule.",
+        "category": "birthday",
+        "passenger_capacity": 28,
+        "base_price": 0,
+        "image_url": "/media/fleet/ultra-luxury-party-sprinter-scottsdale/hero.jpg",
+        "gallery": [],
+        "badge": null,
+        "rating": 0,
+        "review_count": 0,
+        "features": [
+          "Eligible vehicle selected by guest count",
+          "Professional chauffeur included",
+          "Requested cabin features confirmed for the selected vehicle",
+          "Cooler and ice policy confirmed",
+          "Surprise timing reviewed",
+          "Multi-stop route reviewed",
+          "Age-appropriate terms confirmed"
+        ],
+        "included": [
+          "Eligible vehicle selected by guest count",
+          "Professional chauffeur included",
+          "Requested cabin features confirmed for the selected vehicle",
+          "Cooler and ice policy confirmed",
+          "Surprise timing reviewed",
+          "Multi-stop route reviewed",
+          "Age-appropriate terms confirmed"
+        ],
+        "pricing_options": [],
+        "addons": [],
+        "good_to_know": [
+          {
+            "answer": "Birthday pricing is based on the selected vehicle, duration, date, and route. The booking flow compares vehicles that fit the group and shows a transportation estimate.",
+            "question": "How much does a birthday party sprinter van cost?"
+          },
+          {
+            "answer": "Submit the reveal time, location, organizer contact, and any decoration request. The team will review the plan and confirm accepted details in writing.",
+            "question": "Can you do a surprise pickup?"
+          },
+          {
+            "answer": "Age-appropriate transportation requests can be submitted. Guardian, passenger, venue, and alcohol requirements are reviewed for the selected vehicle and confirmed in writing.",
+            "question": "Is there an age requirement?"
+          },
+          {
+            "answer": "Lighting controls vary by vehicle. Add the requested color to the trip details so available settings can be reviewed and confirmed for the exact vehicle.",
+            "question": "Can we customize the LED colors?"
+          },
+          {
+            "answer": "Submit every confirmed stop and the return time. The team will review loading access, traffic, and the requested service window, then confirm the accepted route in writing.",
+            "question": "What if we want to go to multiple stops?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "cb0da8fe-a9c9-4f66-88f1-c48859b4320f",
+        "slug": "phoenix-airport-sprinter-van",
+        "title": "Phoenix Sky Harbor & SDL Transportation",
+        "subtitle": "PHX Pickup, Luggage & Hotel Transfer",
+        "description": "Prearranged PHX group transportation and SDL private-aviation pickup service with the airport, terminal or FBO, flight details, passengers, luggage, vehicle, and meeting procedure confirmed in writing.",
+        "seo_description": "Plan prearranged PHX group transfers or SDL private-aviation pickups around passengers, luggage, flight details, terminal or FBO, and destination.",
+        "category": "airport",
+        "passenger_capacity": 35,
+        "base_price": 0,
+        "image_url": "/media/fleet/executive-sprinter-scottsdale/hero.jpg",
+        "gallery": [],
+        "badge": null,
+        "rating": 0,
+        "review_count": 0,
+        "features": [
+          "Eligible vehicle selected for passengers and luggage",
+          "Professional chauffeur included",
+          "Flight details recorded with the trip",
+          "Confirmed terminal meeting procedure",
+          "Passenger and luggage planning",
+          "Vehicle-specific amenities",
+          "Prearranged pickup location",
+          "Direct group transfer",
+          "Written contact procedure",
+          "Wait-time terms stated in the quote",
+          "SDL private-aviation pickup intake",
+          "FBO and onsite contact documented"
+        ],
+        "included": [
+          "Eligible vehicle selected for passengers and luggage",
+          "Professional chauffeur included",
+          "Flight details recorded with the trip",
+          "Confirmed terminal meeting procedure",
+          "Passenger and luggage planning",
+          "Vehicle-specific amenities",
+          "Prearranged pickup location",
+          "Direct group transfer",
+          "Written contact procedure",
+          "Wait-time terms stated in the quote",
+          "SDL private-aviation pickup intake",
+          "FBO and onsite contact documented"
+        ],
+        "pricing_options": [],
+        "addons": [],
+        "good_to_know": [
+          {
+            "answer": "Airport pricing depends on the selected vehicle, luggage volume, pickup terminal, wait time, and destination. Enter those details online for a vehicle-specific estimate.",
+            "question": "How much does an airport sprinter van transfer cost?"
+          },
+          {
+            "answer": "Share the airline, flight number, and scheduled arrival. Delay handling and any complimentary wait time are stated in the written quote.",
+            "question": "Do you track our flight?"
+          },
+          {
+            "answer": "The written confirmation identifies the approved terminal meeting point or prearranged pickup location and explains who contacts whom after landing.",
+            "question": "Where does the chauffeur meet us?"
+          },
+          {
+            "answer": "Share the exact passenger, suitcase, carry-on, golf-bag, child-seat, and mobility-equipment counts so the team can confirm an appropriate vehicle.",
+            "question": "Can you accommodate golf clubs and lots of luggage?"
+          },
+          {
+            "answer": "Arrival, departure, and multi-flight pickup movements can be requested together. Each flight, luggage count, pickup procedure, vehicle assignment, and price must be confirmed in writing.",
+            "question": "Do you offer round-trip airport service?"
+          },
+          {
+            "answer": "Yes. Choose Private aviation / FBO in the airport transfer details, use the primary pickup date and time for the scheduled arrival, and place the confirmed FBO, flight number or aircraft tail reference, onsite contact, and special access instructions in optional trip notes. Add every passenger and bag. The pickup remains a request until the vehicle and facility-approved meeting procedure are confirmed in writing.",
+            "question": "Can I request a private-flight pickup at Scottsdale Airport (SDL)?"
+          },
+          {
+            "answer": "Current City of Scottsdale materials list Jet Aviation, Atlantic Aviation, and Signature Aviation as SDL's three fixed-base operators. The names are provided for pickup planning only and do not imply an affiliation, endorsement, or guaranteed access.",
+            "question": "Which FBOs are at Scottsdale Airport?"
+          },
+          {
+            "answer": "Not automatically. The FBO, flight operator, airport, and applicable security procedures control vehicle and ramp access. The written confirmation identifies only the pickup point that has been approved for the trip.",
+            "question": "Can the chauffeur meet us beside the aircraft at SDL?"
+          },
+          {
+            "answer": "List each airline, flight number, terminal, scheduled arrival, passenger group, mobile contact, and bag count separately. The reservation team can then review whether the request works as one pickup window or requires multiple movements. Only the schedule accepted in writing is confirmed.",
+            "question": "What if our group arrives at PHX on different flights?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "74f184d4-333f-4784-bd6f-e9e9a58802f1",
+        "slug": "scottsdale-nightlife-transportation",
+        "title": "Scottsdale Nightlife Transportation | Scottsdale Sprinters",
+        "subtitle": "Old Town Pickup, Stops & Return",
+        "description": "Chauffeur-driven nightlife transportation in Scottsdale with a selected eligible vehicle, confirmed stops, and a written pickup and return plan.",
+        "seo_description": "Plan Scottsdale nightlife transportation for Old Town dinners, confirmed venues, and a scheduled group return with a professional chauffeur.",
+        "category": "nightlife",
+        "passenger_capacity": 35,
+        "base_price": 0,
+        "image_url": "/media/fleet/ultra-luxury-party-sprinter-scottsdale/hero.jpg",
+        "gallery": [],
+        "badge": null,
+        "rating": 0,
+        "review_count": 0,
+        "features": [
+          "Eligible vehicle selected by group size",
+          "Professional chauffeur included",
+          "Requested cabin features confirmed for the selected vehicle",
+          "Cooler and ice policy confirmed",
+          "Late-night return scheduled in writing",
+          "Multi-venue route",
+          "Scheduled group return",
+          "Vehicle-specific base estimate"
+        ],
+        "included": [
+          "Eligible vehicle selected by group size",
+          "Professional chauffeur included",
+          "Requested cabin features confirmed for the selected vehicle",
+          "Cooler and ice policy confirmed",
+          "Late-night return scheduled in writing",
+          "Multi-venue route",
+          "Scheduled group return",
+          "Vehicle-specific base estimate"
+        ],
+        "pricing_options": [],
+        "addons": [],
+        "good_to_know": [
+          {
+            "answer": "Nightlife pricing is based on the selected vehicle, requested hours, date, and pickup route. Compare eligible vehicles online before submitting the reservation.",
+            "question": "How much does nightlife transportation cost in Scottsdale?"
+          },
+          {
+            "answer": "Late-night return times are confirmed with the booking. Venue hours and alcohol service follow current Arizona law and venue policy.",
+            "question": "How late can you drive us?"
+          },
+          {
+            "answer": "Staging and communication instructions are confirmed before the trip. Traffic, legal loading areas, and venue access affect how quickly the vehicle can reach each stop.",
+            "question": "Do you wait while we're at the bars?"
+          },
+          {
+            "answer": "The main advantage is coordination: one vehicle, one pickup plan, and one return schedule for the group. Compare the live vehicle estimate with the alternatives available for your date.",
+            "question": "Is this cheaper than rideshares for a group?"
+          },
+          {
+            "answer": "We can help sequence confirmed venues into a compact route, but admission, dress codes, reservations, and venue policies remain the responsibility of the group.",
+            "question": "Can you recommend venues?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "b5aaf775-3440-4599-aa2d-df7336ac1429",
+        "slug": "scottsdale-chauffeur-service",
+        "title": "Scottsdale Chauffeur Service | SUV, Sprinter & Bus",
+        "subtitle": "Choose the Vehicle, Hours & Route",
+        "description": "Vehicle-specific chauffeur service in Scottsdale and greater Phoenix with published fleet details and an online route-and-hours availability request.",
+        "seo_description": "Choose a Scottsdale chauffeur service by exact SUV, Sprinter, mini bus, or party bus, then set the working hours and route.",
+        "category": "chauffeur",
+        "passenger_capacity": 35,
+        "base_price": 0,
+        "image_url": "/media/fleet/premium-suv-scottsdale/hero.jpg",
+        "gallery": [],
+        "badge": null,
+        "rating": 0,
+        "review_count": 0,
+        "features": [
+          "SUV, Sprinter, mini-bus, and party-bus choices",
+          "Preferred vehicle requested online",
+          "Published hourly base rates",
+          "Vehicle-specific minimum times",
+          "Professional chauffeur included",
+          "Passenger and gear fit review",
+          "Pickup and multi-stop route entry",
+          "Base vehicle-time estimate",
+          "Availability review before confirmation",
+          "Final terms confirmed in writing"
+        ],
+        "included": [
+          "SUV, Sprinter, mini-bus, and party-bus choices",
+          "Preferred vehicle requested online",
+          "Published hourly base rates",
+          "Vehicle-specific minimum times",
+          "Professional chauffeur included",
+          "Passenger and gear fit review",
+          "Pickup and multi-stop route entry",
+          "Base vehicle-time estimate",
+          "Availability review before confirmation",
+          "Final terms confirmed in writing"
+        ],
+        "pricing_options": [],
+        "addons": [],
+        "good_to_know": [
+          {
+            "answer": "Published base rates currently vary by selected vehicle from $125 to $300 per hour, with vehicle-specific minimums from two to four hours. Date, route, parking, tolls, wait time, overtime, and special requests can affect the final written price.",
+            "question": "How much does a chauffeur service cost in Scottsdale?"
+          },
+          {
+            "answer": "Yes. Compare the published SUV, Sprinter, mini-bus, and party-bus pages, then start the availability request with the exact preferred vehicle. Final assignment is subject to availability and written confirmation.",
+            "question": "Can I choose the exact chauffeured vehicle?"
+          },
+          {
+            "answer": "Airport transportation can be requested for Phoenix Sky Harbor and other routes that the reservation team reviews before confirmation. Share the airport, passenger count, luggage, pickup procedure, and flight details so access and vehicle fit can be confirmed in writing.",
+            "question": "Do you provide airport chauffeur service?"
+          },
+          {
+            "answer": "A multi-stop hourly itinerary can be requested. Enter the working route and requested service window so access, drive time, staging, and the applicable vehicle minimum can be reviewed.",
+            "question": "Can the chauffeur remain with us for multiple stops?"
+          },
+          {
+            "answer": "No. The form sends a pending availability request and does not charge a card. Vehicle assignment, chauffeur availability, route costs, final pricing, and written terms must be confirmed before the reservation is final.",
+            "question": "Does an online request confirm the chauffeur?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "6f0d778d-1fdd-4685-9ea2-3b2619cc841c",
+        "slug": "bachelor-party-transportation-scottsdale",
+        "title": "Bachelor Party Transportation Scottsdale | Scottsdale Sprinters",
+        "subtitle": "Golf, Dinner & Old Town Transportation",
+        "description": "Chauffeur-driven bachelor party transportation in Scottsdale with the vehicle, route, stops, and vehicle-specific amenities confirmed before service.",
+        "seo_description": "Plan Scottsdale bachelor party transportation for golf, dinner, nightlife, and group pickups, then request the vehicle and route online.",
+        "category": "bachelor",
+        "passenger_capacity": 28,
+        "base_price": 0,
+        "image_url": "/media/fleet/ultra-luxury-party-sprinter-scottsdale/hero.jpg",
+        "gallery": [],
+        "badge": null,
+        "rating": 0,
+        "review_count": 0,
+        "features": [
+          "Eligible vehicle selected by group size",
+          "Professional chauffeur included",
+          "Requested cabin features confirmed for the selected vehicle",
+          "Cooler and ice policy confirmed",
+          "Golf-bag fit reviewed",
+          "Multi-stop route reviewed",
+          "Return time confirmed in writing"
+        ],
+        "included": [
+          "Eligible vehicle selected by group size",
+          "Professional chauffeur included",
+          "Requested cabin features confirmed for the selected vehicle",
+          "Cooler and ice policy confirmed",
+          "Golf-bag fit reviewed",
+          "Multi-stop route reviewed",
+          "Return time confirmed in writing"
+        ],
+        "pricing_options": [],
+        "addons": [],
+        "good_to_know": [
+          {
+            "answer": "Pricing is calculated from the selected vehicle, duration, date, and route. A longer golf-to-dinner itinerary will be priced differently from a short Old Town evening.",
+            "question": "How much does bachelor party transportation cost in Scottsdale?"
+          },
+          {
+            "answer": "Golf-bag capacity varies by vehicle and passenger count. Share the exact number of players, club bags, and other luggage so the team can confirm fit.",
+            "question": "Can you store golf clubs on the sprinter van?"
+          },
+          {
+            "answer": "A common structure is golf, an afternoon activity, dinner, and Old Town. Confirm the tee time and venue reservations first, then sequence the transportation route around them.",
+            "question": "What's the best bachelor party itinerary in Scottsdale?"
+          },
+          {
+            "answer": "Late-night return times are confirmed with the booking. Venue hours and alcohol service follow current Arizona law and venue policy.",
+            "question": "How late can you drive us?"
+          },
+          {
+            "answer": "Alcohol may be permitted for passengers 21+ only when lawful, approved for the selected vehicle, and stated in the written booking terms.",
+            "question": "Can we bring our own drinks?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "8bc1339d-f89c-4052-97e6-22f09170309f",
+        "slug": "scottsdale-sprinter-van-rental",
+        "title": "Scottsdale Sprinter Van Rental | Chauffeured Service",
+        "subtitle": "Six Chauffeured Sprinters to Compare",
+        "description": "Chauffeur-driven Scottsdale Sprinter transportation with the preferred Sprinter, requested hours, passengers, luggage, and route reviewed before written confirmation.",
+        "seo_description": "Compare six chauffeur-driven Scottsdale Sprinters by seating, cabin details, published hourly rate, minimum time, and photos, then request availability.",
+        "category": "rental",
+        "passenger_capacity": 16,
+        "base_price": 0,
+        "image_url": "/media/fleet/executive-sprinter-scottsdale/hero.jpg",
+        "gallery": [],
+        "badge": null,
+        "rating": 0,
+        "review_count": 0,
+        "features": [
+          "Exact vehicle selected before confirmation",
+          "Professional chauffeur included",
+          "Requested cabin features confirmed for the selected vehicle",
+          "Cooler and ice policy confirmed",
+          "Route reviewed before confirmation",
+          "Route-specific charges itemized in writing",
+          "Hourly or full-day requests"
+        ],
+        "included": [
+          "Exact vehicle selected before confirmation",
+          "Professional chauffeur included",
+          "Requested cabin features confirmed for the selected vehicle",
+          "Cooler and ice policy confirmed",
+          "Route reviewed before confirmation",
+          "Route-specific charges itemized in writing",
+          "Hourly or full-day requests"
+        ],
+        "pricing_options": [],
+        "addons": [],
+        "good_to_know": [
+          {
+            "answer": "Rates vary by vehicle, minimum duration, date, and route. Every reservation includes a professional chauffeur; choose the vehicle online to see its hourly rate and minimum.",
+            "question": "How much does it cost to rent a sprinter van in Scottsdale?"
+          },
+          {
+            "answer": "No. This is chauffeured transportation, not a self-drive rental. The written quote identifies the requested vehicle, service window, route, and any route-specific parking terms.",
+            "question": "Is the sprinter van rental self-drive?"
+          },
+          {
+            "answer": "The written quote identifies the exact vehicle, base time, included amenities, route, and any route-specific charges. Features vary by selected vehicle.",
+            "question": "What's included in the rental?"
+          },
+          {
+            "answer": "A multi-day schedule can be requested. Availability, vehicle and chauffeur assignments, daily service windows, and pricing are reviewed and confirmed only in writing.",
+            "question": "Can I rent for multiple days?"
+          },
+          {
+            "answer": "Hourly base rates and minimums vary by vehicle. Experience and Arizona-route plans add itinerary context, but the transportation estimate still depends on the selected vehicle, date, duration, and route.",
+            "question": "What's the difference between hourly and package pricing?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      }
+    ],
+    "experiences": [
+      {
+        "id": "5b7c1867-c243-479c-805a-793c6865d00d",
+        "slug": "spring-training",
+        "title": "Spring Training Baseball",
+        "subtitle": "Build a Cactus League Game Day",
+        "description": "Plan transportation around confirmed Cactus League game times, stadium access rules, ticketed entrances, and a scheduled return. Guests purchase tickets and admissions directly.",
+        "seo_description": "Plan transportation around confirmed Cactus League game times, stadium access rules, ticketed entrances, and a scheduled return. Guests purchase tickets and admissions directly.",
+        "category": "spring",
+        "duration_hours": 7,
+        "passenger_capacity": 29,
+        "price": 0,
+        "image_url": "/media/exp-spring-training_7ec937cc.jpg",
+        "gallery": [],
+        "rating": 0,
+        "review_count": 0,
+        "badge": null,
+        "highlights": [
+          "Multiple stadiums if the schedule permits",
+          "Between-game stop subject to current rules",
+          "One group pickup and return plan",
+          "Cooler and beverage policy confirmed by vehicle",
+          "Current team schedules checked directly",
+          "Schedule built around confirmed game times"
+        ],
+        "included": [],
+        "itinerary": [
+          "Pickup timed to the confirmed first game",
+          "First ticketed game",
+          "Post-game stop if lawful, approved, and within the service window",
+          "Transfer to second stadium (optional)",
+          "Dinner at nearby restaurant",
+          "Scheduled return to the confirmed address"
+        ],
+        "good_to_know": [
+          {
+            "answer": "A two-game route can be requested after both game times and tickets are confirmed. The team will review stadium access, traffic, travel time, and the service window before confirming it.",
+            "question": "Can we hit two games in one day?"
+          },
+          {
+            "answer": "The official Cactus League identifies 10 stadiums used by 15 MLB teams across the Phoenix area. Confirm the current team, stadium, game time, and ticketed entrance before submitting the route.",
+            "question": "Why do you need the exact stadium?"
+          },
+          {
+            "answer": "Dates, start times, venues, and ticket prices change each season. Check the official Cactus League and team schedules, then submit the confirmed games for transportation review.",
+            "question": "When is Spring Training?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "a61632fd-5e1d-4a61-85b0-e3cd2fa7fd04",
+        "slug": "airport-vip-transfer",
+        "title": "Airport Group Transfer",
+        "subtitle": "Flight, Luggage, Pickup & Destination",
+        "description": "Plan a prearranged Phoenix Sky Harbor transfer around the flight, terminal, passenger count, luggage, and confirmed pickup procedure.",
+        "seo_description": "Plan a prearranged Phoenix Sky Harbor transfer around the flight, terminal, passenger count, luggage, and confirmed pickup procedure.",
+        "category": "airport",
+        "duration_hours": 2,
+        "passenger_capacity": 14,
+        "price": 0,
+        "image_url": "/media/exp-airport-vip-transfer_eaa33378.jpg",
+        "gallery": [],
+        "rating": 0,
+        "review_count": 0,
+        "badge": null,
+        "highlights": [
+          "Confirmed terminal pickup procedure",
+          "Flight details included in the trip record",
+          "Passenger and luggage planning",
+          "Prearranged pickup location",
+          "Chauffeur-driven transfer",
+          "Written contact procedure"
+        ],
+        "included": [],
+        "itinerary": [
+          "Pickup procedure confirmed before travel",
+          "Meet at the confirmed terminal location",
+          "Passenger and luggage count checked",
+          "Direct transfer to hotel/home/office",
+          "Transfer to the confirmed destination"
+        ],
+        "good_to_know": [
+          {
+            "answer": "Share the airline, flight number, and scheduled arrival. Delay handling and any complimentary wait time are stated in the written quote.",
+            "question": "What if my flight is delayed?"
+          },
+          {
+            "answer": "Requests can include Phoenix Sky Harbor (PHX) and other airport routes that the reservation team reviews before confirmation. Share the airport, airline, flight number, passenger count, and luggage so pickup access, route, and vehicle availability can be confirmed in writing.",
+            "question": "Which airport do you serve?"
+          },
+          {
+            "answer": "Arrival and departure transfers can be submitted together. Any round-trip pricing is shown in the written quote.",
+            "question": "Can you do round-trip airport transfers?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "8cf4d548-0dcf-4adc-b591-99f41228c0c7",
+        "slug": "bachelorette-party",
+        "title": "Bachelorette Party",
+        "subtitle": "Pool, Dinner, Old Town & Group Return",
+        "description": "Keep the group together from the first pickup through dinner, pool plans, and Old Town. Choose a party-style cabin, add the stops that matter, and set one clear return plan before the night begins.",
+        "seo_description": "Keep the group together from the first pickup through dinner, pool plans, and Old Town. Choose a party-style cabin, add the stops that matter, and set one clear return plan before the night begins.",
+        "category": "bachelorette",
+        "duration_hours": 5,
+        "passenger_capacity": 28,
+        "price": 0,
+        "image_url": "/media/exp-bachelorette-party_bb6df3b0.jpg",
+        "gallery": [],
+        "rating": 0,
+        "review_count": 0,
+        "badge": null,
+        "highlights": [
+          "Cabin lighting confirmed by vehicle",
+          "Vehicle matched to the group",
+          "Old Town route around confirmed venues",
+          "Photo stops within the confirmed route",
+          "Route planning around confirmed venues",
+          "Audio options confirmed by vehicle"
+        ],
+        "included": [],
+        "itinerary": [
+          "Pickup at the confirmed hotel or rental",
+          "Optional onboard toast if lawful and approved",
+          "Dinner or first confirmed Old Town venue",
+          "Additional confirmed Old Town stops",
+          "Late-night stop if it fits the service window",
+          "Scheduled return to the confirmed address"
+        ],
+        "good_to_know": [
+          {
+            "answer": "Add decoration requests to the trip details. The team will review them against the selected vehicle, and the written confirmation will identify what is approved and any surface restrictions.",
+            "question": "Can we decorate the Sprinter?"
+          },
+          {
+            "answer": "Alcohol may be permitted for passengers 21+ only when lawful, approved for the selected vehicle, and stated in the written booking terms.",
+            "question": "Can we bring our own alcohol?"
+          },
+          {
+            "answer": "Choose the date around the venues and reservations the group wants. Hours, admission policies, demand, traffic, and curb access vary by date, so confirm each venue directly before submitting the route.",
+            "question": "What's the best night for bachelorettes in Scottsdale?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "ed4b89f9-5566-4552-bada-24c5336971cd",
+        "slug": "brewery-crawl",
+        "title": "Brewery & Distillery Crawl",
+        "subtitle": "Confirmed Stops, Reservations & Group Return",
+        "description": "Choose two or three currently operating breweries or distilleries in one area, book any required reservations directly, and submit the confirmed stops for transportation review.",
+        "seo_description": "Choose two or three currently operating breweries or distilleries in one area, book any required reservations directly, and submit the confirmed stops for transportation review.",
+        "category": "brewery",
+        "duration_hours": 6,
+        "passenger_capacity": 28,
+        "price": 0,
+        "image_url": "/media/exp-brewery-crawl_ea1de89d.jpg",
+        "gallery": [],
+        "rating": 0,
+        "review_count": 0,
+        "badge": null,
+        "highlights": [
+          "2-3 confirmed brewery stops",
+          "Craft beer tastings",
+          "Distillery options",
+          "Food truck stops",
+          "Chauffeur-driven transportation",
+          "Route built around confirmed reservations"
+        ],
+        "included": [],
+        "itinerary": [
+          "Afternoon pickup",
+          "First confirmed brewery or distillery",
+          "Second confirmed stop in the same area",
+          "Optional third stop if timing permits",
+          "Food stop: food truck or brewery kitchen",
+          "Return pickup window confirmed in advance",
+          "Scheduled return to the confirmed address"
+        ],
+        "good_to_know": [
+          {
+            "answer": "Choose venues from their current official listings, confirm operating hours and reservations directly, and send the final list for route review. Keeping stops in one area usually makes the transportation plan more practical.",
+            "question": "Which breweries do you recommend?"
+          },
+          {
+            "answer": "A mixed route can be requested. Book tastings directly with currently operating venues, then submit the confirmed stops and timing for transportation review.",
+            "question": "Can we mix breweries and distilleries?"
+          },
+          {
+            "answer": "Tasting prices, admission rules, and reservation policies are set by each venue and can change. Check and pay the venues directly unless a written quote expressly includes a listed item.",
+            "question": "Do breweries charge for tastings?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "a7007c86-4e94-488e-9757-a96995f42cd6",
+        "slug": "country-thunder",
+        "title": "Country Thunder Festival",
+        "subtitle": "Plan the Festival Ride and Return",
+        "description": "Plan group transportation to Country Thunder Arizona around the festival's published dates, current access rules, confirmed tickets, and a scheduled return.",
+        "seo_description": "Plan group transportation to Country Thunder Arizona around the festival's published dates, current access rules, confirmed tickets, and a scheduled return.",
+        "category": "country",
+        "duration_hours": 10,
+        "passenger_capacity": 35,
+        "price": 0,
+        "image_url": "/media/exp-country-thunder_1ead903f.jpg",
+        "gallery": [],
+        "rating": 0,
+        "review_count": 0,
+        "badge": null,
+        "highlights": [
+          "Festival drop-off point reviewed in advance",
+          "Festival access reviewed in advance",
+          "Vehicle access terms confirmed in writing",
+          "Cooler fit and policy confirmed by vehicle",
+          "Multi-day requests reviewed",
+          "Group coordination"
+        ],
+        "included": [],
+        "itinerary": [
+          "Afternoon pickup",
+          "Drive to the current festival access point",
+          "Drop-off at the approved festival location",
+          "Staging plan subject to festival rules",
+          "Mid-event vehicle access only if confirmed in writing",
+          "Post-festival pickup",
+          "Scheduled return to the confirmed address"
+        ],
+        "good_to_know": [
+          {
+            "answer": "Submit every requested service date and time. Availability, vehicle assignment, chauffeur assignment, and any multi-day pricing are reviewed separately and confirmed only in writing.",
+            "question": "Do you offer multi-day packages for Country Thunder?"
+          },
+          {
+            "answer": "Vehicle access during the event depends on the assigned parking or staging area, festival rules, and the confirmed service window. Do not rely on mid-event vehicle access unless it is included in writing.",
+            "question": "Can we access the vehicle during the event?"
+          },
+          {
+            "answer": "Country Thunder's official Arizona information page controls current event access, ticket, and transportation guidance. Check it for the confirmed event day and rules, then request transportation; availability is not guaranteed until confirmed in writing.",
+            "question": "When is Country Thunder?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "e1741aba-7054-4f85-8f54-349fb3dfb47f",
+        "slug": "corporate-event",
+        "title": "Corporate Event",
+        "subtitle": "Executive Arrivals, Event Moves & Return",
+        "description": "Coordinate executive arrivals, conference movements, client dinners, and team events around one documented transportation plan.",
+        "seo_description": "Coordinate executive arrivals, conference movements, client dinners, and team events around one documented transportation plan.",
+        "category": "corporate",
+        "duration_hours": 6,
+        "passenger_capacity": 56,
+        "price": 0,
+        "image_url": "/media/exp-corporate-event_205c6fd7.jpg",
+        "gallery": [],
+        "rating": 0,
+        "review_count": 0,
+        "badge": null,
+        "highlights": [
+          "Professional chauffeurs",
+          "Schedule planning and status updates",
+          "Multiple vehicle coordination",
+          "Airport pickup planning",
+          "Conference shuttles",
+          "Client entertainment"
+        ],
+        "included": [],
+        "itinerary": [
+          "Schedule built from confirmed pickup and event times",
+          "Airport pickups for executives",
+          "Hotel to venue transfers",
+          "Multi-stop coordination",
+          "Dinner transportation",
+          "Return transfers"
+        ],
+        "good_to_know": [
+          {
+            "answer": "Submit the complete multi-day schedule, passenger counts, contacts, and route requirements. The team will review availability and state any accepted vehicle assignments and coordination scope in writing.",
+            "question": "Can you handle multi-day corporate events?"
+          },
+          {
+            "answer": "When meet-and-greet is included, the written confirmation states the terminal meeting point, wait-time allowance, and contact procedure.",
+            "question": "Do you provide airport meet & greet?"
+          },
+          {
+            "answer": "Corporate billing requirements are reviewed during booking and any approved invoicing terms are stated in writing.",
+            "question": "Can you invoice our company?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "10fad173-b951-4345-a06f-c0ef912f1fd6",
+        "slug": "golf-outing",
+        "title": "Golf Outing",
+        "subtitle": "Course Arrival, Club Storage & Return",
+        "description": "Plan hotel pickup, course arrival, club storage, and the post-round stop around one vehicle sized for both players and gear.",
+        "seo_description": "Plan hotel pickup, course arrival, club storage, and the post-round stop around one vehicle sized for both players and gear.",
+        "category": "golf",
+        "duration_hours": 7,
+        "passenger_capacity": 29,
+        "price": 0,
+        "image_url": "/media/exp-golf-outing_c085e5c0.jpg",
+        "gallery": [],
+        "rating": 0,
+        "review_count": 0,
+        "badge": null,
+        "highlights": [
+          "Club & bag loading",
+          "Course transfers",
+          "19th hole transport",
+          "Multi-course days",
+          "Tournament transportation requests",
+          "Cargo needs confirmed before booking"
+        ],
+        "included": [],
+        "itinerary": [
+          "Morning pickup with club loading",
+          "Transfer to golf course",
+          "Service window aligned with the confirmed tee time",
+          "Post-round stop at a confirmed venue",
+          "Optional: second round or dinner",
+          "Return to hotel"
+        ],
+        "good_to_know": [
+          {
+            "answer": "Golf-bag capacity varies by vehicle and passenger count. Share the exact number of players, club bags, and other luggage so the team can confirm fit before booking.",
+            "question": "Can you fit all our golf clubs?"
+          },
+          {
+            "answer": "Choose and book the course directly, then submit its exact address, tee time, player count, and club-bag count. The team will review vehicle fit, loading access, and the transportation window before confirming the route.",
+            "question": "Which courses do you recommend?"
+          },
+          {
+            "answer": "A multi-course day can be requested. Share both confirmed tee times, club-bag count, meal stop, and return window so route feasibility and vehicle fit can be reviewed.",
+            "question": "Can we do a multi-course day?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "fc1a423f-1630-4d8e-9443-e5fb52e722c2",
+        "slug": "nightlife-old-town",
+        "title": "Old Town Scottsdale Nightlife",
+        "subtitle": "Old Town Stops & Scheduled Return",
+        "description": "Build an Old Town evening around confirmed reservations, a compact route, and one group pickup plan. Your chauffeur manages the vehicle and staging while your group stays together between stops.",
+        "seo_description": "Build an Old Town evening around confirmed reservations, a compact route, and one group pickup plan. Your chauffeur manages the vehicle and staging while your group stays together between stops.",
+        "category": "nightlife",
+        "duration_hours": 5,
+        "passenger_capacity": 28,
+        "price": 0,
+        "image_url": "/media/exp-nightlife-old-town_6a0f8865.jpg",
+        "gallery": [],
+        "rating": 0,
+        "review_count": 0,
+        "badge": null,
+        "highlights": [
+          "Old Town bar crawl",
+          "Coordinated group arrivals",
+          "One planned pickup and return route",
+          "Late-night food",
+          "Scheduled return plan",
+          "Audio options confirmed by vehicle"
+        ],
+        "included": [],
+        "itinerary": [
+          "Evening pickup at the confirmed address",
+          "First confirmed Old Town venue",
+          "Additional confirmed venues within a compact route",
+          "Late-night food stop if timing allows",
+          "Scheduled return to the confirmed address"
+        ],
+        "good_to_know": [
+          {
+            "answer": "Choose confirmed Old Town venues first, then submit the exact addresses. The pickup and drop-off points depend on current curb access, closures, traffic controls, and each venue's rules.",
+            "question": "What's the best area in Old Town for nightlife?"
+          },
+          {
+            "answer": "Waiting and staging depend on the requested service window and each venue's current access rules. The written confirmation will identify the communication plan and approved pickup points.",
+            "question": "Can the driver wait while we're inside?"
+          },
+          {
+            "answer": "Hours, admission, and alcohol service are controlled by each venue and current Arizona law. Check venues directly, then submit the confirmed reservations and return time.",
+            "question": "What time do bars close in Scottsdale?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "0daad199-a1c3-4adc-8dc2-6611e7d7328f",
+        "slug": "phoenix-nightlife",
+        "title": "Phoenix Nightlife",
+        "subtitle": "Downtown Phoenix After Dark",
+        "description": "Build a downtown Phoenix evening around confirmed Roosevelt Row, arts-district, cocktail, dining, or live-music stops. Keep the route compact and set one pickup plan and one scheduled return.",
+        "seo_description": "Build a downtown Phoenix evening around confirmed Roosevelt Row, arts-district, cocktail, dining, or live-music stops. Keep the route compact and set one pickup plan and one scheduled return.",
+        "category": "phoenix",
+        "duration_hours": 5,
+        "passenger_capacity": 16,
+        "price": 0,
+        "image_url": "/media/exp-phoenix-nightlife_8ef23ce7.jpg",
+        "gallery": [],
+        "rating": 0,
+        "review_count": 0,
+        "badge": null,
+        "highlights": [
+          "Roosevelt Row bars",
+          "Warehouse District clubs",
+          "Cocktail lounges",
+          "Live music venues",
+          "Food hall stops",
+          "Scheduled group return"
+        ],
+        "included": [],
+        "itinerary": [
+          "Evening pickup at the confirmed address",
+          "First confirmed downtown Phoenix venue",
+          "Additional cocktail, dining, or live-music stop",
+          "Roosevelt Row stop if included in the route",
+          "Late-night food stop if timing allows",
+          "Scheduled return to the confirmed address"
+        ],
+        "good_to_know": [
+          {
+            "answer": "The better area depends on the group's confirmed venues and preferred atmosphere. Check current venue calendars, hours, admission rules, and locations directly, then choose one area or request a cross-city route for feasibility review.",
+            "question": "How is Phoenix nightlife different from Scottsdale?"
+          },
+          {
+            "answer": "Confirm each venue, keep the route compact, and choose one group contact. Pickup access, walking distance, closures, and staging can change, so the exact meeting points are reviewed for the requested date.",
+            "question": "How should we plan downtown Phoenix pickups?"
+          },
+          {
+            "answer": "A Phoenix-to-Scottsdale route can be requested. Feasibility depends on the exact venues, traffic, loading access, and service window, all of which are reviewed before written confirmation.",
+            "question": "Can we combine Phoenix and Scottsdale in one night?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "13391287-9eb4-4b78-91f0-7733bdf5bf62",
+        "slug": "prom-night",
+        "title": "Prom Night",
+        "subtitle": "Group Pickup, Photos & Prom Return",
+        "description": "Coordinate the group pickup, photo stop, prom arrival, and final return with one written schedule and a designated guardian contact.",
+        "seo_description": "Coordinate the group pickup, photo stop, prom arrival, and final return with one written schedule and a designated guardian contact.",
+        "category": "prom",
+        "duration_hours": 5,
+        "passenger_capacity": 35,
+        "price": 0,
+        "image_url": "/media/exp-prom-night_284f0952.jpg",
+        "gallery": [],
+        "rating": 0,
+        "review_count": 0,
+        "badge": null,
+        "highlights": [
+          "Arrival at the confirmed venue",
+          "Photo stop before prom",
+          "Guardian contact plan",
+          "No alcohol policy",
+          "Parent communication",
+          "After-prom transport"
+        ],
+        "included": [],
+        "itinerary": [
+          "Group pickup at designated home",
+          "Photo session stop (park, resort entrance)",
+          "Arrival at the confirmed prom venue",
+          "Prom-time service window confirmed",
+          "After-prom pickup",
+          "Scheduled return to confirmed addresses"
+        ],
+        "good_to_know": [
+          {
+            "answer": "Prom service follows a written zero-alcohol passenger policy. A guardian contact and pickup/drop-off updates can be arranged.",
+            "question": "Is there a strict no-alcohol policy?"
+          },
+          {
+            "answer": "A guardian contact and pickup/drop-off update plan can be arranged and documented before service.",
+            "question": "Can parents track the vehicle?"
+          },
+          {
+            "answer": "Add any after-prom stop and guardian contact to the request. The team will review timing, venue access, and the return plan before confirming the route in writing.",
+            "question": "What about after-prom events?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "56b7f745-f014-4e4a-94be-4c257d3f71b5",
+        "slug": "quinceanera-transportation",
+        "title": "Quinceañera Transportation",
+        "subtitle": "Church, Photos & Reception Entrance",
+        "description": "Keep her court together from the salon to the church, through formal photos, and into the reception entrance — one chauffeured vehicle, one written schedule, published hourly rates. Scottsdale Sprinters runs luxury Sprinters, limos, the Pink Hummer, and party buses across Scottsdale, Phoenix, and the East Valley. You book by the hour ($125–$325), stops on an hourly charter are included, and a guardian contact keeps the day on time.",
+        "seo_description": "Church, photos and reception entrance with the court together. Published hourly rates $125–$325, court-sized fleet across Scottsdale and Phoenix.",
+        "category": "quinceañera",
+        "duration_hours": 5,
+        "passenger_capacity": 28,
+        "price": 0,
+        "image_url": "/media/fleet/pink-hummer-limo/hero.jpg",
+        "gallery": [],
+        "rating": 0,
+        "review_count": 0,
+        "badge": null,
+        "highlights": [
+          "Salon or home pickup with time to load gowns",
+          "Church or Mass arrival timed to the ceremony start",
+          "Formal photo stop included on an hourly charter",
+          "Reception entrance with the court arriving together",
+          "Guardian contact on the reservation",
+          "Zero-alcohol policy for guests under 21"
+        ],
+        "included": [
+          "Licensed, insured chauffeur",
+          "One written schedule for the day",
+          "Complimentary stops on an hourly charter",
+          "Complimentary bottled water",
+          "Vehicle detailed between trips"
+        ],
+        "itinerary": [
+          "2:30 p.m. salon or home pickup",
+          "3:30 p.m. church or Mass arrival",
+          "5:00 p.m. formal photo stop",
+          "6:30 p.m. reception grand entrance",
+          "End-of-night returns within the reserved hours"
+        ],
+        "good_to_know": [],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": "Quinceañera Party Bus & Limo Rentals",
+        "meta_keywords": [
+          "quinceanera transportation scottsdale",
+          "quinceanera party bus phoenix",
+          "quinceanera limo scottsdale",
+          "party bus rental scottsdale"
+        ],
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "26081699-1ca4-4285-b049-e94b5c97d83d",
+        "slug": "concert-stadium",
+        "title": "Concert & Stadium Events",
+        "subtitle": "One Plan for the Event and Return",
+        "description": "Plan group transportation to State Farm Stadium, Chase Field, Mortgage Matchup Center, Desert Diamond Arena, or another confirmed venue around its current drop-off rules and a scheduled return.",
+        "seo_description": "Plan group transportation to State Farm Stadium, Chase Field, Mortgage Matchup Center, Desert Diamond Arena, or another confirmed venue around its current drop-off rules and a scheduled return.",
+        "category": "concert",
+        "duration_hours": 5,
+        "passenger_capacity": 56,
+        "price": 0,
+        "image_url": "/media/exp-concert-stadium_58a78529.jpg",
+        "gallery": [],
+        "rating": 0,
+        "review_count": 0,
+        "badge": null,
+        "highlights": [
+          "Pickup and drop-off plan",
+          "Venue access reviewed before service",
+          "Pre-event stop if lawful and approved",
+          "Post-event pickup",
+          "Venue-specific access review",
+          "Group coordination"
+        ],
+        "included": [],
+        "itinerary": [
+          "Pickup time set from the confirmed event schedule",
+          "Optional pre-event stop within the service window",
+          "Drop-off at an approved venue access point",
+          "Staging plan subject to venue and traffic controls",
+          "Post-event pickup at the confirmed meeting point",
+          "Scheduled return to the confirmed address"
+        ],
+        "good_to_know": [
+          {
+            "answer": "The written schedule identifies a meeting point after current venue access and traffic controls are reviewed. Post-event timing can change with crowds, closures, and law-enforcement direction.",
+            "question": "How does post-event pickup work?"
+          },
+          {
+            "answer": "Requests can include State Farm Stadium, Chase Field, Mortgage Matchup Center, Desert Diamond Arena, and other Arizona venues. Service is confirmed only after current access rules, timing, and vehicle availability are reviewed.",
+            "question": "Which venues do you serve?"
+          },
+          {
+            "answer": "Pre-event use depends on the selected vehicle, venue rules, local law, and the written service terms. Cooler space, audio, staging, and alcohol policy must be confirmed for the exact vehicle.",
+            "question": "Can we tailgate from the Sprinter?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "36ec3806-cdb1-46ea-887a-05418c130f44",
+        "slug": "homecoming-transportation",
+        "title": "Homecoming Transportation",
+        "subtitle": "Group Pickup, Photos & Homecoming Return",
+        "description": "Coordinate staggered home pickups, a photo or dinner stop, the dance arrival and the final return with one written schedule and a designated guardian contact.",
+        "seo_description": "Coordinate staggered home pickups, a photo or dinner stop, the dance arrival and the final return with one written schedule and a designated guardian contact.",
+        "category": "homecoming",
+        "duration_hours": 5,
+        "passenger_capacity": 28,
+        "price": 0,
+        "image_url": "/media/fleet/party-bus-28-scottsdale/hero.jpg",
+        "gallery": [],
+        "rating": 0,
+        "review_count": 0,
+        "badge": null,
+        "highlights": [
+          "Staggered home pickups or one staging address",
+          "Photo or dinner stop before the dance",
+          "Guardian contact on the reservation",
+          "House rule: any passenger under 21 makes the trip alcohol-free for everyone",
+          "Dance arrival timed to the start",
+          "After-homecoming pickup if booked"
+        ],
+        "included": [],
+        "itinerary": [
+          "Staggered home pickups or one staging address",
+          "Optional dinner or photo stop",
+          "Arrival at the homecoming dance",
+          "Dance-time service window",
+          "After-homecoming pickup if booked",
+          "Scheduled return to confirmed addresses"
+        ],
+        "good_to_know": [
+          {
+            "answer": "Yes. If even one passenger is under 21, the trip is alcohol-free for the whole group, adults included. That is our house rule. Tell reservations the passenger ages and the guardian contact when you arrange the written schedule, and the condition is recorded before pickup.",
+            "question": "Is the trip alcohol-free if anyone in the group is under 21?"
+          },
+          {
+            "answer": "A guardian contact and a pickup/drop-off update plan can be arranged and documented before service.",
+            "question": "Can parents track the vehicle?"
+          },
+          {
+            "answer": "Add any dinner, photo or after-homecoming stop and the guardian contact to the reservation; the written schedule confirms every address and time.",
+            "question": "Can we add a dinner stop or an after-homecoming pickup?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "ba454a2b-9694-41ee-a0e5-ef0f43869197",
+        "slug": "bachelor-party",
+        "title": "Bachelor Party",
+        "subtitle": "Golf, Dinner & Old Town Transportation",
+        "description": "Connect golf, dinner, and nightlife with one vehicle and one return plan. Choose the cabin style and route around the group’s confirmed reservations.",
+        "seo_description": "Connect golf, dinner, and nightlife with one vehicle and one return plan. Choose the cabin style and route around the group’s confirmed reservations.",
+        "category": "bachelor",
+        "duration_hours": 5,
+        "passenger_capacity": 28,
+        "price": 0,
+        "image_url": "/media/exp-bachelor-party_a3f006d7.jpg",
+        "gallery": [],
+        "rating": 0,
+        "review_count": 0,
+        "badge": null,
+        "highlights": [
+          "Audio system confirmed by vehicle",
+          "Beverage policy confirmed by vehicle",
+          "Scottsdale nightlife circuit",
+          "Golf course transfers",
+          "Sports bar crawl option",
+          "Late-night food stop if timing allows"
+        ],
+        "included": [],
+        "itinerary": [
+          "Pickup at the confirmed hotel or house",
+          "Onboard music and beverage plan confirmed by vehicle",
+          "Golf, activity, or first confirmed venue",
+          "Dinner and additional confirmed stops",
+          "Late-night food stop if timing allows",
+          "Scheduled return to the confirmed address"
+        ],
+        "good_to_know": [
+          {
+            "answer": "A day-to-night route can be requested. Share each confirmed venue and the intended return time so the team can review the schedule and confirm the service window in writing.",
+            "question": "Can we do a day-into-night bachelor party?"
+          },
+          {
+            "answer": "Add the confirmed course, tee time, passenger count, club-bag count, and next stop to the request. The team will review vehicle fit and route timing before confirming the pickup in writing.",
+            "question": "Do you do golf course pickups?"
+          },
+          {
+            "answer": "Yes. Share the confirmed reservations and preferred stops, and we’ll organize a practical pickup sequence around venue access, traffic, and the return window.",
+            "question": "What if we want to go to multiple bars?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "f66cb8a0-2117-41e3-967f-d3b7929a0df4",
+        "slug": "birthday-celebration",
+        "title": "Birthday Celebration",
+        "subtitle": "Dinner, Activities & Group Return",
+        "description": "Plan a birthday ride around the guest list, dinner, activities, and one scheduled return. Cabin style ranges from quiet executive seating to party lighting for larger celebrations.",
+        "seo_description": "Plan a birthday ride around the guest list, dinner, activities, and one scheduled return. Cabin style ranges from quiet executive seating to party lighting for larger celebrations.",
+        "category": "birthday",
+        "duration_hours": 5,
+        "passenger_capacity": 28,
+        "price": 0,
+        "image_url": "/media/exp-birthday-celebration_b9fb751f.jpg",
+        "gallery": [],
+        "rating": 0,
+        "review_count": 0,
+        "badge": null,
+        "highlights": [
+          "Birthday lighting request reviewed by vehicle",
+          "Beverage policy confirmed in writing",
+          "Restaurant transfers",
+          "Bar/club hopping",
+          "Photo stops within the confirmed route",
+          "Surprise timing reviewed in advance"
+        ],
+        "included": [],
+        "itinerary": [
+          "Pickup at the confirmed home or venue",
+          "Optional onboard toast if lawful and approved",
+          "Transfer to the confirmed dinner reservation",
+          "Post-dinner stops within the approved route",
+          "Optional surprise stop reviewed in advance",
+          "Scheduled return to the confirmed address"
+        ],
+        "good_to_know": [
+          {
+            "answer": "Submit the proposed reveal time, location, organizer contact, and any decoration request. The team will review the plan and list accepted details in the written confirmation.",
+            "question": "Can you help coordinate a surprise?"
+          },
+          {
+            "answer": "Trip requests can be submitted for age-appropriate celebrations. Passenger, guardian, and alcohol requirements are reviewed for the selected vehicle and confirmed in writing.",
+            "question": "What ages do you serve?"
+          },
+          {
+            "answer": "A dinner-to-nightlife route can be requested. Book venues directly, then share the confirmed stops and return time so transportation timing can be reviewed.",
+            "question": "Can we do dinner AND nightlife?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "192ed8f9-c943-47d0-ad9d-2ab0a0b23c9d",
+        "slug": "wedding-transportation",
+        "title": "Wedding Transportation",
+        "subtitle": "Hotel Pickups, Guest Shuttles & Final Departure",
+        "description": "Coordinate hotel pickups, wedding-party movement, guest shuttles, photo stops, and the final departure from one clear transportation schedule.",
+        "seo_description": "Coordinate hotel pickups, wedding-party movement, guest shuttles, photo stops, and the final departure from one clear transportation schedule.",
+        "category": "wedding",
+        "duration_hours": 8,
+        "passenger_capacity": 29,
+        "price": 0,
+        "image_url": "/media/exp-wedding-transportation_83bfe15c.jpg",
+        "gallery": [],
+        "rating": 0,
+        "review_count": 0,
+        "badge": null,
+        "highlights": [
+          "Bridal party shuttle",
+          "Ceremony to reception transfer",
+          "Grand exit vehicle",
+          "Guest shuttles",
+          "Photo session transport",
+          "Coordination with planner"
+        ],
+        "included": [],
+        "itinerary": [
+          "Bridal party pickup (hotel to venue)",
+          "Separate vehicle request for another passenger group",
+          "Ceremony arrival at the approved loading point",
+          "Confirmed photo-location transfer",
+          "Ceremony-to-reception movement",
+          "Guest shuttle movements if requested and confirmed",
+          "Final departure vehicle if included in writing"
+        ],
+        "good_to_know": [
+          {
+            "answer": "Request the passenger groups, pickup points, and schedule for each movement. Vehicle assignments, the operating contact, and timing are confirmed in writing after availability is reviewed.",
+            "question": "Can you handle multiple vehicles for a wedding?"
+          },
+          {
+            "answer": "Add the planner or day-of contact to the request. The team will review pickup points, routes, and timing with that contact, then confirm the accepted schedule in writing.",
+            "question": "Do you work with wedding planners?"
+          },
+          {
+            "answer": "The Executive White Sprinter can be requested for a wedding. Availability, cabin details, and any presentation requirements are confirmed in writing for the exact vehicle.",
+            "question": "What about the white Sprinter for weddings?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      },
+      {
+        "id": "aba17f50-4e05-45fd-bde3-fe8d77b989cd",
+        "slug": "wm-phoenix-open",
+        "title": "WM Phoenix Open",
+        "subtitle": "Tournament Transportation, Planned End to End",
+        "description": "Plan group transportation to the WM Phoenix Open at TPC Scottsdale around confirmed tickets, large crowds, pickup access, and a scheduled return.",
+        "seo_description": "Plan group transportation to the WM Phoenix Open at TPC Scottsdale around confirmed tickets, large crowds, pickup access, and a scheduled return.",
+        "category": "wm",
+        "duration_hours": 7,
+        "passenger_capacity": 35,
+        "price": 0,
+        "image_url": "/media/exp-wm-phoenix-open_f87f5a38.jpg",
+        "gallery": [],
+        "rating": 0,
+        "review_count": 0,
+        "badge": null,
+        "highlights": [
+          "TPC Scottsdale access point reviewed",
+          "One group pickup and return plan",
+          "Ticketed entrance and hospitality timing reviewed",
+          "Corporate hospitality transport",
+          "Post-tournament nightlife",
+          "Multi-day transportation requests"
+        ],
+        "included": [],
+        "itinerary": [
+          "Morning/early afternoon pickup",
+          "Drop-off at the approved event access point",
+          "Staging plan subject to tournament rules",
+          "Mid-event vehicle access only if confirmed in writing",
+          "Post-tournament pickup",
+          "Optional: dinner/nightlife in Old Town",
+          "Scheduled return to the confirmed address"
+        ],
+        "good_to_know": [
+          {
+            "answer": "Event dates and session schedules change each year. Confirm the current tournament calendar and your ticketed day before submitting the transportation schedule.",
+            "question": "When is the WM Phoenix Open?"
+          },
+          {
+            "answer": "The tournament combines golf with large hospitality and spectator areas. The official spectator page provides the current parking and transportation guidance; confirm the ticketed entrance, event access, and pickup plan before submitting the route.",
+            "question": "Is this just a golf tournament?"
+          },
+          {
+            "answer": "Corporate groups can request one or more vehicles. Share the ticketed entrance, passenger groups, contacts, and timing so assignments and presentation requirements can be reviewed and confirmed in writing.",
+            "question": "Do you offer corporate packages?"
+          }
+        ],
+        "reviews": [],
+        "is_active": true,
+        "meta_title": null,
+        "meta_keywords": null,
+        "og_title": null,
+        "og_description": null,
+        "og_image": null
+      }
+    ],
+    "tours": [
+      {
+        "id": "17b5e80a-3847-47b9-a65d-422d431e5d40",
+        "slug": "sedona-red-rocks",
+        "title": "Sedona Red Rocks",
+        "subtitle": "Build a Red Rock Day Around Confirmed Stops",
+        "description": "Plan chauffeured transportation from Scottsdale to Sedona around confirmed viewpoints, dining, tasting reservations, current access, and a realistic return window.",
+        "seo_description": "Plan chauffeured transportation from Scottsdale to Sedona around confirmed viewpoints, dining, tasting reservations, current access, and a realistic return window.",
+        "duration": "10-12 hours",
+        "hours": 12,
+        "best_season": "Year-round; check current weather, roads, and site access",
+        "highlights": [
+          "Cathedral Rock viewpoint",
+          "Bell Rock trailhead",
+          "Chapel of the Holy Cross",
+          "Tlaquepaque Arts Village",
+          "Optional wine tasting",
+          "Scenic Oak Creek Canyon drive"
+        ],
+        "itinerary": [
+          "Pickup from Scottsdale/Phoenix",
+          "Drive through scenic Verde Valley",
+          "Cathedral Rock photo stop",
+          "Bell Rock & Courthouse Butte",
+          "Chapel of the Holy Cross visit",
+          "Lunch at a confirmed Sedona reservation",
+          "Tlaquepaque stop if included in the route",
+          "Optional confirmed Verde Valley tasting",
+          "Return route selected for current road conditions"
+        ],
+        "recommended_vehicles": [
+          "premium-suv-scottsdale",
+          "maybach-jet-sprinter-scottsdale",
+          "executive-sprinter-scottsdale",
+          "executive-white-sprinter-scottsdale",
+          "executive-mini-bus-26-scottsdale",
+          "executive-luxury-bus-29-scottsdale"
+        ],
+        "faqs": [
+          {
+            "answer": "Drive time depends on the pickup point, traffic, weather, road conditions, and confirmed stops. The route and service window are reviewed before written confirmation.",
+            "question": "How far is Sedona from Scottsdale?"
+          },
+          {
+            "answer": "Winery stops can be added after guests book tasting reservations directly. Send the confirmed venues and times for route review; tasting fees remain payable to each venue unless the written quote expressly says otherwise.",
+            "question": "Can we stop at wineries?"
+          },
+          {
+            "answer": "Wear comfortable walking shoes and bring layers. Sedona is at a higher elevation than Phoenix, so check the current forecast for every planned stop before departure.",
+            "question": "What should we wear?"
+          },
+          {
+            "answer": "Not always. Some popular trailheads use public park-and-ride shuttles, so private chauffeur service does not guarantee direct curbside trailhead access. Decide whether each stop is a drive-up viewpoint or a hike, then allow time for any required public-shuttle transfer.",
+            "question": "Can the chauffeur drive directly to every Sedona trailhead?"
+          }
+        ],
+        "image_url": "/media/tour-sedona-red-rocks_634a24c3.jpg",
+        "gallery": [],
+        "commercial_access_review_required": false,
+        "is_active": true,
+        "sort_order": 0
+      },
+      {
+        "id": "61b69fcb-4ea5-4852-826a-1d200417ee0a",
+        "slug": "grand-canyon-south-rim",
+        "title": "Grand Canyon South Rim",
+        "subtitle": "South Rim Viewpoints and Village",
+        "description": "Plan chauffeured transportation to the Grand Canyon South Rim around confirmed viewpoints and current park access. Commercial-access review is required before a quote, payment step, or route acceptance.",
+        "seo_description": "Plan chauffeured transportation to the Grand Canyon South Rim around confirmed viewpoints and current park access. Commercial-access review is required before a quote, payment step, or route acceptance.",
+        "duration": "12-14 hours",
+        "hours": 14,
+        "best_season": "Year-round; check current South Rim weather and road conditions",
+        "highlights": [
+          "Commercial access reviewed before quote or payment",
+          "Mather Point visit subject to current access",
+          "South Rim viewpoints selected around current shuttle access",
+          "Desert View Watchtower",
+          "Grand Canyon Village",
+          "Optional helicopter tour",
+          "Navajo trading posts"
+        ],
+        "itinerary": [
+          "Commercial-access review before route acceptance",
+          "Early morning pickup",
+          "Drive through Flagstaff or direct I-17 route",
+          "Arrive at South Rim entrance",
+          "Mather Point panoramic views",
+          "Selected Rim Trail segment using current park guidance",
+          "NPS shuttle transfer where private vehicle access is restricted",
+          "Lunch at a confirmed South Rim venue",
+          "Desert View stops if roads and timing permit",
+          "Desert View Watchtower if included in the confirmed route",
+          "Return to Scottsdale"
+        ],
+        "recommended_vehicles": [
+          "premium-suv-scottsdale",
+          "maybach-jet-sprinter-scottsdale",
+          "executive-sprinter-scottsdale",
+          "executive-white-sprinter-scottsdale",
+          "executive-luxury-bus-29-scottsdale",
+          "executive-mini-bus-26-scottsdale"
+        ],
+        "faqs": [
+          {
+            "answer": "This is a long transportation day. Drive time depends on the pickup point, traffic, weather, road conditions, and confirmed stops, so the service window is reviewed before confirmation.",
+            "question": "How far is the Grand Canyon from Scottsdale?"
+          },
+          {
+            "answer": "Accessibility varies by viewpoint, trail segment, weather, and current park conditions. Review the National Park Service accessibility guidance and identify any mobility needs before the route is confirmed.",
+            "question": "Is the Grand Canyon accessible for all ages?"
+          },
+          {
+            "answer": "Guests must reserve and pay the helicopter operator directly. Send the confirmed operator, location, check-in time, and flight time so transportation timing can be reviewed; it is included only if the written quote expressly says so.",
+            "question": "Can we add a helicopter tour?"
+          },
+          {
+            "answer": "No. Some South Rim roads and viewpoints require a National Park Service shuttle transfer. The chauffeur can bring the group to an approved parking or transfer point, and the confirmed schedule must allow time for any required shuttle and walking segment.",
+            "question": "Can the chauffeur drive directly to every South Rim viewpoint?"
+          },
+          {
+            "answer": "No payment step should be expected until operations reviews the proposed commercial service against current National Park Service authorization requirements or a documented exception. Submitting the website form is only an availability and access-review request; it does not approve park entry or confirm transportation.",
+            "question": "Can I pay online immediately for Grand Canyon transportation?"
+          }
+        ],
+        "image_url": "/media/tour-grand-canyon-south-rim_33ed0971.jpg",
+        "gallery": [],
+        "commercial_access_review_required": true,
+        "is_active": true,
+        "sort_order": 1
+      },
+      {
+        "id": "9dae3c16-c4ff-45e0-8e9c-15da9b378fcb",
+        "slug": "verde-valley-wine-country",
+        "title": "Verde Valley Wine Country",
+        "subtitle": "A Verde Valley Tasting Route",
+        "description": "Plan chauffeured transportation around two or three confirmed Verde Valley tasting reservations, enough time at each stop, and a scheduled return to Scottsdale.",
+        "seo_description": "Plan chauffeured transportation around two or three confirmed Verde Valley tasting reservations, enough time at each stop, and a scheduled return to Scottsdale.",
+        "duration": "7-8 hours",
+        "hours": 8,
+        "best_season": "Year-round; confirm current tasting-room schedules and reservations",
+        "highlights": [
+          "2-3 reserved tasting stops",
+          "Page Springs Cellars",
+          "Alcantara Vineyards",
+          "Jerome tasting rooms",
+          "Scenic Verde Valley views",
+          "Lunch stop chosen by the group"
+        ],
+        "itinerary": [
+          "Late morning pickup",
+          "Drive to the first confirmed Verde Valley tasting",
+          "First reserved tasting stop",
+          "Second reserved tasting stop",
+          "Lunch at a confirmed venue",
+          "Optional additional Cottonwood or Jerome stop if timing permits",
+          "Return to Scottsdale"
+        ],
+        "recommended_vehicles": [
+          "premium-suv-scottsdale",
+          "maybach-jet-sprinter-scottsdale",
+          "executive-sprinter-scottsdale",
+          "executive-white-sprinter-scottsdale",
+          "limo-sprinter-13-scottsdale",
+          "limo-sprinter-16-scottsdale",
+          "executive-mini-bus-26-scottsdale",
+          "executive-luxury-bus-29-scottsdale"
+        ],
+        "faqs": [
+          {
+            "answer": "The primary Verde Valley Wine Trail advises calling wineries to confirm operating hours and making reservations when necessary. Request two or three confirmed stops, then send their exact addresses and appointment times; fees remain payable to each venue.",
+            "question": "How many wineries can we visit?"
+          },
+          {
+            "answer": "No guide is included. This page plans chauffeured transportation; guests book tasting appointments and any venue guide directly unless the written quote expressly includes one.",
+            "question": "Is this a guided tour?"
+          },
+          {
+            "answer": "Wine purchases and shipping are handled directly with each winery. Tell the team how many cases you expect before selecting a vehicle so cargo capacity can be reviewed and confirmed in writing.",
+            "question": "Can we buy wine to bring home?"
+          }
+        ],
+        "image_url": "/media/tour-verde-valley-wine-country_36bd5bd1.jpg",
+        "gallery": [],
+        "commercial_access_review_required": false,
+        "is_active": true,
+        "sort_order": 2
+      },
+      {
+        "id": "13bfd427-dddb-4b3f-9910-8887274b5a11",
+        "slug": "antelope-canyon-horseshoe-bend",
+        "title": "Antelope Canyon & Horseshoe Bend",
+        "subtitle": "Plan Page Around a Confirmed Canyon Tour",
+        "description": "Plan chauffeured transportation to Page around a confirmed Navajo-led Antelope Canyon tour, Horseshoe Bend access, meal timing, and the long return to Scottsdale.",
+        "seo_description": "Plan chauffeured transportation to Page around a confirmed Navajo-led Antelope Canyon tour, Horseshoe Bend access, meal timing, and the long return to Scottsdale.",
+        "duration": "14-16 hours",
+        "hours": 16,
+        "best_season": "Year-round; confirm tour availability, weather, and access directly",
+        "highlights": [
+          "Upper or Lower Antelope Canyon",
+          "Horseshoe Bend overlook",
+          "Lake Powell views",
+          "Glen Canyon Dam",
+          "Navajo Nation guided tour",
+          "Photography subject to operator rules"
+        ],
+        "itinerary": [
+          "Pickup timed to the confirmed tour check-in",
+          "Drive to the confirmed Page check-in location",
+          "Antelope Canyon guided tour (Navajo-led)",
+          "Lunch in Page",
+          "Horseshoe Bend visit using current official access guidance",
+          "Glen Canyon Dam viewpoint if timing allows",
+          "Return to Scottsdale"
+        ],
+        "recommended_vehicles": [
+          "maybach-jet-sprinter-scottsdale",
+          "executive-sprinter-scottsdale",
+          "executive-white-sprinter-scottsdale",
+          "executive-mini-bus-26-scottsdale",
+          "executive-luxury-bus-29-scottsdale",
+          "premium-suv-scottsdale"
+        ],
+        "faqs": [
+          {
+            "answer": "Yes. Guests must reserve and pay an authorized Navajo tour operator directly. The chauffeur does not enter Antelope Canyon; transportation ends at the operator's confirmed check-in location. Send that location and time for route review.",
+            "question": "Do we need to book Antelope Canyon separately?"
+          },
+          {
+            "answer": "Review the current official trail, weather, and accessibility guidance before the date. Bring water and plan the check-in and return window around current conditions. Horseshoe Bend parking is operated by the City of Page, and its separate parking fee is not covered by National Park Service passes.",
+            "question": "How difficult is the Horseshoe Bend hike?"
+          },
+          {
+            "answer": "This is a long transportation day, so review the total drive time, required tour check-in, walking conditions, and return window before booking. The final schedule is confirmed in writing.",
+            "question": "Is this trip worth the long drive?"
+          }
+        ],
+        "image_url": "/media/tour-antelope-canyon-horseshoe-bend_47eb32b0.jpg",
+        "gallery": [],
+        "commercial_access_review_required": false,
+        "is_active": true,
+        "sort_order": 3
+      },
+      {
+        "id": "98310d50-e6e5-4f70-83c1-ea1ba9e0ddba",
+        "slug": "flagstaff-snow-day",
+        "title": "Flagstaff Snow Day",
+        "subtitle": "A Flagstaff Day Planned for Current Conditions",
+        "description": "Plan chauffeured transportation to Flagstaff around current weather, AZ511 road conditions, confirmed activity times, equipment needs, and a flexible return window.",
+        "seo_description": "Plan chauffeured transportation to Flagstaff around current weather, AZ511 road conditions, confirmed activity times, equipment needs, and a flexible return window.",
+        "duration": "10-12 hours",
+        "hours": 12,
+        "best_season": "Seasonal; confirm current snow, road, and activity conditions",
+        "highlights": [
+          "Arizona Snowbowl",
+          "Downtown Flagstaff",
+          "Historic Route 66",
+          "Pine forest scenery",
+          "Mountain dining",
+          "Snow activities"
+        ],
+        "itinerary": [
+          "Morning pickup",
+          "Drive to Flagstaff using the route approved for current conditions",
+          "Confirmed Snowbowl or Flagstaff activity if currently operating",
+          "Lunch in downtown Flagstaff",
+          "Historic Route 66 walk",
+          "Optional: Lowell Observatory visit",
+          "Return to Scottsdale"
+        ],
+        "recommended_vehicles": [
+          "premium-suv-scottsdale",
+          "executive-sprinter-scottsdale",
+          "executive-white-sprinter-scottsdale",
+          "executive-mini-bus-26-scottsdale",
+          "executive-luxury-bus-29-scottsdale"
+        ],
+        "faqs": [
+          {
+            "answer": "No. Snow and mountain conditions vary by date. Check Arizona Snowbowl's current operating report before departure, and treat any snow activity as optional until conditions and tickets are confirmed.",
+            "question": "Is there guaranteed snow?"
+          },
+          {
+            "answer": "Check Arizona Snowbowl's current equipment, ticket, and operating policies directly. Guests arrange and pay rentals or lift access themselves unless the written quote expressly includes a listed item.",
+            "question": "Do we need ski equipment?"
+          },
+          {
+            "answer": "Arizona Department of Transportation advises winter travelers to prepare for snow, ice, and freezing conditions and check AZ511 for current road and weather conditions. Bring appropriate layers and treat every activity as conditional until access and operating status are confirmed.",
+            "question": "What road and weather information should we check?"
+          }
+        ],
+        "image_url": "/media/tour-flagstaff-snow-day_8eba8925.jpg",
+        "gallery": [],
+        "commercial_access_review_required": false,
+        "is_active": true,
+        "sort_order": 4
+      },
+      {
+        "id": "b5041031-64e3-4732-890d-ed8d8e5a5ecc",
+        "slug": "lake-pleasant",
+        "title": "Lake Pleasant",
+        "subtitle": "A Lake Day Built Around a Confirmed Activity",
+        "description": "Plan chauffeured transportation to Lake Pleasant around a confirmed marina or park access point, activity check-in, group gear, and return time.",
+        "seo_description": "Plan chauffeured transportation to Lake Pleasant around a confirmed marina or park access point, activity check-in, group gear, and return time.",
+        "duration": "6-8 hours",
+        "hours": 8,
+        "best_season": "Year-round; water activities and marina schedules vary seasonally",
+        "highlights": [
+          "Lake Pleasant Regional Park",
+          "Third-party boat rental",
+          "Jet ski options",
+          "Lakeside picnic areas",
+          "Desert mountain views",
+          "Sunset over the lake"
+        ],
+        "itinerary": [
+          "Late morning pickup",
+          "Drive to the confirmed Lake Pleasant access point",
+          "Arrive at marina/beach area",
+          "Third-party water activities reserved by the group",
+          "Lakeside lunch/BBQ",
+          "Sunset viewing",
+          "Return to Scottsdale"
+        ],
+        "recommended_vehicles": [
+          "premium-suv-scottsdale",
+          "executive-sprinter-scottsdale",
+          "limo-sprinter-16-scottsdale",
+          "limo-sprinter-13-scottsdale",
+          "ultra-luxury-party-sprinter-scottsdale",
+          "party-bus-28-scottsdale",
+          "xl-party-bus-35-scottsdale"
+        ],
+        "faqs": [
+          {
+            "answer": "Guests must reserve and pay the marina or rental operator directly. Send the confirmed operator, check-in point, and time for transportation review; no boat or watercraft is included unless the written quote expressly says so.",
+            "question": "Can you coordinate boat rentals?"
+          },
+          {
+            "answer": "Check the selected marina's current dining and outside-food policies directly. Cooler and cargo fit depends on the assigned vehicle, passenger count, and other gear and must be confirmed in writing.",
+            "question": "Is there food at the lake?"
+          },
+          {
+            "answer": "Confirm the exact marina, shoreline, or park access point before requesting transportation. Maricopa County Parks publishes current park and shoreline access information because access can change with conditions and visitor levels.",
+            "question": "Which Lake Pleasant access point should we use?"
+          }
+        ],
+        "image_url": "/media/tour-lake-pleasant_c4c4c702.jpg",
+        "gallery": [],
+        "commercial_access_review_required": false,
+        "is_active": true,
+        "sort_order": 5
+      },
+      {
+        "id": "65a23403-d7ad-4b85-9a9d-b4c356b95d3e",
+        "slug": "jerome-prescott",
+        "title": "Jerome Ghost Town & Prescott",
+        "subtitle": "Jerome Stops, Prescott Access & Return",
+        "description": "Plan chauffeured transportation between Jerome and Prescott around confirmed attractions, downtown access, current roads, meal timing, and a practical return window.",
+        "seo_description": "Plan chauffeured transportation between Jerome and Prescott around confirmed attractions, downtown access, current roads, meal timing, and a practical return window.",
+        "duration": "8-10 hours",
+        "hours": 10,
+        "best_season": "Year-round; check current weather, roads, attraction hours, and access",
+        "highlights": [
+          "Jerome ghost town",
+          "Jerome State Historic Park",
+          "Prescott Courthouse Square",
+          "Whiskey Row saloons",
+          "Art galleries",
+          "Mountain views"
+        ],
+        "itinerary": [
+          "Morning pickup",
+          "Drive to the first confirmed Jerome stop",
+          "Jerome State Historic Park museum",
+          "Art galleries and shops",
+          "Lunch at a confirmed Jerome venue",
+          "Continue to Prescott if included in the approved route",
+          "Courthouse Square exploration",
+          "Whiskey Row historic saloons",
+          "Return to Scottsdale"
+        ],
+        "recommended_vehicles": [
+          "premium-suv-scottsdale",
+          "maybach-jet-sprinter-scottsdale",
+          "executive-sprinter-scottsdale",
+          "executive-white-sprinter-scottsdale",
+          "executive-mini-bus-26-scottsdale",
+          "executive-luxury-bus-29-scottsdale"
+        ],
+        "faqs": [
+          {
+            "answer": "Jerome promotes ghost stories and historic-building experiences through local museums, tours, and businesses. Check current official visitor information and book any tour directly before adding its address and check-in time to the transportation request.",
+            "question": "Is Jerome really haunted?"
+          },
+          {
+            "answer": "Whiskey Row is a historic Prescott district near Courthouse Plaza. Check current visitor information, venue hours, age policies, and any reservations directly before adding a stop to the route.",
+            "question": "What's Whiskey Row?"
+          },
+          {
+            "answer": "Mountain access depends on current weather, closures, and vehicle restrictions. The team reviews the requested route and current road information before written confirmation.",
+            "question": "Are the roads to Jerome safe?"
+          },
+          {
+            "answer": "Choose the exact Jerome attraction, Prescott endpoint, and desired time at each stop before requesting transportation. Arizona State Parks publishes current Jerome State Historic Park details, the City of Prescott publishes downtown parking information, and current road conditions should be rechecked before the trip. A specific curb, parking space, or attraction entry is not guaranteed by the transportation request.",
+            "question": "How should we plan the Jerome and Prescott stops?"
+          }
+        ],
+        "image_url": "/media/tour-jerome-prescott_e949608a.jpg",
+        "gallery": [],
+        "commercial_access_review_required": false,
+        "is_active": true,
+        "sort_order": 6
+      },
+      {
+        "id": "040859d8-c387-42d1-a452-fe9db354bc40",
+        "slug": "tombstone-bisbee",
+        "title": "Tombstone & Bisbee",
+        "subtitle": "Confirmed Attraction Times & Return Window",
+        "description": "Plan chauffeured transportation to Tombstone and Bisbee around confirmed attraction times, the transfer between towns, meal timing, and a realistic return window.",
+        "seo_description": "Plan chauffeured transportation to Tombstone and Bisbee around confirmed attraction times, the transfer between towns, meal timing, and a realistic return window.",
+        "duration": "10-12 hours",
+        "hours": 12,
+        "best_season": "Year-round; plan around current heat, weather, road conditions, and attraction hours",
+        "highlights": [
+          "OK Corral gunfight show",
+          "Tombstone historic district",
+          "Bisbee Copper Queen Mine tour",
+          "Bisbee art galleries",
+          "Boot Hill Graveyard",
+          "Historic saloons"
+        ],
+        "itinerary": [
+          "Early morning pickup",
+          "Drive to the first confirmed Tombstone stop",
+          "OK Corral gunfight reenactment",
+          "Boot Hill Graveyard",
+          "Allen Street exploration",
+          "Lunch at Big Nose Kate's Saloon",
+          "Continue to Bisbee if it fits the confirmed service window",
+          "Copper Queen Mine tour",
+          "Bisbee art district walk",
+          "Return to Scottsdale"
+        ],
+        "recommended_vehicles": [
+          "maybach-jet-sprinter-scottsdale",
+          "executive-sprinter-scottsdale",
+          "executive-white-sprinter-scottsdale",
+          "executive-mini-bus-26-scottsdale",
+          "executive-luxury-bus-29-scottsdale",
+          "premium-suv-scottsdale"
+        ],
+        "faqs": [
+          {
+            "answer": "This is a long southern-Arizona route. Final timing depends on the exact pickup, confirmed Tombstone and Bisbee stops, road conditions, breaks, and the return plan.",
+            "question": "How far is Tombstone from Scottsdale?"
+          },
+          {
+            "answer": "The mine operator controls tour format, availability, check-in, age and accessibility rules, and conditions. Reserve directly with the operator, then send the confirmed check-in location and time for route review.",
+            "question": "What's the Copper Queen Mine tour?"
+          },
+          {
+            "answer": "Review each attraction's current age, accessibility, and safety policies directly before booking. Add the confirmed stops and times to the transportation request.",
+            "question": "Is this family-friendly?"
+          },
+          {
+            "answer": "No attraction admission or tour is included unless the written quote lists it. Use the City of Tombstone and City of Bisbee visitor resources to choose current stops, reserve any timed experience directly, and send the confirmed address and check-in time for transportation review.",
+            "question": "Are Tombstone or Bisbee attractions included?"
+          }
+        ],
+        "image_url": "/media/tour-tombstone-bisbee_9ce9c5d6.jpg",
+        "gallery": [],
+        "commercial_access_review_required": false,
+        "is_active": true,
+        "sort_order": 7
+      },
+      {
+        "id": "8fafcce0-87e1-47ae-917b-290291f90017",
+        "slug": "saguaro-desert-sunset",
+        "title": "Sonoran Desert Sunset",
+        "subtitle": "Weather, Daylight & Mobility Planning",
+        "description": "Plan a chauffeured Scottsdale-area desert afternoon around current preserve hours, heat, daylight, the group's mobility, and a return before trailhead closing.",
+        "seo_description": "Plan a chauffeured Scottsdale-area desert afternoon around current preserve hours, heat, daylight, the group's mobility, and a return before trailhead closing.",
+        "duration": "4-5 hours",
+        "hours": 5,
+        "best_season": "Year-round; plan around current heat, weather, daylight, and access",
+        "highlights": [
+          "McDowell Sonoran Preserve",
+          "Scenic Scottsdale desert route",
+          "Desert wildlife",
+          "Golden hour photography",
+          "Arizona sunset",
+          "Current preserve access checked"
+        ],
+        "itinerary": [
+          "Afternoon pickup timed to current sunset and access",
+          "Drive to a Scottsdale-area preserve trailhead",
+          "Short walk or accessible scenic stop",
+          "Golden-hour desert route",
+          "Seasonal sunset viewpoint",
+          "Exit the preserve before the current trailhead closing time",
+          "Return to Scottsdale"
+        ],
+        "recommended_vehicles": [
+          "premium-suv-scottsdale",
+          "maybach-jet-sprinter-scottsdale",
+          "executive-sprinter-scottsdale",
+          "executive-white-sprinter-scottsdale"
+        ],
+        "faqs": [
+          {
+            "answer": "Choose a walk or drive-focused stop using current official access guidance, weather, daylight, and the group's mobility. Send the selected location for transportation review.",
+            "question": "How long are the walks?"
+          },
+          {
+            "answer": "Sunset time changes by date. The McDowell Sonoran Preserve is open from sunrise to sunset, and individual trailhead gate times change during the year. Check the City of Scottsdale's current hours, then submit an arrival and return window that allows the group to exit before closing.",
+            "question": "When is the best time for sunset?"
+          },
+          {
+            "answer": "Wildlife sightings are never guaranteed. Check current preserve guidance, keep a safe distance from animals, and plan the stop around weather and daylight.",
+            "question": "Will we see wildlife?"
+          }
+        ],
+        "image_url": "/media/tour-saguaro-desert-sunset_3c4c196a.jpg",
+        "gallery": [],
+        "commercial_access_review_required": false,
+        "is_active": true,
+        "sort_order": 8
+      },
+      {
+        "id": "7f5e7f2d-9632-4437-9e4a-abbd0f2c3f09",
+        "slug": "lake-powell-overnight",
+        "title": "Lake Powell & Page Overnight",
+        "subtitle": "Two-Day Page & Lake Powell Transportation",
+        "description": "Plan two days of chauffeured transportation in Page around confirmed lodging, required Navajo tour times, Lake Powell access, group gear, and the return schedule.",
+        "seo_description": "Plan two days of chauffeured transportation in Page around confirmed lodging, required Navajo tour times, Lake Powell access, group gear, and the return schedule.",
+        "duration": "2 Days",
+        "hours": 24,
+        "best_season": "Year-round; confirm current activity schedules, weather, and access",
+        "highlights": [
+          "Antelope Canyon",
+          "Horseshoe Bend",
+          "Optional third-party Lake Powell activity",
+          "Wahweap Marina",
+          "Overnight in Page",
+          "Glen Canyon Dam",
+          "Navajo Nation"
+        ],
+        "itinerary": [
+          "Day 1: Drive to Page and visit confirmed stops within the service window",
+          "Overnight at lodging booked directly by the group",
+          "Day 2: Confirmed Antelope Canyon tour and optional Lake Powell activity before the return"
+        ],
+        "recommended_vehicles": [
+          "premium-suv-scottsdale",
+          "maybach-jet-sprinter-scottsdale",
+          "executive-sprinter-scottsdale",
+          "executive-white-sprinter-scottsdale",
+          "executive-mini-bus-26-scottsdale",
+          "executive-luxury-bus-29-scottsdale"
+        ],
+        "faqs": [
+          {
+            "answer": "The written quote identifies the transportation dates, service windows, and assigned vehicle. Guests book and pay hotels, meals, Navajo tours, boats, admissions, and activities directly unless that quote expressly includes a listed item.",
+            "question": "What's included in the 2-day price?"
+          },
+          {
+            "answer": "Choose and book lodging directly based on current availability, policies, and budget. Send the confirmed hotel and check-in time so it can be added to the transportation schedule.",
+            "question": "Where do we stay overnight?"
+          },
+          {
+            "answer": "Submit confirmed activities and check-in times for review. Any boat, kayak, slot-canyon, or Navajo tour must be booked and paid directly unless the written quote expressly includes it.",
+            "question": "Can we customize the itinerary?"
+          },
+          {
+            "answer": "The National Park Service identifies multiple Glen Canyon access points, and lake levels and current conditions can affect access and operations. Confirm the exact Page, Wahweap, or Antelope Point endpoint and review current conditions before submitting the route.",
+            "question": "Which Lake Powell access point should we use?"
+          }
+        ],
+        "image_url": "/media/tour-lake-powell-overnight_49369849.jpg",
+        "gallery": [],
+        "commercial_access_review_required": false,
+        "is_active": true,
+        "sort_order": 9
+      },
+      {
+        "id": "637ddacd-3810-4cc7-a636-22344b24b31b",
+        "slug": "sedona-grand-canyon-combo",
+        "title": "Sedona + Grand Canyon Combo",
+        "subtitle": "Two Days Across Sedona and the South Rim",
+        "description": "Plan two days of chauffeured transportation between Sedona and the South Rim around confirmed lodging, selected stops, current park access, and the return to Scottsdale.",
+        "seo_description": "Plan two days of chauffeured transportation between Sedona and the South Rim around confirmed lodging, selected stops, current park access, and the return to Scottsdale.",
+        "duration": "2 Days",
+        "hours": 24,
+        "best_season": "Year-round; check current park access, roads, weather, and lodging",
+        "highlights": [
+          "Sedona red rocks",
+          "Grand Canyon South Rim",
+          "Oak Creek Canyon",
+          "Flagstaff",
+          "Overnight stay",
+          "Multiple viewpoints"
+        ],
+        "itinerary": [
+          "Day 1: Drive to confirmed Sedona stops; coordinate any trailhead, chapel, or wine-country check-in around current access; overnight at lodging booked directly by the group",
+          "Day 2: Drive from confirmed lodging to the South Rim entrance and viewpoints allowed by current access and parking; return to Scottsdale"
+        ],
+        "recommended_vehicles": [
+          "premium-suv-scottsdale",
+          "executive-sprinter-scottsdale",
+          "executive-white-sprinter-scottsdale",
+          "maybach-jet-sprinter-scottsdale",
+          "executive-mini-bus-26-scottsdale",
+          "executive-luxury-bus-29-scottsdale"
+        ],
+        "faqs": [
+          {
+            "answer": "A two-day sequence can reduce backtracking compared with separate Scottsdale departures, but the actual route and drive time depend on lodging, park access, stops, traffic, weather, and road conditions.",
+            "question": "Is this better than doing them separately?"
+          },
+          {
+            "answer": "Choose and book a Sedona or Flagstaff hotel directly based on current availability, policies, and budget. Send the confirmed property and check-in time for transportation review.",
+            "question": "Where do we stay?"
+          },
+          {
+            "answer": "Total drive time depends on the pickup address, lodging, selected park entrances and viewpoints, traffic, weather, road conditions, breaks, and closures. Submit confirmed lodging and stops so a realistic two-day service window can be reviewed before booking.",
+            "question": "What's the total driving time?"
+          },
+          {
+            "answer": "No. Trailhead, shuttle, parking, road, and commercial-access rules vary by place and date. Check current Visit Sedona, National Park Service, and AZ511 guidance, then submit the desired stops for route and vehicle-access review before written confirmation.",
+            "question": "Can the vehicle enter every Sedona trailhead and Grand Canyon viewpoint?"
+          }
+        ],
+        "image_url": "/media/tour-sedona-grand-canyon-combo_8e0522b1.jpg",
+        "gallery": [],
+        "commercial_access_review_required": false,
+        "is_active": true,
+        "sort_order": 10
+      },
+      {
+        "id": "b0bc71ab-f32e-429f-9698-0247d49c13a2",
+        "slug": "superstition-mountains",
+        "title": "Superstition Mountains & Apache Trail",
+        "subtitle": "Current Apache Trail & Park Access",
+        "description": "Plan chauffeured transportation in the Superstition Mountains around current Apache Trail conditions, approved route segments, park access, and the selected vehicle.",
+        "seo_description": "Plan chauffeured transportation in the Superstition Mountains around current Apache Trail conditions, approved route segments, park access, and the selected vehicle.",
+        "duration": "6-7 hours",
+        "hours": 7,
+        "best_season": "Year-round; use current heat, weather, road, and park guidance",
+        "highlights": [
+          "Lost Dutchman State Park",
+          "Tortilla Flat stop subject to current access",
+          "Canyon Lake",
+          "Apache Trail scenic drive",
+          "Goldfield Ghost Town",
+          "Desert mountain views"
+        ],
+        "itinerary": [
+          "Morning pickup",
+          "Goldfield Ghost Town (optional mine tour)",
+          "Lost Dutchman State Park vehicle entry if included in the confirmed route",
+          "Apache Trail segments approved for current road conditions and the selected vehicle",
+          "Tortilla Flat lunch & saloon",
+          "Canyon Lake viewpoint",
+          "Return to Scottsdale"
+        ],
+        "recommended_vehicles": [
+          "premium-suv-scottsdale",
+          "maybach-jet-sprinter-scottsdale",
+          "executive-sprinter-scottsdale",
+          "executive-white-sprinter-scottsdale",
+          "executive-mini-bus-26-scottsdale",
+          "executive-luxury-bus-29-scottsdale"
+        ],
+        "faqs": [
+          {
+            "answer": "The Lost Dutchman story is part of the Superstition Mountains' regional folklore. Use current state-park or museum interpretation for its history, then add any confirmed visitor-center or museum stop to the transportation request.",
+            "question": "What is the Lost Dutchman legend?"
+          },
+          {
+            "answer": "Not entirely. Arizona Department of Transportation identifies an unpaved portion of State Route 88, and conditions or closures can change. Submit the desired stops so the team can review which segments are suitable for the selected vehicle; this page does not promise a continuous paved loop.",
+            "question": "Is the Apache Trail paved?"
+          },
+          {
+            "answer": "Guests choose any hike using current park guidance, weather, closures, and their own abilities. Send the confirmed trailhead and timing for transportation review; no hiking guide is included unless stated expressly in writing.",
+            "question": "How difficult are the hikes?"
+          }
+        ],
+        "image_url": "/media/tour-superstition-mountains_9a747de2.jpg",
+        "gallery": [],
+        "commercial_access_review_required": false,
+        "is_active": true,
+        "sort_order": 11
+      },
+      {
+        "id": "fa0431f3-a2c5-4a61-82d8-27f627493a38",
+        "slug": "kartchner-caverns",
+        "title": "Kartchner Caverns",
+        "subtitle": "Cave-Tour Check-In & Transportation",
+        "description": "Plan chauffeured transportation to Kartchner Caverns around a confirmed cave-tour check-in, current park guidance, meal timing, and the return to Scottsdale.",
+        "seo_description": "Plan chauffeured transportation to Kartchner Caverns around a confirmed cave-tour check-in, current park guidance, meal timing, and the return to Scottsdale.",
+        "duration": "8-9 hours",
+        "hours": 9,
+        "best_season": "Year-round; confirm cave tickets and current park conditions directly",
+        "highlights": [
+          "Kartchner Caverns State Park",
+          "Confirmed cave tour selected by the group",
+          "Living cave formations",
+          "Hummingbird garden",
+          "Benson historic town",
+          "Desert scenery"
+        ],
+        "itinerary": [
+          "Morning pickup",
+          "Drive to Kartchner Caverns for the confirmed check-in time",
+          "Confirmed cave tour at the reserved check-in time",
+          "Discovery Center exhibits",
+          "Hummingbird garden walk",
+          "Lunch in Benson",
+          "Optional: Amerind Museum",
+          "Return to Scottsdale"
+        ],
+        "recommended_vehicles": [
+          "maybach-jet-sprinter-scottsdale",
+          "executive-sprinter-scottsdale",
+          "executive-white-sprinter-scottsdale",
+          "premium-suv-scottsdale",
+          "executive-mini-bus-26-scottsdale",
+          "executive-luxury-bus-29-scottsdale"
+        ],
+        "faqs": [
+          {
+            "answer": "Yes. Guests must reserve and pay Arizona State Parks directly, then send the exact tour and confirmed check-in time for transportation review. The Big Room is seasonally closed from May through October, so availability must be checked with the park rather than assumed.",
+            "question": "Do we need to book cave tours in advance?"
+          },
+          {
+            "answer": "Tour length, walking conditions, lighting, accessibility, age rules, and health considerations are controlled by Arizona State Parks and can vary by tour. Review the current official guidance and contact the park with accessibility or health questions before reserving.",
+            "question": "Is the cave tour strenuous?"
+          },
+          {
+            "answer": "Arizona State Parks describes Kartchner as a living cave protected through specific visitor rules. Review the park's current cave history and conservation guidance directly; transportation does not include park admission or interpretation.",
+            "question": "Why is this cave special?"
+          }
+        ],
+        "image_url": "/media/tour-kartchner-caverns_95e89cb5.jpg",
+        "gallery": [],
+        "commercial_access_review_required": false,
+        "is_active": true,
+        "sort_order": 12
+      },
+      {
+        "id": "dc0fb6b7-5b13-4dc7-af8f-50dbbbf165f2",
+        "slug": "renaissance-festival",
+        "title": "Arizona Renaissance Festival",
+        "subtitle": "Seasonal Festival Transportation",
+        "description": "Plan chauffeured transportation to the Arizona Renaissance Festival around its current calendar, entry and parking rules, pickup location, and scheduled return.",
+        "seo_description": "Plan chauffeured transportation to the Arizona Renaissance Festival around its current calendar, entry and parking rules, pickup location, and scheduled return.",
+        "duration": "6-8 hours",
+        "hours": 8,
+        "best_season": "Seasonal; check the festival's current official calendar and gate hours",
+        "highlights": [
+          "Current festival calendar and gate hours",
+          "Published performers and entertainment",
+          "Food and beverage options",
+          "Current parking and entry rules",
+          "Costume and prop policies checked directly",
+          "Artisan marketplace if operating"
+        ],
+        "itinerary": [
+          "Late morning pickup",
+          "Drive to the current festival access point",
+          "Festival visit within the confirmed service window",
+          "Ticketed entertainment selected by the group",
+          "Artisan marketplace if operating",
+          "Dining purchased directly at the festival",
+          "Return to Scottsdale"
+        ],
+        "recommended_vehicles": [
+          "premium-suv-scottsdale",
+          "executive-sprinter-scottsdale",
+          "executive-white-sprinter-scottsdale",
+          "limo-sprinter-16-scottsdale",
+          "limo-sprinter-13-scottsdale",
+          "party-bus-28-scottsdale",
+          "xl-party-bus-35-scottsdale",
+          "executive-mini-bus-26-scottsdale",
+          "executive-luxury-bus-29-scottsdale"
+        ],
+        "faqs": [
+          {
+            "answer": "The festival's official visitor FAQ controls the current calendar, directions, ticket, bag, parking, re-entry, and accessibility policies. Review those details and purchase admission directly before submitting transportation times.",
+            "question": "When is the Renaissance Festival?"
+          },
+          {
+            "answer": "Costumes are optional, but guests should check the festival's current costume, prop, and entry policies directly before the event.",
+            "question": "Should we wear costumes?"
+          },
+          {
+            "answer": "Food and alcohol availability is controlled by the festival and current law. Check the current vendor and admission policies directly; purchases are not included in transportation.",
+            "question": "Is alcohol available?"
+          }
+        ],
+        "image_url": "/media/tour-renaissance-festival_88094a0e.jpg",
+        "gallery": [],
+        "commercial_access_review_required": false,
+        "is_active": true,
+        "sort_order": 13
+      },
+      {
+        "id": "446fa9e1-6107-48df-906f-acf6adec122b",
+        "slug": "montezuma-castle",
+        "title": "Montezuma Castle & Montezuma Well",
+        "subtitle": "Monument Access & Confirmed Stops",
+        "description": "Plan chauffeured transportation to Montezuma Castle and Montezuma Well around current monument access, selected stops, walking needs, meal timing, and the return.",
+        "seo_description": "Plan chauffeured transportation to Montezuma Castle and Montezuma Well around current monument access, selected stops, walking needs, meal timing, and the return.",
+        "duration": "6-7 hours",
+        "hours": 7,
+        "best_season": "Year-round; check current monument hours, weather, trails, and access",
+        "highlights": [
+          "Montezuma Castle National Monument",
+          "Montezuma Well",
+          "Monument history and archaeology",
+          "Montezuma Well landscape",
+          "Verde Valley scenery",
+          "Optional: Tuzigoot ruins"
+        ],
+        "itinerary": [
+          "Morning pickup",
+          "Drive to the confirmed Camp Verde-area stop",
+          "Montezuma Castle visitor center & viewing",
+          "Paved 0.3-mile viewing trail to the base of the cliff dwelling",
+          "Continue to Montezuma Well if current access and timing permit",
+          "Well rim trail & ancient irrigation canals",
+          "Lunch in Camp Verde or Cottonwood",
+          "Optional: Tuzigoot National Monument",
+          "Return to Scottsdale"
+        ],
+        "recommended_vehicles": [
+          "premium-suv-scottsdale",
+          "maybach-jet-sprinter-scottsdale",
+          "executive-sprinter-scottsdale",
+          "executive-white-sprinter-scottsdale",
+          "executive-mini-bus-26-scottsdale",
+          "executive-luxury-bus-29-scottsdale"
+        ],
+        "faqs": [
+          {
+            "answer": "No. The National Park Service directs visitors along a paved, wheelchair-accessible 0.3-mile trail to view the cliff dwelling from its base; visitors do not enter the dwelling. Check current monument access before the visit.",
+            "question": "Can we go inside the cliff dwelling?"
+          },
+          {
+            "answer": "Use the National Park Service's current monument information for the site's geology, history, trails, and access. The transportation request should include only the stops and timing the group has confirmed.",
+            "question": "What is Montezuma Well?"
+          },
+          {
+            "answer": "Review the monument's current family, trail, accessibility, and Junior Ranger information directly, then choose stops that fit the group.",
+            "question": "Is this good for kids?"
+          }
+        ],
+        "image_url": "/media/tour-montezuma-castle_c08b243f.jpg",
+        "gallery": [],
+        "commercial_access_review_required": false,
+        "is_active": true,
+        "sort_order": 14
+      }
+    ]
+  }
+}
