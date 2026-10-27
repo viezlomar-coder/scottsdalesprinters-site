@@ -2,7 +2,7 @@
 
 > Every public fact about Scottsdale Sprinters in one document: the fleet with seated capacities and hourly rates, the services, experiences and day tours we sell, how pricing works, the policies, the house rules, the FAQ and how to reach a person. Generated at build from the same data as https://scottsdalesprinters.com/sitemap.xml.
 
-Generated: 2026-10-26. Canonical site: https://scottsdalesprinters.com. Indexable pages: 266.
+Generated: 2026-10-27. Canonical site: https://scottsdalesprinters.com. Indexable pages: 266.
 
 ## The business
 
@@ -34,7 +34,7 @@ Generated: 2026-10-26. Canonical site: https://scottsdalesprinters.com. Indexabl
 
 - Scottsdale Sprinters books every vehicle by the hour at a published hourly rate ($125–$325) with a published minimum number of hours. There is no per-seat pricing.
 - How the rest settles depends on how you pay: on a card, a 50% deposit holds the date and your written confirmation sets out the balance and its timing; paying in full at checkout leaves nothing else due before your ride; a payment link from the reservations desk opens that same checkout.
-- Arizona sales tax of 8% is added at checkout. There is no booking fee, no service charge and no fuel surcharge. Gratuity is optional.
+- On a regular day, Arizona sales tax of 8% is added at checkout. There is no booking fee, no service charge and no fuel surcharge. Gratuity is optional on a regular day. Corporate and event bookings carry 15% gratuity. Major events and peak dates use event pricing.
 - Published rates and minimums per vehicle: https://scottsdalesprinters.com/pricing
 - Cost per person at full load, with tax, for every vehicle: https://scottsdalesprinters.com/guides/how-much-does-a-party-bus-cost-scottsdale
 
@@ -406,7 +406,14 @@ By booking transportation with Scottsdale Sprinters you agree to these terms. If
 Chauffeured ground transportation: airport transfers, corporate travel, weddings and celebrations, day trips and private charters, in the vehicles listed on the fleet page. Bottled water is on board for every ride and it is the only complimentary amenity; anything else is an add-on you choose at checkout.
 
 #### 3. Pricing
-Every price we quote is before tax. Arizona sales tax of 8% is added at checkout. There is no service charge and no booking fee, and gratuity is optional and never added for you. Every date is quoted from the published table, including the major-event dates named in the cancellation policy; what varies by date is availability. Rates and minimums for each vehicle are on the pricing page.
+Listed rates are standard rates for regular days. On a regular day, Arizona sales tax of 8% is added at checkout. There is no booking fee and no service charge. Gratuity on a regular day is optional and is never added for you. On a corporate booking or an event booking, gratuity is 15%. Major events and peak dates use event pricing, in the next section. Rates and minimums for each vehicle are on the pricing page.
+
+#### Event pricing
+Listed rates on the site are standard rates for regular days. Major events and peak dates use event pricing. Examples include WM Phoenix Open week, Valentine's Day, New Year's Eve, Super Bowl weekend, and major holidays.
+Event dates can carry higher hourly rates, full-day minimums, and per-transfer minimums. A vehicle booked for an event day is held for the whole day.
+On a regular day, Arizona sales tax of 8% is added to the listed rate. There is no booking fee and no service charge. Gratuity on a regular day is optional and is never added for you. On a corporate booking or an event booking, gratuity is 15%.
+On a long-distance trip with an overnight, chauffeur travel is quoted separately. That covers lodging, or a private room at the client's rental, plus a daily per diem.
+Major-event bookings also follow the event terms.
 
 #### 4. Deposits and balance
 How the rest settles depends on how you pay: on a card, a 50% deposit holds the date and your written confirmation sets out the balance and its timing; paying in full at checkout leaves nothing else due before your ride; a payment link from the reservations desk opens that same checkout. Where a balance is charged to a card, a card that declines may cost you the reservation, so tell us in advance if it needs to be replaced.
@@ -482,10 +489,12 @@ Any booking of 20 or more passengers, two or more vehicles, or a wedding.
 Between 14 and 30 days: we keep the deposit and refund the rest.
 Inside 14 days, or a no-show: no refund.
 
-#### Major-event dates — a 60-day window
-These dates run on a longer window, and the deposit on them is non-refundable:
-60 or more days out: we refund the balance and keep the deposit.
-Inside 60 days, or a no-show: no refund.
+#### Event cancellation, a 60-day window
+These terms apply to major-event bookings only.
+On a major-event booking, the deposit is non-refundable.
+60 or more days before the event: the balance is refunded in full and we keep the deposit.
+Inside 60 days, or a no-show: nothing is refunded.
+If we ever cancel on our side, you get 100% back.
 The dates: Barrett-Jackson Scottsdale, WM Phoenix Open, Cactus League spring training weekend, New Year's Eve, Prom weekend. Prom weekends are Fridays and Saturdays in April and May; spring-training weekends are Saturdays and Sundays through the Cactus League season. Super Bowl week joins the list for any year the game is played in the Valley.
 Most Scottsdale operators make these dates non-refundable the moment you book. We don’t.
 
@@ -551,7 +560,7 @@ Monthly invoicing with PO and cost-center fields is available — ask reservatio
 ### Pricing and minimums
 
 #### How is pricing determined?
-Scottsdale Sprinters prices charters by the hour: the vehicle's published hourly rate multiplied by your billable hours, from $125 to $325 an hour across the fleet. There is no per-mile charge, no service fee and no booking fee. Arizona sales tax of 8% is added at checkout, and gratuity is optional.
+On a regular day, Scottsdale Sprinters prices charters by the hour: the vehicle's published hourly rate multiplied by your billable hours, from $125 to $325 an hour across the fleet. There is no per-mile charge, no service fee and no booking fee. On a regular day, Arizona sales tax of 8% is added at checkout. Gratuity on a regular day is optional and is never added for you. On a corporate booking or an event booking, gratuity is 15%. Major events and peak dates use event pricing.
 
 #### Is there a minimum number of hours?
 Yes: every Scottsdale Sprinters vehicle has a 4-hour minimum on an hourly charter, except the 56-passenger motorcoach, which has a 5-hour minimum. Airport and point-to-point transfers are priced as a trip instead, with no hourly minimum: flat within 15 road miles from pickup to drop-off, and beyond that priced from the drive, with the empty return included and the basis shown on the quote.
@@ -563,7 +572,7 @@ Yes: Scottsdale Sprinters bookings of 7 hours or more earn free hours that come 
 It depends on how you pay, and you choose that at checkout. How the rest settles depends on how you pay: on a card, a 50% deposit holds the date and your written confirmation sets out the balance and its timing; paying in full at checkout leaves nothing else due before your ride; a payment link from the reservations desk opens that same checkout.
 
 #### What is added at checkout?
-Arizona sales tax of 8% is the only thing Scottsdale Sprinters adds to the quoted fare. There is no service charge, fuel surcharge or booking fee. One promo code can be applied per booking, capped at 10%.
+On a regular day, Arizona sales tax of 8% is added to the quoted fare. There is no service charge, fuel surcharge or booking fee. Gratuity on a regular day is optional and is never added for you. On a corporate booking or an event booking, gratuity is 15%. Major events and peak dates use event pricing. One promo code can be applied per booking, capped at 10%.
 
 #### Do extra stops cost anything?
 Only on a transfer or round trip, where each added stop is $50. On an hourly charter stops are complimentary — you have already bought the time.
@@ -572,10 +581,13 @@ Only on a transfer or round trip, where each added stop is $50. On an hourly cha
 Yes: book the return leg together with the outbound leg and Scottsdale Sprinters takes 20% off the return.
 
 #### Is gratuity included?
-Gratuity is optional, is never added automatically, and goes 100% to your chauffeur — add it at checkout or hand it over in person.
+Gratuity is optional on a regular day, is never added automatically, and goes 100% to your chauffeur: add it at checkout or hand it over in person. On a corporate booking or an event booking, gratuity is 15%.
 
 #### Do your rates change with the season?
-Scottsdale Sprinters quotes normal dates from one published hourly rate table; for the major-event dates named in the cancellation policy, availability and pricing are confirmed in writing for your date. The pricing page shows the current rates and vehicle minimums. Arizona sales tax of 8% is added at checkout. Availability varies by date and by vehicle. Same-day bookings are welcome with no cutoff, subject to availability. Request a current quote for your date and we confirm in writing what is open.
+On a regular day, Scottsdale Sprinters quotes from one published hourly rate table. Major events and peak dates use event pricing, and the quote for your date confirms the rate in writing. The pricing page shows the current standard rates and vehicle minimums. On a regular day, Arizona sales tax of 8% is added at checkout. Availability varies by date and by vehicle. Same-day bookings are welcome with no cutoff, subject to availability. Request a current quote for your date and we confirm in writing what is open.
+
+#### How does pricing work on major events and peak dates?
+Listed rates on the site are standard rates for regular days. Major events and peak dates use event pricing. Examples include WM Phoenix Open week, Valentine's Day, New Year's Eve, Super Bowl weekend, and major holidays. Event dates can carry higher hourly rates, full-day minimums, and per-transfer minimums. A vehicle booked for an event day is held for the whole day. On a regular day, Arizona sales tax of 8% is added to the listed rate. There is no booking fee and no service charge. Gratuity on a regular day is optional and is never added for you. On a corporate booking or an event booking, gratuity is 15%. On a long-distance trip with an overnight, chauffeur travel is quoted separately. That covers lodging, or a private room at the client's rental, plus a daily per diem. The policies page sets out the event terms.
 
 ### Cancellations and refunds
 
