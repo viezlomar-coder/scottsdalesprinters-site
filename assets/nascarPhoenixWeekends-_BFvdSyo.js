@@ -1,0 +1,1 @@
+import{l as t}from"./scheduleProse-BYtHRLDu.js";const a={october2026:{date:"2026-10-16",endDate:"2026-10-18"},spring2027:{date:"2027-03-12",endDate:"2027-03-14"},fall2027:{date:"2027-10-22",endDate:"2027-10-24"}};function n(e){return t(a.october2026,e)?t(a.spring2027,e)?t(a.fall2027,e)?"all-past":"fall-2027-next":"spring-2027-next":"october-2026-ahead"}export{n};

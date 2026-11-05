@@ -1,0 +1,1 @@
+import{R as n}from"./pricing-wamygKtF.js";const a=15e4,r=45e3,o=45e3,e=5e3,R=n;function S(E,t){if(E!=="transfer")return 0;const s=Number.isFinite(t)?Math.trunc(t):0;return Math.max(0,s)*e}function T(E){return`$${Math.round(E/100).toLocaleString("en-US")}`}export{o as B,r as E,R,a as S,e as a,T as f,S as s};
