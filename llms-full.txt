@@ -121,7 +121,7 @@ Generated: 2026-11-13. Canonical site: https://scottsdalesprinters.com. Indexabl
 - URL: https://scottsdalesprinters.com/fleet/pink-hummer-limo
 - Capacity and rate: seats 18, $295/hour, 4-hour minimum.
 - The bachelorette mobile. One of one. Best for Bachelorettes, girls’ birthdays, prom, nights out.
-- Airport transfers: no — it cannot do Phoenix Sky Harbor (PHX) pickups.
+- Airport transfers: no — it does no airport pickups at any airport.
 - Start a quote: https://scottsdalesprinters.com/fleet/pink-hummer-limo/book
 ### Chrysler Limo
 - URL: https://scottsdalesprinters.com/fleet/chrysler-limo-10
