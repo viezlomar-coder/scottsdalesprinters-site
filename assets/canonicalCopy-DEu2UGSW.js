@@ -1,0 +1,1 @@
+import"./fleetCanonical-BfT23W4T.js";import{T as r}from"./transferDistance-BwLGBx20.js";const t=`flat within ${r} road miles from pickup to drop-off; longer transfers are priced from the drive with the empty return included`,i=`priced as a trip, ${t}`;export{t as T,i as a};
