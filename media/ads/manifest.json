@@ -484,5 +484,49 @@
    "file": "site-l4-sq.jpg",
    "source": "events/grand-canyon/hero-rim-golden-1280.jpg"
   }
- ]
+ ],
+ "wide": {
+  "24384999555": [
+   "album-009-land.jpg",
+   "album-013-land.jpg",
+   "site-b18-land.jpg",
+   "site-b19-land.jpg"
+  ],
+  "24381124977": [
+   "album-054-land.jpg",
+   "album-063-land.jpg",
+   "album-072-land.jpg",
+   "album-012-land.jpg"
+  ],
+  "24381040035": [
+   "album-004-land.jpg",
+   "album-035-land.jpg",
+   "site-e9-land.jpg"
+  ],
+  "24414286288": [
+   "album-049-land.jpg",
+   "album-051-land.jpg",
+   "album-054-land.jpg",
+   "album-012-land.jpg"
+  ],
+  "24458241552": [
+   "album-049-land.jpg",
+   "album-007-land.jpg",
+   "album-012-land.jpg",
+   "album-051-land.jpg"
+  ],
+  "24426317929": [
+   "album-014-land.jpg",
+   "album-044-land.jpg",
+   "site-d1-land.jpg",
+   "site-d2-land.jpg"
+  ],
+  "24458242929": [
+   "album-051-land.jpg",
+   "album-012-land.jpg",
+   "site-k2-land.jpg",
+   "site-l1-land.jpg",
+   "site-k6-land.jpg"
+  ]
+ }
 }
