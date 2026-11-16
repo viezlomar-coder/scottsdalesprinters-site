@@ -2,7 +2,7 @@
 
 > Every public fact about Scottsdale Sprinters in one document: the fleet with seated capacities and hourly rates, the services, experiences and day tours we sell, how pricing works, the policies, the house rules, the FAQ and how to reach a person. Generated at build from the same data as https://scottsdalesprinters.com/sitemap.xml.
 
-Generated: 2026-11-15. Canonical site: https://scottsdalesprinters.com. Indexable pages: 266.
+Generated: 2026-11-16. Canonical site: https://scottsdalesprinters.com. Indexable pages: 266.
 
 ## The business
 
@@ -200,9 +200,9 @@ Generated: 2026-11-15. Canonical site: https://scottsdalesprinters.com. Indexabl
 ### Bachelorette Party
 - URL: https://scottsdalesprinters.com/experiences/bachelorette-party
 - Keep the group together from the first pickup through dinner, pool plans, and Old Town. Choose a party-style cabin, add the stops that matter, and set one clear return plan before the night begins.
-### Brewery & Distillery Crawl
+### Brewery & Distillery Tasting Tour
 - URL: https://scottsdalesprinters.com/experiences/brewery-crawl
-- Choose two or three currently operating breweries or distilleries in one area, book any required reservations directly, and submit the confirmed stops for transportation review.
+- Ride with a professional chauffeur to two or three currently operating breweries or distilleries in one area. Book any required reservations and tastings directly with each venue, then send the confirmed stops for transportation review....
 ### Country Thunder Festival
 - URL: https://scottsdalesprinters.com/experiences/country-thunder
 - Plan group transportation to Country Thunder Arizona around the festival's published dates, current access rules, confirmed tickets, and a scheduled return.
