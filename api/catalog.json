@@ -1,6 +1,6 @@
 {
   "schema": "catalog-snapshot.1",
-  "capturedAt": "2026-11-19T22:31:35.339Z",
+  "capturedAt": "2026-11-19T23:24:32.700Z",
   "source": "supabase",
   "tables": {
     "vehicles": [
