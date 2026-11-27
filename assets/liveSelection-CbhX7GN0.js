@@ -1,0 +1,1 @@
+import{r as u}from"./index-DKs7thOa.js";let t=null;const n=new Set;function l(e){t=e,n.forEach(r=>r())}function o(){return t}function c(e){return n.add(e),()=>n.delete(e)}function s(){return u.useSyncExternalStore(c,o,()=>null)}export{l as p,s as u};
